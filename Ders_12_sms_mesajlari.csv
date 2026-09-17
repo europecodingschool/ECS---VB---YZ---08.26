@@ -1,0 +1,1501 @@
+mesaj_id,mesaj,etiket
+1,Hesabınıza 2.750 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+2,Kartınızdan 2.750 TL harcama yapılmıştır. Size,dolandiricilik
+3,Hesabınıza 640 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+4,"Toplantı notlarını mail attım, bakabilir misin? Detaylar için arayın.",normal
+5,Randevunuz pazartesi saat 16:45 olarak onaylanmıştır.,normal
+6,Faturanız 250 TL olarak kesilmiştir. Son ödeme pazar. Teşekkürler.,normal
+7,Kartınız ile yapılan 1.890 TL işlem onaylanmadı.,normal
+8,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+9,Kartınızdan 320 TL harcama yapılmıştır.,dolandiricilik
+10,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara.,normal
+11,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+12,Kartınızdan 2.750 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a599 Detaylar için arayın.,dolandiricilik
+13,Kartınızdan 5.000 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Teşekkürler.,normal
+14,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: guvenli-odeme.net/a626,dolandiricilik
+15,"Anneciğim cuma size uğrayacağız, bir şey lazım mı?",normal
+16,"Can ben, yeni numaram bu. Acil para lazım, IBAN atıyorum.",dolandiricilik
+17,E-devlet vergi iadeniz 89 TL hazır. Kart bilgilerinizi girerek alın: tinyurl.com/a649 Bilgilerinize.,dolandiricilik
+18,"Can yola çıktım, 09:30 gibi oradayım. Bilgilerinize.",normal
+19,"Tebrikler Merve, kazandın!",normal
+20,"Merhaba Ayşe, akşam yemeğe geliyor musun?",normal
+21,Randevunuz pazartesi saat,normal
+22,Randevunuz cuma saat 11:00 olarak onaylanmıştır.,normal
+23,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+24,Merhaba annecim telefonum bozuldu bu numaradan yazıyorum acil 89 TL lazım hemen gönder. Bilgilerinize.,dolandiricilik
+25,E-devlet vergi iadeniz 250 TL hazır. Kart bilgilerinizi girerek alın: hesap-dogrula.com/a610,dolandiricilik
+26,Siparişiniz kargo ile yola çıktı. Takip numaranız 926093.,normal
+27,Kartınızdan 2.750 TL harcama yapılmıştır. Size ait değilse iptal için: hesap-dogrula.com/a766 Bilgilerinize.,dolandiricilik
+28,Kartınızdan 1.200 TL harcama yapılmıştır.,dolandiricilik
+29,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. bit.ly/a710 Bilgilerinize.,dolandiricilik
+30,Kartınızdan 2.750 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a703 Detaylar için arayın.,dolandiricilik
+31,Randevunuz cuma saat 09:30,normal
+32,Hesabınıza 640 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+33,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: edevlet-iade.info/a890 İyi günler.,dolandiricilik
+34,"Tebrikler Elif, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+35,Acil dönüş yapar mısın,normal
+36,"Tebrikler Selin, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+37,Güvenliğiniz için hesabınıza erişim geçici,normal
+38,"Anneciğim pazar size uğrayacağız, bir şey lazım mı?",normal
+39,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara. Teşekkürler.,normal
+40,Randevunuz pazartesi saat,normal
+41,Merhaba annecim telefonum bozuldu bu numaradan yazıyorum acil 89 TL lazım hemen gönder. İyi günler.,dolandiricilik
+42,Randevunuz cuma saat 18:00 olarak onaylanmıştır.,normal
+43,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: bit.ly/a657 Bilgilerinize.,dolandiricilik
+44,"Elif yola çıktım, 11:00 gibi oradayım. Bilgilerinize.",normal
+45,Doğum günün kutlu olsun Mehmet!,normal
+46,Siparişiniz kargo ile yola çıktı. Takip numaranız 836476. Detaylar için arayın.,normal
+47,"Merhaba Deniz, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+48,Siparişiniz kurye ile yola çıktı. Takip numaranız 921323.,normal
+49,"Merhaba Can, akşam",normal
+50,Siparişiniz kargo ile yola,normal
+51,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz.",normal
+52,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+53,Doğum günün kutlu olsun Ayşe! Nice mutlu yıllara.,normal
+54,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin. Detaylar için arayın.",dolandiricilik
+55,Siparişiniz kurye ile yola çıktı. Takip numaranız 852619.,normal
+56,Tek kullanımlık şifreniz: 574095. Bu şifreyi kimseyle paylaşmayınız.,normal
+57,Kartınız ile yapılan 250 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+58,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 640 TL. Detaylar için arayın.,normal
+59,"Acil dönüş yapar mısın Can, toplantı saati değişti. Detaylar için arayın.",normal
+60,Tek kullanımlık şifreniz: 133375. Bu şifreyi kimseyle paylaşmayınız. Detaylar için arayın.,normal
+61,"Mehmet yola çıktım, 14:15 gibi oradayım.",normal
+62,Faturanız 480 TL,normal
+63,Acil dönüş yapar mısın,normal
+64,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+65,Kartınızdan 250 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+66,Otomatik ödeme talimatınız ile 2.750,normal
+67,Paketiniz bugün teslim edilecektir. İyi günler. Detaylar için arayın.,normal
+68,Kartınız ile yapılan 320 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+69,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz kargo-takip.xyz/a909",dolandiricilik
+70,Tek kullanımlık şifreniz: 839696. Bu şifreyi kimseyle paylaşmayınız.,normal
+71,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+72,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara.,normal
+73,"Burak toplantı 14:15 da başlıyor, geç kalma. İyi günler.",normal
+74,Kampanya: yarın yapacağınız alışverişlerde 640 TL puan kazanın. Detaylar mobil uygulamada. Bilgilerinize.,normal
+75,Tek kullanımlık şifreniz: 658760. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+76,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: guvenli-odeme.net/a713 Teşekkürler.,dolandiricilik
+77,"Merhaba Zeynep, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+78,Kampanya: bugün yapacağınız alışverişlerde 640 TL puan kazanın. Detaylar mobil uygulamada. Teşekkürler.,normal
+79,"Tebrikler Can, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+80,Zeynep toplantı 16:45,normal
+81,Kampanya: pazar yapacağınız alışverişlerde 1.200 TL puan kazanın. Detaylar mobil uygulamada. Bilgilerinize.,normal
+82,Paketiniz bugün teslim edilecektir. İyi günler.,normal
+83,Kampanya detayları için,normal
+84,Doğum günün kutlu olsun Zeynep! Nice mutlu yıllara.,normal
+85,"Merhaba Deniz, akşam yemeğe geliyor musun?",normal
+86,Siparişiniz kurye ile yola çıktı. Takip numaranız 993137.,normal
+87,Randevunuz pazartesi saat 11:00 olarak onaylanmıştır.,normal
+88,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cumartesi. Tutar: 1.200 TL.,normal
+89,Randevunuz yarın saat 20:30 olarak onaylanmıştır.,normal
+90,"Toplantı notlarını mail attım, bakabilir misin? Detaylar için arayın.",normal
+91,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Teşekkürler.,normal
+92,"Ayşe yola çıktım, 11:00 gibi oradayım. İyi günler.",normal
+93,"Merhaba Mehmet, akşam",normal
+94,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: hesap-dogrula.com/a815,dolandiricilik
+95,"Deniz toplantı 16:45 da başlıyor, geç kalma. Bilgilerinize.",normal
+96,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi bugün. Tutar: 480 TL. İyi günler.,normal
+97,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. İyi günler.",normal
+98,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+99,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cuma. Tutar: 1.200 TL. Bilgilerinize.,normal
+100,"Acil dönüş yapar mısın Merve, toplantı saati değişti. Detaylar için arayın.",normal
+101,Kartınızdan 1.200 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+102,"Eczanemizde reçeteniz hazırdır,",normal
+103,Kampanya: bugün yapacağınız alışverişlerde 480 TL puan kazanın. Detaylar mobil uygulamada. Bilgilerinize.,normal
+104,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret,normal
+105,Paketiniz cumartesi teslim,normal
+106,Kartınızdan 5.000 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. İyi günler.,normal
+107,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+108,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+109,Tek kullanımlık şifreniz: 688985. Bu şifreyi kimseyle paylaşmayınız. İyi günler.,normal
+110,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara. Detaylar için arayın.,normal
+111,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+112,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: hesap-dogrula.com/a790,dolandiricilik
+113,"Tebrikler Selin, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+114,Kampanya: yarın yapacağınız alışverişlerde 150 TL puan kazanın. Detaylar mobil uygulamada. Teşekkürler.,normal
+115,Siparişiniz kurye ile yola çıktı. Takip numaranız 466044. Bilgilerinize.,normal
+116,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+117,"Anneciğim yarın size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+118,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 2.750 TL. İyi günler.,normal
+119,"Merhaba Deniz, akşam yemeğe geliyor musun? Teşekkürler.",normal
+120,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. İyi günler.,normal
+121,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+122,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: tinyurl.com/a880 Bilgilerinize.,dolandiricilik
+123,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: tinyurl.com/a537,dolandiricilik
+124,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+125,Tek kullanımlık şifreniz: 890140.,normal
+126,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: bit.ly/a136 Teşekkürler.,dolandiricilik
+127,Kredi başvurunuz onaylandı. 480,dolandiricilik
+128,Doğum günün kutlu olsun Ayşe! Nice mutlu yıllara. Teşekkürler.,normal
+129,"Paketiniz gümrükte bekliyor, 24 TL ödeme yapmazsanız iade edilecek: guvenli-odeme.net/a571 İyi günler.",dolandiricilik
+130,"Anneciğim cumartesi size uğrayacağız, bir şey lazım mı?",normal
+131,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz kargo-takip.xyz/a606 İyi günler.",dolandiricilik
+132,Doğum günün kutlu olsun Ayşe! Nice mutlu yıllara. Detaylar için arayın.,normal
+133,"Toplantı notlarını mail attım, bakabilir misin? Detaylar için arayın.",normal
+134,"Deniz ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Detaylar için arayın.",dolandiricilik
+135,Otomatik ödeme talimatınız ile 2.750 TL fatura ödendi. İyi günler.,normal
+136,Kampanya: pazartesi yapacağınız alışverişlerde 640 TL puan kazanın. Detaylar mobil uygulamada. Bilgilerinize.,normal
+137,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+138,"Tebrikler Zeynep, kazandın!",normal
+139,Doğum günün kutlu olsun Burak! Nice mutlu yıllara.,normal
+140,Randevunuz bugün saat 18:00 olarak onaylanmıştır.,normal
+141,"Merve yola çıktım,",normal
+142,Randevunuz cumartesi saat 09:30 olarak onaylanmıştır.,normal
+143,Hesabınızdan şüpheli işlem tespit edildi. İptal,dolandiricilik
+144,Paketiniz pazar teslim edilecektir. İyi günler.,normal
+145,"Toplantı notlarını mail attım, bakabilir misin? Bilgilerinize.",normal
+146,"Elif ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Detaylar için arayın.",dolandiricilik
+147,Tek kullanımlık şifreniz: 239857. Bu şifreyi kimseyle paylaşmayınız. İyi günler.,normal
+148,Siparişiniz kargo ile yola çıktı. Takip numaranız 796987.,normal
+149,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 1.200 TL.,normal
+150,Tek kullanımlık şifreniz: 500947. Bu,normal
+151,"Burak ben, yeni numaram bu. Acil para lazım, IBAN atıyorum.",dolandiricilik
+152,Kartınızdan 1.890 TL harcama yapılmıştır. Size ait değilse iptal için: guvenli-odeme.net/a816 Bilgilerinize.,dolandiricilik
+153,"Anneciğim pazar size uğrayacağız, bir şey lazım mı?",normal
+154,Kartınızdan 1.200 TL harcama,dolandiricilik
+155,"Eczanemizde reçeteniz hazırdır, pazar teslim alabilirsiniz. Detaylar için arayın.",normal
+156,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin. Bilgilerinize.,dolandiricilik
+157,Kartınızdan 150 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+158,Faturanız 2.750 TL olarak kesilmiştir. Son ödeme pazartesi.,normal
+159,Hesabınıza 5.000 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Bilgilerinize.,normal
+160,Paketiniz yarın teslim,normal
+161,"Selin toplantı 18:00 da başlıyor, geç kalma.",normal
+162,"Can yola çıktım, 11:00 gibi oradayım.",normal
+163,"Toplantı notlarını mail attım, bakabilir misin? Detaylar için arayın.",normal
+164,"Kredi başvurunuz onaylandı. 5.000 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. Bilgilerinize.",dolandiricilik
+165,Kartınız ile yapılan 640 TL,normal
+166,"Emre toplantı 16:45 da başlıyor, geç kalma. Detaylar için arayın.",normal
+167,Tebrikler! 1.890 TL ödül kazandınız. Almak için tıklayın kargo-takip.xyz/a469 Detaylar için arayın.,dolandiricilik
+168,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+169,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+170,Randevunuz cuma saat,normal
+171,"Acil dönüş yapar mısın Selin, toplantı saati değişti. Bilgilerinize.",normal
+172,"Selin toplantı 16:45 da başlıyor, geç kalma. İyi günler.",normal
+173,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Bilgilerinize.,normal
+174,"Can yola çıktım, 20:30 gibi oradayım. İyi günler.",normal
+175,Faturanız 2.750 TL olarak kesilmiştir. Son ödeme yarın. İyi günler.,normal
+176,Faturanız 1.200 TL olarak kesilmiştir. Son ödeme pazartesi.,normal
+177,Faturanız 250 TL olarak kesilmiştir. Son ödeme bugün.,normal
+178,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Teşekkürler.,normal
+179,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+180,"Kredi başvurunuz onaylandı. 640 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. Teşekkürler.",dolandiricilik
+181,Paketiniz cuma teslim,normal
+182,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+183,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Detaylar için arayın.,normal
+184,Mehmet toplantı 14:15,normal
+185,"Müşteri temsilcimiz sizi arayacak, telefonunuza gelen şifreyi kendisine söyleyiniz.",dolandiricilik
+186,Toplantı notlarını mail,normal
+187,Doğum günün kutlu olsun Elif! Nice mutlu yıllara. Detaylar için arayın.,normal
+188,Randevunuz cuma saat 18:00 olarak onaylanmıştır. Teşekkürler.,normal
+189,Kartınız ile yapılan 89 TL işlem onaylanmadı.,normal
+190,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: guvenli-odeme.net/a693 Detaylar için arayın.,dolandiricilik
+191,Siparişiniz kurye ile yola çıktı. Takip numaranız 954363. Detaylar için arayın.,normal
+192,Doğum günün kutlu olsun Elif! Nice mutlu yıllara. İyi günler.,normal
+193,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a430 İyi günler.,dolandiricilik
+194,"Müşteri temsilcimiz sizi arayacak, telefonunuza gelen şifreyi kendisine söyleyiniz. Teşekkürler.",dolandiricilik
+195,Kartınızdan 640 TL harcama,normal
+196,Kargonuz dağıtıma çıktı.,normal
+197,"Deniz yola çıktım, 11:00 gibi oradayım. Detaylar için arayın.",normal
+198,Hesabınıza 250 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+199,Faturanız 2.750 TL olarak kesilmiştir. Son ödeme bugün. Teşekkürler.,normal
+200,Doğum günün kutlu olsun Selin! Nice mutlu yıllara.,normal
+201,"Tebrikler Elif, kazandın! Maç",normal
+202,Kartınız ile yapılan 1.200 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Teşekkürler.,normal
+203,Hesabınıza 640 TL maaş ödemesi yatırılmıştır.,normal
+204,Tek kullanımlık şifreniz: 127947. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+205,Kartınız ile yapılan 1.200 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+206,Anneciğim pazartesi size,normal
+207,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+208,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+209,Randevunuz pazartesi saat 20:30 olarak onaylanmıştır.,normal
+210,Kartınız ile yapılan 150 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+211,"Tebrikler Deniz, kazandın! Maç bileti bende, akşam konuşuruz. İyi günler.",normal
+212,Faturanız 250 TL olarak kesilmiştir. Son ödeme cuma. Bilgilerinize.,normal
+213,"Mehmet toplantı 11:00 da başlıyor, geç kalma. Detaylar için arayın.",normal
+214,Kartınızdan 250 TL harcama,dolandiricilik
+215,Kartınız ile yapılan 1.200 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+216,Randevunuz pazartesi saat 20:30 olarak onaylanmıştır. Bilgilerinize.,normal
+217,"Emre ben, yeni numaram bu. Acil para lazım, IBAN atıyorum.",dolandiricilik
+218,Tek kullanımlık şifreniz: 971631. Bu şifreyi kimseyle paylaşmayınız.,normal
+219,Kartınızdan 5.000 TL harcama yapılmıştır.,dolandiricilik
+220,Tek kullanımlık şifreniz: 137104. Bu şifreyi kimseyle paylaşmayınız. İyi günler.,normal
+221,Merhaba annecim telefonum bozuldu bu numaradan,dolandiricilik
+222,Kredi kartı hesap özetiniz hazırlandı. Son,normal
+223,Randevunuz yarın saat 20:30 olarak onaylanmıştır.,normal
+224,Faturanız 320 TL olarak kesilmiştir. Son ödeme cumartesi. İyi günler.,normal
+225,"Acil dönüş yapar mısın Selin, toplantı saati değişti. Bilgilerinize.",normal
+226,Paketiniz pazartesi teslim,normal
+227,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazar. Tutar: 320 TL. Detaylar için arayın.,normal
+228,Kartınızdan 640 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. İyi günler.,normal
+229,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: kargo-takip.xyz/a134,dolandiricilik
+230,"Sayın müşterimiz, güvenlik nedeniyle",dolandiricilik
+231,Randevunuz yarın saat 14:15 olarak onaylanmıştır. Bilgilerinize.,normal
+232,Tek kullanımlık şifreniz: 139544. Bu şifreyi kimseyle paylaşmayınız. Detaylar için arayın.,normal
+233,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+234,"Tebrikler, çekilişimizde hediye",normal
+235,Otomatik ödeme talimatınız ile 89 TL fatura ödendi. İyi günler.,normal
+236,"Merhaba Can, akşam yemeğe geliyor musun? İyi günler.",normal
+237,"Kredi başvurunuz onaylandı. 150 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. Detaylar için arayın.",dolandiricilik
+238,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin. Detaylar için arayın.,dolandiricilik
+239,Siparişiniz kargo ile yola,dolandiricilik
+240,Merhaba annecim telefonum bozuldu bu numaradan,dolandiricilik
+241,Kampanya: cumartesi yapacağınız alışverişlerde 150,normal
+242,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. İyi günler.,normal
+243,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+244,Otomatik ödeme talimatınız ile 89 TL fatura ödendi. Detaylar için arayın.,normal
+245,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+246,Tek kullanımlık şifreniz: 181521. Bu şifreyi kimseyle paylaşmayınız. İyi günler.,normal
+247,Kartınızdan 640 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a559,dolandiricilik
+248,Siparişiniz kargo ile yola çıktı. Takip numaranız 809467. Detaylar için arayın.,normal
+249,Doğum günün kutlu,normal
+250,Toplantı notlarını mail,normal
+251,"Merhaba Deniz, akşam yemeğe geliyor musun?",normal
+252,Kartınızdan 250 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+253,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz tinyurl.com/a560",dolandiricilik
+254,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Teşekkürler.,normal
+255,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Teşekkürler.",normal
+256,Hesabınıza 1.200 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Bilgilerinize.,normal
+257,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? Detaylar için arayın.",normal
+258,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? Teşekkürler.",normal
+259,Hesabınıza 2.750 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Teşekkürler.,normal
+260,Kampanya detayları için,normal
+261,Doğum günün kutlu,normal
+262,"Eczanemizde reçeteniz hazırdır, yarın teslim alabilirsiniz.",normal
+263,"Tebrikler Merve, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+264,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+265,Siparişiniz kurye ile yola çıktı. Teslimat,dolandiricilik
+266,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazar. Tutar: 5.000 TL.,normal
+267,Kartınız ile yapılan 150 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+268,"Anneciğim pazar size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+269,Siparişiniz kargo ile yola çıktı. Takip numaranız 521664. Teşekkürler.,normal
+270,Doğum günün kutlu olsun Selin! Nice mutlu yıllara. İyi günler.,normal
+271,"Toplantı notlarını mail attım, bakabilir misin? Bilgilerinize.",normal
+272,Kampanya: cuma yapacağınız alışverişlerde 89 TL puan kazanın. Detaylar mobil uygulamada. Detaylar için arayın.,normal
+273,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Teşekkürler.",normal
+274,Randevunuz iptal edilmiştir.,dolandiricilik
+275,"Zeynep toplantı 11:00 da başlıyor, geç kalma.",normal
+276,"Kredi başvurunuz onaylandı. 89 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın.",dolandiricilik
+277,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: hesap-dogrula.com/a962 Detaylar için arayın.",dolandiricilik
+278,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: hesap-dogrula.com/a893 Detaylar için arayın.,dolandiricilik
+279,"Mehmet yola çıktım, 09:30 gibi oradayım. Bilgilerinize.",normal
+280,Kartınızdan 320 TL harcama,dolandiricilik
+281,"Tebrikler Elif, kazandın! Maç bileti",normal
+282,Kartınızdan 250 TL harcama yapılmıştır. Size ait,dolandiricilik
+283,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz tinyurl.com/a496",dolandiricilik
+284,"Eczanemizde reçeteniz hazırdır, yarın teslim alabilirsiniz. İyi günler.",normal
+285,Hesabınıza 250 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Bilgilerinize.,normal
+286,Kartınız ile yapılan 150 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Detaylar için arayın.,normal
+287,"Emre yola çıktım, 20:30 gibi oradayım. Bilgilerinize.",normal
+288,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin. İyi günler.,dolandiricilik
+289,"Merhaba Burak, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+290,Tebrikler! 2.750 TL ödül kazandınız. Almak için tıklayın kargo-takip.xyz/a324 İyi günler.,dolandiricilik
+291,"Acil dönüş yapar mısın Ayşe, toplantı saati değişti.",normal
+292,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz. Detaylar için arayın.",normal
+293,Anneciğim cuma size,normal
+294,"Kredi başvurunuz onaylandı. 89 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın.",dolandiricilik
+295,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 5.000 TL. Detaylar için arayın.,normal
+296,Siparişiniz kurye ile yola çıktı. Takip numaranız 128934. Teşekkürler.,normal
+297,Siparişiniz kurye ile yola çıktı. Takip numaranız 111023.,normal
+298,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: tinyurl.com/a389 Bilgilerinize.,dolandiricilik
+299,Hesabınıza 89 TL,normal
+300,Kartınızdan 250 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Bilgilerinize.,normal
+301,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+302,"Acil dönüş yapar mısın Ayşe, toplantı saati değişti. Detaylar için arayın.",normal
+303,Kartınızdan 1.200 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a143,dolandiricilik
+304,Siparişiniz kargo ile yola çıktı. Takip numaranız 859398.,normal
+305,Doğum günün kutlu olsun Emre! Nice mutlu yıllara.,normal
+306,Kartınızdan 480 TL harcama,normal
+307,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin. İyi günler.,dolandiricilik
+308,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+309,Siparişiniz kargo ile yola çıktı. Takip numaranız 878290.,normal
+310,"Tebrikler Can, kazandın! Maç",normal
+311,Acil dönüş yapar mısın,normal
+312,"Paketiniz gümrükte bekliyor, 37 TL ödeme yapmazsanız iade edilecek: tinyurl.com/a607",dolandiricilik
+313,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+314,Otomatik ödeme talimatınız ile,normal
+315,Kartınız ile yapılan 640 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+316,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+317,Hesabınıza 640 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+318,Siparişiniz kargo ile yola çıktı. Takip numaranız 462890.,normal
+319,Doğum günün kutlu olsun Ayşe! Nice mutlu yıllara.,normal
+320,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Detaylar için arayın.",normal
+321,"Merhaba Emre, akşam yemeğe geliyor musun?",normal
+322,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+323,Paketiniz pazar teslim edilecektir. İyi günler. İyi günler.,normal
+324,Doğum günün kutlu olsun,normal
+325,"Tebrikler Burak, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+326,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: kargo-takip.xyz/a303,dolandiricilik
+327,"Eczanemizde reçeteniz hazırdır, yarın teslim",normal
+328,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: bit.ly/a840",dolandiricilik
+329,Doğum günün kutlu olsun Ayşe! Nice mutlu yıllara. Teşekkürler.,normal
+330,Otomatik ödeme talimatınız,normal
+331,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: bit.ly/a792 İyi günler.",dolandiricilik
+332,"Deniz toplantı 16:45 da başlıyor, geç kalma. Detaylar için arayın.",normal
+333,E-devlet vergi iadeniz 250 TL,dolandiricilik
+334,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazar. Tutar: 480 TL. Detaylar için arayın.,normal
+335,Kartınız ile yapılan 250 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Detaylar için arayın.,normal
+336,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+337,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. İyi günler.,normal
+338,Otomatik ödeme talimatınız ile 1.200 TL fatura ödendi. Detaylar için arayın.,normal
+339,"Merhaba Elif, akşam yemeğe geliyor musun?",normal
+340,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Teşekkürler.,normal
+341,Doğum günün kutlu olsun Merve! Nice mutlu yıllara.,normal
+342,Tek kullanımlık şifreniz: 577970. Bu şifreyi kimseyle paylaşmayınız. İyi günler.,normal
+343,Tek kullanımlık şifreniz: 331435. Bu şifreyi kimseyle paylaşmayınız. Teşekkürler.,normal
+344,Siparişiniz kargo ile yola çıktı. Takip numaranız 356377.,normal
+345,"Anneciğim yarın size uğrayacağız, bir şey lazım mı? Detaylar için arayın.",normal
+346,Otomatik ödeme talimatınız ile 640 TL fatura ödendi.,normal
+347,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Detaylar için arayın.",normal
+348,Kredi kartı hesap özetiniz,normal
+349,"Elif toplantı 11:00 da başlıyor, geç kalma. Bilgilerinize.",normal
+350,Otomatik ödeme talimatınız ile 150 TL fatura ödendi. Teşekkürler.,normal
+351,"Toplantı notlarını mail attım, bakabilir misin?",normal
+352,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. İyi günler.,normal
+353,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Bilgilerinize.,normal
+354,Kargonuz dağıtıma çıktı. Teslimat,normal
+355,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Bilgilerinize.,normal
+356,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+357,Kampanya: yarın yapacağınız alışverişlerde 250 TL puan kazanın. Detaylar mobil uygulamada.,normal
+358,"Eczanemizde reçeteniz hazırdır, yarın teslim alabilirsiniz.",normal
+359,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi bugün. Tutar: 1.200 TL.,normal
+360,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+361,Paketiniz pazar teslim edilecektir. İyi günler.,normal
+362,Kartınızdan 89 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+363,"Acil dönüş yapar mısın Burak, toplantı saati değişti. Bilgilerinize.",normal
+364,"Burak ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Teşekkürler.",dolandiricilik
+365,Kartınız ile yapılan 1.890 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+366,Otomatik ödeme talimatınız,normal
+367,Kredi kartı hesap özetiniz hazırlandı.,normal
+368,"Tebrikler, çekilişimizde hediye",normal
+369,Otomatik ödeme talimatınız,normal
+370,Kartınız askıya alındı. Şifre,dolandiricilik
+371,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Teşekkürler.,normal
+372,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+373,Kartınız ile yapılan 150 TL işlem onaylanmadı.,normal
+374,"Anneciğim cuma size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+375,"Anneciğim cuma size uğrayacağız, bir şey lazım mı?",normal
+376,"Can toplantı 11:00 da başlıyor, geç kalma.",normal
+377,Kartınızdan 320 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a177 Teşekkürler.,dolandiricilik
+378,Kartınızdan 640 TL harcama,dolandiricilik
+379,Hesabınız bloke edilmiştir. Açmak,dolandiricilik
+380,"Deniz yola çıktım, 16:45 gibi oradayım.",normal
+381,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: kargo-takip.xyz/a870,dolandiricilik
+382,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a307 Detaylar için arayın.,dolandiricilik
+383,"Selin yola çıktım, 11:00 gibi oradayım. Teşekkürler.",normal
+384,Hesabınıza 1.200 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+385,Anneciğim pazar size,normal
+386,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cumartesi. Tutar: 1.200 TL.,normal
+387,"Deniz toplantı 20:30 da başlıyor, geç kalma. Teşekkürler.",normal
+388,Faturanız 2.750 TL olarak kesilmiştir. Son ödeme cuma. İyi günler.,normal
+389,Kartınız ile yapılan 480 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+390,Acil dönüş yapar mısın,normal
+391,Otomatik ödeme talimatınız ile 320 TL fatura ödendi. Teşekkürler.,normal
+392,Kartınız ile yapılan 250 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Detaylar için arayın.,normal
+393,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: tinyurl.com/a326,dolandiricilik
+394,Kartınızdan 640 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. İyi günler.,normal
+395,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: guvenli-odeme.net/a931 Detaylar için arayın.,dolandiricilik
+396,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Teşekkürler.",normal
+397,"Toplantı notlarını mail attım, bakabilir misin?",normal
+398,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz hesap-dogrula.com/a261",dolandiricilik
+399,Kartınızdan 2.750 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a315 Bilgilerinize.,dolandiricilik
+400,"Mehmet yola çıktım, 20:30 gibi oradayım.",normal
+401,Faturanız 1.200 TL olarak kesilmiştir. Son ödeme cuma.,normal
+402,Otomatik ödeme talimatınız ile 250 TL fatura ödendi. Teşekkürler.,normal
+403,Kartınızdan 250 TL harcama,dolandiricilik
+404,Son uyarı! Hesap doğrulama yapmazsanız,dolandiricilik
+405,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz",normal
+406,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız",normal
+407,"Merhaba Zeynep, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+408,"Acil dönüş yapar mısın Selin, toplantı saati değişti. Bilgilerinize.",normal
+409,"Elif yola çıktım, 18:00 gibi oradayım.",normal
+410,"Paketiniz gümrükte bekliyor, 19 TL ödeme yapmazsanız iade edilecek: bit.ly/a956",dolandiricilik
+411,Randevunuz yarın saat,normal
+412,Kampanya: yarın yapacağınız alışverişlerde 320 TL puan kazanın. Detaylar mobil uygulamada. Detaylar için arayın.,normal
+413,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. İyi günler.,normal
+414,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cuma. Tutar: 320 TL. Teşekkürler.,normal
+415,"Can yola çıktım, 20:30 gibi oradayım. Teşekkürler.",normal
+416,"Mehmet yola çıktım, 11:00 gibi oradayım.",normal
+417,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+418,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+419,"Selin yola çıktım, 18:00 gibi oradayım.",normal
+420,"Müşteri temsilcimiz sizi arayacak, telefonunuza gelen şifreyi kendisine söyleyiniz.",dolandiricilik
+421,Faturanız 5.000 TL,normal
+422,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Teşekkürler.",normal
+423,"Mehmet yola çıktım, 11:00 gibi oradayım. Detaylar için arayın.",normal
+424,Paketiniz pazar teslim edilecektir. İyi günler. Teşekkürler.,normal
+425,"Tebrikler, çekilişimizde hediye puan",normal
+426,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 89 TL.,normal
+427,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. İyi günler.,normal
+428,Kredi kartı hesap özetiniz hazırlandı.,normal
+429,"Selin yola çıktım, 09:30 gibi oradayım. Bilgilerinize.",normal
+430,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a827,dolandiricilik
+431,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Detaylar için arayın.,normal
+432,"Tebrikler Selin, kazandın! Maç",normal
+433,Hesabınıza 150 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Teşekkürler.,normal
+434,Hesabınıza 250 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Detaylar için arayın.,normal
+435,Hesabınıza 5.000 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. İyi günler.,normal
+436,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Detaylar için arayın.",normal
+437,"Tebrikler Emre, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+438,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Detaylar için arayın.",normal
+439,"Tebrikler Zeynep, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+440,Siparişiniz kargo ile yola çıktı. Takip numaranız 310676. Detaylar için arayın.,normal
+441,Faturanız 250 TL olarak kesilmiştir. Son ödeme pazartesi. Detaylar için arayın.,normal
+442,Hesabınıza 480 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+443,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+444,"Elif ben, yeni numaram bu. Acil para lazım, IBAN atıyorum.",dolandiricilik
+445,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+446,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Bilgilerinize.",normal
+447,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+448,"Deniz toplantı 20:30 da başlıyor, geç kalma. Teşekkürler.",normal
+449,"Merhaba Burak, akşam yemeğe geliyor musun?",normal
+450,Kartınızdan 480 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a831,dolandiricilik
+451,"Acil dönüş yapar mısın Selin,",normal
+452,Kampanya: bugün yapacağınız alışverişlerde 89 TL puan kazanın. Detaylar mobil uygulamada. Teşekkürler.,normal
+453,Kargonuz dağıtıma çıktı. Teslimat saatini,normal
+454,Siparişiniz kurye ile yola çıktı. Takip numaranız 585493.,normal
+455,Kartınız ile yapılan 89,normal
+456,"Tebrikler Deniz, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+457,Siparişiniz kargo ile yola,dolandiricilik
+458,"Eczanemizde reçeteniz hazırdır, yarın teslim alabilirsiniz.",normal
+459,Siparişiniz kargo ile yola çıktı. Takip numaranız 139423. İyi günler.,normal
+460,Kartınız ile yapılan 640 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+461,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+462,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz. Detaylar için arayın.",normal
+463,"Acil dönüş yapar mısın Emre, toplantı saati değişti.",normal
+464,Tek kullanımlık şifreniz: 377810. Bu şifreyi kimseyle paylaşmayınız. İyi günler.,normal
+465,Kredi kartı hesap özetiniz hazırlandı. Son,normal
+466,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 640 TL. Bilgilerinize.,normal
+467,Faturanız 250 TL olarak kesilmiştir. Son ödeme cuma.,normal
+468,Toplantı notlarını mail,normal
+469,Tek kullanımlık şifreniz:,normal
+470,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a468 Detaylar için arayın.,dolandiricilik
+471,"Tebrikler Selin, kazandın! Maç bileti bende, akşam konuşuruz. İyi günler.",normal
+472,Kredi kartı hesap özetiniz hazırlandı.,normal
+473,Acil dönüş yapar,normal
+474,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+475,"Eczanemizde reçeteniz hazırdır, cumartesi teslim alabilirsiniz. Teşekkürler.",normal
+476,Kartınızdan 1.890 TL harcama yapılmıştır. Bilgi,normal
+477,"Anneciğim cumartesi size uğrayacağız, bir şey lazım mı?",normal
+478,Randevunuz pazar saat,normal
+479,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+480,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz. Teşekkürler.",normal
+481,"Ayşe ben, yeni numaram bu. Acil para lazım, IBAN atıyorum.",dolandiricilik
+482,Kampanya: cuma yapacağınız alışverişlerde 5.000 TL puan kazanın. Detaylar mobil uygulamada.,normal
+483,"Anneciğim pazar size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+484,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a594 Teşekkürler.,dolandiricilik
+485,Otomatik ödeme talimatınız ile 150 TL fatura ödendi. Teşekkürler.,normal
+486,Kampanya: cumartesi yapacağınız alışverişlerde 320 TL puan kazanın. Detaylar mobil uygulamada. Teşekkürler.,normal
+487,"Selin yola çıktım, 16:45 gibi oradayım. Bilgilerinize.",normal
+488,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: guvenli-odeme.net/a818 İyi günler.,dolandiricilik
+489,Kartınızdan 89 TL harcama yapılmıştır. Size ait değilse iptal için: hesap-dogrula.com/a182 Detaylar için arayın.,dolandiricilik
+490,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cumartesi. Tutar: 5.000 TL.,normal
+491,"Ayşe toplantı 14:15 da başlıyor, geç kalma. Teşekkürler.",normal
+492,"Anneciğim pazar size uğrayacağız, bir şey lazım mı?",normal
+493,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: bit.ly/a694,dolandiricilik
+494,Merhaba annecim telefonum bozuldu bu numaradan yazıyorum acil 89 TL lazım hemen gönder.,dolandiricilik
+495,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a818 Detaylar için arayın.,dolandiricilik
+496,Anneciğim pazartesi size,normal
+497,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz.",normal
+498,"Tebrikler Merve, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+499,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: hesap-dogrula.com/a501 Detaylar için arayın.,dolandiricilik
+500,Paketiniz pazartesi teslim edilecektir. İyi günler.,normal
+501,"Anneciğim cumartesi size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+502,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin. Teşekkürler.",dolandiricilik
+503,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 320 TL.,normal
+504,Doğum günün kutlu,normal
+505,Randevunuz pazar saat 11:00 olarak onaylanmıştır.,normal
+506,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: guvenli-odeme.net/a221,dolandiricilik
+507,"Tebrikler Emre, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+508,"Merhaba Ayşe, akşam",normal
+509,Kartınızdan 1.890 TL harcama yapılmıştır.,normal
+510,"Tebrikler, çekilişimizde hediye puan kazandınız.",dolandiricilik
+511,"Tebrikler Burak, kazandın! Maç",normal
+512,Kartınız ile yapılan 1.200 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+513,Tebrikler! 2.750 TL ödül kazandınız. Almak için tıklayın kargo-takip.xyz/a321 Bilgilerinize.,dolandiricilik
+514,E-devlet vergi iadeniz 640 TL hazır.,dolandiricilik
+515,Tek kullanımlık şifreniz: 882181. Bu şifreyi kimseyle paylaşmayınız.,normal
+516,Paketiniz cumartesi teslim edilecektir. İyi günler.,normal
+517,"Merhaba Can, akşam yemeğe geliyor musun? İyi günler.",normal
+518,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+519,Randevunuz iptal edilmiştir. Yeniden onay,dolandiricilik
+520,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: guvenli-odeme.net/a409 İyi günler.",dolandiricilik
+521,Siparişiniz kargo ile yola,dolandiricilik
+522,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+523,Hesabınıza 150 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+524,Kartınızdan 2.750 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Bilgilerinize.,normal
+525,"Merhaba Emre, akşam",normal
+526,Faturanız 480 TL olarak kesilmiştir. Son ödeme bugün.,normal
+527,Otomatik ödeme talimatınız ile 89 TL fatura ödendi.,normal
+528,"Toplantı notlarını mail attım, bakabilir misin?",normal
+529,Doğum günün kutlu olsun Burak! Nice mutlu yıllara.,normal
+530,Siparişiniz kurye ile yola çıktı. Takip numaranız 793461. Bilgilerinize.,normal
+531,Kartınızdan 89 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a717 İyi günler.,dolandiricilik
+532,"Burak toplantı 18:00 da başlıyor, geç kalma. Bilgilerinize.",normal
+533,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+534,Tebrikler! 5.000 TL ödül kazandınız. Almak için tıklayın guvenli-odeme.net/a953,dolandiricilik
+535,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz. İyi günler.",normal
+536,Doğum günün kutlu olsun Mehmet! Nice mutlu yıllara. Teşekkürler.,normal
+537,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin. Teşekkürler.",dolandiricilik
+538,Tek kullanımlık şifreniz: 676174. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+539,Kartınız ile yapılan 5.000 TL,normal
+540,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+541,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: tinyurl.com/a785 Bilgilerinize.,dolandiricilik
+542,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+543,"Toplantı notlarını mail attım, bakabilir misin?",normal
+544,Otomatik ödeme talimatınız ile 150 TL fatura ödendi. Teşekkürler.,normal
+545,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a412 İyi günler.,dolandiricilik
+546,Otomatik ödeme talimatınız ile 1.200 TL fatura ödendi. Bilgilerinize.,normal
+547,Faturanız 250 TL olarak kesilmiştir. Son ödeme yarın.,normal
+548,Faturanız 1.890 TL olarak kesilmiştir. Son ödeme pazartesi. Bilgilerinize.,normal
+549,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+550,"Selin yola çıktım,",normal
+551,Anneciğim bugün size,normal
+552,"Elif ben, yeni numaram bu. Acil para lazım, IBAN atıyorum.",dolandiricilik
+553,Otomatik ödeme talimatınız ile 1.890 TL fatura ödendi. İyi günler.,normal
+554,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz tinyurl.com/a236",dolandiricilik
+555,Hesabınıza 1.890 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+556,Kampanya: cumartesi yapacağınız alışverişlerde 640 TL puan kazanın. Detaylar mobil uygulamada.,normal
+557,"Anneciğim cumartesi size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+558,Bedava internet paketi kazandınız! Hemen,dolandiricilik
+559,"Merhaba Mehmet, akşam yemeğe geliyor musun?",normal
+560,"Acil dönüş yapar mısın Merve, toplantı saati değişti.",normal
+561,"Merhaba Selin, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+562,Güvenliğiniz için hesabınıza erişim,normal
+563,Kartınızdan 1.200 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+564,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: bit.ly/a419 İyi günler.,dolandiricilik
+565,"Merhaba Burak, akşam yemeğe geliyor musun?",normal
+566,"Anneciğim yarın size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+567,Faturanız 320 TL olarak,normal
+568,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? Teşekkürler.",normal
+569,Kartınızdan 2.750 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+570,"Tebrikler Selin, kazandın! Maç bileti bende, akşam konuşuruz. İyi günler.",normal
+571,Hesabınıza 480 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Detaylar için arayın.,normal
+572,Faturanız 89 TL olarak kesilmiştir. Son ödeme bugün.,normal
+573,Kartınızdan 480 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a152,dolandiricilik
+574,Siparişiniz kargo ile,normal
+575,Acil dönüş yapar,normal
+576,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Detaylar için arayın.,normal
+577,Otomatik ödeme talimatınız ile 5.000 TL fatura ödendi. Bilgilerinize.,normal
+578,Randevunuz bugün saat 11:00 olarak onaylanmıştır. İyi günler.,normal
+579,Kartınızdan 250 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+580,Güvenliğiniz için hesabınıza erişim geçici,normal
+581,Paketiniz yarın teslim edilecektir. İyi günler. Detaylar için arayın.,normal
+582,Acil dönüş yapar mısın,normal
+583,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: guvenli-odeme.net/a894 Bilgilerinize.",dolandiricilik
+584,"Tebrikler Emre, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+585,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: guvenli-odeme.net/a822",dolandiricilik
+586,Siparişiniz kurye ile yola çıktı. Takip numaranız 161822. Detaylar için arayın.,normal
+587,"Tebrikler Burak, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+588,"Anneciğim pazar size uğrayacağız,",normal
+589,Kartınız ile yapılan 320 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+590,Randevunuz iptal edilmiştir. Yeniden onay için 5.000 TL ödeme yapınız. Bilgilerinize.,dolandiricilik
+591,"Tebrikler Selin, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+592,"Anneciğim cumartesi size uğrayacağız, bir",normal
+593,"Tebrikler Elif, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+594,Faturanız 320 TL olarak kesilmiştir. Son ödeme cumartesi.,normal
+595,"Anneciğim pazar size uğrayacağız, bir şey lazım mı? Detaylar için arayın.",normal
+596,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: kargo-takip.xyz/a311,dolandiricilik
+597,Faturanız 480 TL olarak kesilmiştir. Son ödeme yarın. Teşekkürler.,normal
+598,Hesabınıza 5.000 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Bilgilerinize.,normal
+599,"Eczanemizde reçeteniz hazırdır, cuma",normal
+600,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazar. Tutar: 2.750 TL. Detaylar için arayın.,normal
+601,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazar. Tutar: 2.750 TL. Teşekkürler.,normal
+602,"Zeynep toplantı 18:00 da başlıyor, geç kalma.",normal
+603,Tek kullanımlık şifreniz: 457642. Bu şifreyi kimseyle paylaşmayınız. Teşekkürler.,normal
+604,Kampanya: bugün yapacağınız alışverişlerde 1.890 TL puan kazanın. Detaylar mobil uygulamada. Detaylar için arayın.,normal
+605,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin. Teşekkürler.",dolandiricilik
+606,Güvenliğiniz için hesabınıza erişim geçici,normal
+607,Kartınızdan 5.000 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a756,dolandiricilik
+608,Hesabınıza 640 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+609,Kargonuz adres eksikliği nedeniyle teslim,dolandiricilik
+610,Randevunuz pazartesi saat 18:00 olarak onaylanmıştır.,normal
+611,Kampanya detayları için tıklayın:,normal
+612,Faturanız 320 TL,normal
+613,"Anneciğim cumartesi size uğrayacağız, bir şey lazım mı?",normal
+614,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. hesap-dogrula.com/a908,dolandiricilik
+615,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Bilgilerinize.,normal
+616,Randevunuz pazar saat 16:45 olarak onaylanmıştır.,normal
+617,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. İyi günler.,normal
+618,"Burak toplantı 11:00 da başlıyor, geç kalma. Teşekkürler.",normal
+619,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+620,"Merhaba Selin, akşam yemeğe geliyor musun? Detaylar için arayın.",normal
+621,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a879 Detaylar için arayın.,dolandiricilik
+622,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: kargo-takip.xyz/a129,dolandiricilik
+623,"Tebrikler Selin, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+624,Randevunuz cumartesi saat 09:30,normal
+625,"Ayşe yola çıktım, 16:45 gibi oradayım. Teşekkürler.",normal
+626,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz. Bilgilerinize.",normal
+627,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Detaylar için arayın.",normal
+628,Siparişiniz kargo ile,normal
+629,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Detaylar için arayın.,normal
+630,"Merhaba Emre, akşam yemeğe geliyor musun? Teşekkürler.",normal
+631,Toplantı notlarını mail,normal
+632,Randevunuz yarın saat 09:30 olarak onaylanmıştır.,normal
+633,Otomatik ödeme talimatınız ile 320 TL fatura ödendi.,normal
+634,"Merhaba Mehmet, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+635,Hesabınıza 1.890 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. İyi günler.,normal
+636,"Tebrikler Elif, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+637,Acil dönüş yapar,normal
+638,Kartınız ile yapılan 320 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+639,Doğum günün kutlu olsun Selin! Nice mutlu yıllara. Detaylar için arayın.,normal
+640,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz tinyurl.com/a411",dolandiricilik
+641,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin.,dolandiricilik
+642,Kampanya detayları için,normal
+643,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+644,Randevunuz iptal edilmiştir. Yeniden onay için 480 TL ödeme yapınız. İyi günler.,dolandiricilik
+645,"Zeynep yola çıktım, 16:45 gibi oradayım. Teşekkürler.",normal
+646,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Teşekkürler.",normal
+647,"Müşteri temsilcimiz sizi arayacak, telefonunuza gelen şifreyi kendisine söyleyiniz. Detaylar için arayın.",dolandiricilik
+648,"Merhaba Selin, akşam yemeğe geliyor musun?",normal
+649,Paketiniz cuma teslim edilecektir. İyi günler. Bilgilerinize.,normal
+650,Kampanya: cumartesi yapacağınız alışverişlerde 250 TL puan kazanın. Detaylar mobil uygulamada. Detaylar için arayın.,normal
+651,Kartınız ile yapılan 250 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+652,"Merhaba Deniz, akşam yemeğe geliyor musun?",normal
+653,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Detaylar için arayın.",normal
+654,Faturanız 480 TL olarak kesilmiştir.,normal
+655,Kampanya: cumartesi yapacağınız alışverişlerde 2.750 TL puan kazanın. Detaylar mobil uygulamada. İyi günler.,normal
+656,Tek kullanımlık şifreniz: 256793. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+657,"Eczanemizde reçeteniz hazırdır, yarın",normal
+658,Randevunuz iptal edilmiştir. Yeniden onay için 150 TL ödeme yapınız.,dolandiricilik
+659,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazar. Tutar: 320 TL.,normal
+660,Hesabınız bloke edilmiştir. Açmak,dolandiricilik
+661,"Toplantı notlarını mail attım, bakabilir misin?",normal
+662,Kartınızdan 150 TL harcama yapılmıştır.,dolandiricilik
+663,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+664,"Ayşe toplantı 18:00 da başlıyor, geç kalma.",normal
+665,Güvenliğiniz için hesabınıza erişim geçici olarak,normal
+666,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+667,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Bilgilerinize.",normal
+668,"Merhaba Zeynep, akşam yemeğe geliyor musun?",normal
+669,"Merhaba Emre, akşam yemeğe geliyor musun?",normal
+670,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 480 TL.,normal
+671,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz. İyi günler.",normal
+672,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Detaylar için arayın.",normal
+673,Kampanya: bugün yapacağınız alışverişlerde 1.890 TL puan kazanın. Detaylar mobil uygulamada.,normal
+674,Kartınız ile yapılan 150 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+675,"Tebrikler Emre, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+676,"Tebrikler Emre, kazandın! Maç",normal
+677,"Burak yola çıktım, 20:30",normal
+678,"Tebrikler, çekilişimizde hediye puan",normal
+679,"Eczanemizde reçeteniz hazırdır,",normal
+680,Doğum günün kutlu olsun Deniz!,normal
+681,Siparişiniz kurye ile yola çıktı. Takip numaranız 342587.,normal
+682,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Teşekkürler.,normal
+683,Kargonuz dağıtıma çıktı. Teslimat,normal
+684,Kartınızdan 89 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a384 Detaylar için arayın.,dolandiricilik
+685,Siparişiniz kurye ile yola çıktı. Takip numaranız 517529. Bilgilerinize.,normal
+686,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+687,"Müşteri temsilcimiz sizi arayacak, telefonunuza gelen şifreyi kendisine söyleyiniz. Teşekkürler.",dolandiricilik
+688,Doğum günün kutlu,normal
+689,Paketiniz pazartesi teslim edilecektir. İyi günler.,normal
+690,"Anneciğim yarın size uğrayacağız, bir şey lazım mı?",normal
+691,"Kredi başvurunuz onaylandı. 89 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın.",dolandiricilik
+692,Siparişiniz kargo ile yola çıktı. Takip numaranız 628870.,normal
+693,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+694,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 1.890 TL.,normal
+695,Paketiniz pazar teslim,normal
+696,Kampanya: cumartesi yapacağınız alışverişlerde 2.750 TL puan kazanın. Detaylar mobil uygulamada. İyi günler.,normal
+697,Kartınızdan 5.000 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a191,dolandiricilik
+698,E-devlet vergi iadeniz 2.750 TL hazır. Kart bilgilerinizi girerek alın: edevlet-iade.info/a406 İyi günler.,dolandiricilik
+699,Kartınızdan 2.750 TL harcama yapılmıştır. Size ait değilse iptal için: hesap-dogrula.com/a498 Teşekkürler.,dolandiricilik
+700,Siparişiniz kurye ile yola çıktı. Takip numaranız 974793.,normal
+701,Tek kullanımlık şifreniz:,normal
+702,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+703,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+704,"Elif yola çıktım, 20:30 gibi oradayım. Teşekkürler.",normal
+705,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+706,Faturanız 250 TL olarak kesilmiştir. Son ödeme yarın.,normal
+707,Paketiniz pazar teslim,normal
+708,"Eczanemizde reçeteniz hazırdır, yarın",normal
+709,Kartınız ile yapılan 480 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Teşekkürler.,normal
+710,Siparişiniz kurye ile,normal
+711,Faturanız 150 TL olarak kesilmiştir. Son ödeme yarın. Teşekkürler.,normal
+712,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Bilgilerinize.",normal
+713,Randevunuz yarın saat 11:00 olarak onaylanmıştır.,normal
+714,Siparişiniz kurye ile yola,dolandiricilik
+715,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Detaylar için arayın.,normal
+716,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Bilgilerinize.,normal
+717,Kampanya: cumartesi yapacağınız alışverişlerde 89 TL,normal
+718,"Deniz yola çıktım, 14:15 gibi oradayım. Bilgilerinize.",normal
+719,Doğum günün kutlu olsun Zeynep! Nice mutlu yıllara. İyi günler.,normal
+720,"Tebrikler Elif, kazandın! Maç bileti",normal
+721,"Toplantı notlarını mail attım, bakabilir misin? Bilgilerinize.",normal
+722,Kampanya: cuma yapacağınız alışverişlerde 1.200 TL puan kazanın. Detaylar mobil uygulamada. Bilgilerinize.,normal
+723,Randevunuz yarın saat,normal
+724,Kartınızdan 150 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a377 Detaylar için arayın.,dolandiricilik
+725,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+726,"Anneciğim cumartesi size uğrayacağız,",normal
+727,"Anneciğim cuma size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+728,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi bugün. Tutar: 1.890 TL.,normal
+729,Tek kullanımlık şifreniz: 457819. Bu şifreyi kimseyle paylaşmayınız. Teşekkürler.,normal
+730,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: kargo-takip.xyz/a385",dolandiricilik
+731,Tek kullanımlık şifreniz: 146765.,normal
+732,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Detaylar için arayın.,normal
+733,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin.,dolandiricilik
+734,Faturanız 150 TL olarak kesilmiştir. Son ödeme pazar. Detaylar için arayın.,normal
+735,Faturanız 480 TL olarak kesilmiştir.,normal
+736,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+737,Kargonuz dağıtıma çıktı. Teslimat saatini,normal
+738,Faturanız 2.750 TL olarak kesilmiştir. Son ödeme pazartesi.,normal
+739,"Tebrikler Burak, kazandın! Maç bileti bende, akşam konuşuruz. İyi günler.",normal
+740,"Elif yola çıktım, 09:30 gibi oradayım.",normal
+741,"Merhaba Burak, akşam",normal
+742,"Anneciğim cuma size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+743,Kampanya: cumartesi yapacağınız alışverişlerde 480 TL puan kazanın. Detaylar mobil uygulamada.,normal
+744,"Merhaba Deniz, akşam",normal
+745,Tek kullanımlık şifreniz: 462133. Bu şifreyi kimseyle paylaşmayınız. Detaylar için arayın.,normal
+746,Hesabınıza 480 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+747,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+748,"Acil dönüş yapar mısın Selin, toplantı saati değişti.",normal
+749,Kartınızdan 480 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a619 Teşekkürler.,dolandiricilik
+750,Kartınız ile yapılan 1.890 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+751,Randevunuz iptal edilmiştir. Yeniden onay için 1.200 TL ödeme yapınız.,dolandiricilik
+752,"Selin yola çıktım, 18:00 gibi oradayım. İyi günler.",normal
+753,Kredi başvurunuz onaylandı. 150 TL için masraf ücretini,dolandiricilik
+754,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin.",dolandiricilik
+755,Siparişiniz kurye ile yola çıktı. Takip numaranız 219428.,normal
+756,"Anneciğim cumartesi size uğrayacağız, bir şey lazım mı?",normal
+757,"Ayşe yola çıktım, 18:00 gibi oradayım.",normal
+758,"Ayşe ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Teşekkürler.",dolandiricilik
+759,Hesabınıza 5.000 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+760,Kartınızdan 1.200 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. İyi günler.,normal
+761,"Elif yola çıktım, 16:45 gibi oradayım.",normal
+762,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: hesap-dogrula.com/a603 Teşekkürler.,dolandiricilik
+763,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+764,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+765,Tek kullanımlık şifreniz:,normal
+766,"Emre yola çıktım,",normal
+767,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+768,Güvenliğiniz için hesabınıza erişim geçici olarak,normal
+769,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cuma. Tutar: 250 TL. Bilgilerinize.,normal
+770,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz",normal
+771,Siparişiniz kargo ile yola çıktı. Takip numaranız 473415.,normal
+772,Kartınızdan 480 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Teşekkürler.,normal
+773,Siparişiniz kargo ile yola çıktı. Takip numaranız 522959. Detaylar için arayın.,normal
+774,Randevunuz pazartesi saat 20:30 olarak onaylanmıştır.,normal
+775,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+776,"Mehmet toplantı 20:30 da başlıyor, geç kalma.",normal
+777,Kartınızdan 1.200 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a811,dolandiricilik
+778,Kartınızdan 5.000 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+779,Hesabınıza 1.200 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. İyi günler.,normal
+780,"Tebrikler Deniz, kazandın! Maç bileti bende,",normal
+781,Kartınızdan 1.890 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+782,Siparişiniz kurye ile yola çıktı. Takip numaranız 248458. Bilgilerinize.,normal
+783,"Zeynep yola çıktım,",normal
+784,Faturanız 150 TL olarak kesilmiştir. Son ödeme cuma.,normal
+785,Paketiniz yarın teslim edilecektir. İyi günler.,normal
+786,"Acil dönüş yapar mısın Selin, toplantı saati değişti.",normal
+787,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+788,Tebrikler! 89 TL ödül kazandınız. Almak için tıklayın guvenli-odeme.net/a370 İyi günler.,dolandiricilik
+789,Doğum günün kutlu olsun Can! Nice mutlu yıllara. Detaylar için arayın.,normal
+790,"Ayşe toplantı 09:30 da başlıyor, geç kalma. Teşekkürler.",normal
+791,Kartınız ile yapılan 2.750 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Teşekkürler.,normal
+792,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+793,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Detaylar için arayın.,normal
+794,Siparişiniz kargo ile,normal
+795,"Eczanemizde reçeteniz hazırdır,",normal
+796,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: edevlet-iade.info/a962 Detaylar için arayın.",dolandiricilik
+797,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Bilgilerinize.",normal
+798,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: kargo-takip.xyz/a268,dolandiricilik
+799,Hesabınıza 1.890 TL maaş ödemesi yatırılmıştır.,normal
+800,Kartınız ile yapılan 250 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Detaylar için arayın.,normal
+801,Kartınızdan 320 TL harcama yapılmıştır. Size,dolandiricilik
+802,Toplantı notlarını mail,normal
+803,Faturanız 89 TL olarak kesilmiştir. Son ödeme yarın.,normal
+804,Randevunuz cumartesi saat 20:30 olarak onaylanmıştır.,normal
+805,"Acil dönüş yapar mısın Can, toplantı saati değişti.",normal
+806,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya.,normal
+807,Kartınızdan 5.000 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+808,Merhaba annecim telefonum bozuldu bu numaradan yazıyorum acil 1.890 TL lazım hemen gönder. İyi günler.,dolandiricilik
+809,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+810,"Acil dönüş yapar mısın Mehmet, toplantı saati değişti.",normal
+811,Faturanız 320 TL olarak kesilmiştir. Son,normal
+812,Kartınızdan 320 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a530 İyi günler.,dolandiricilik
+813,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 320 TL. İyi günler.,normal
+814,Tebrikler! 2.750 TL ödül kazandınız. Almak için tıklayın guvenli-odeme.net/a345 Bilgilerinize.,dolandiricilik
+815,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Detaylar için arayın.,normal
+816,Paketiniz pazartesi teslim edilecektir. İyi günler. Teşekkürler.,normal
+817,Otomatik ödeme talimatınız ile 320 TL fatura ödendi. Teşekkürler.,normal
+818,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a840 Teşekkürler.,dolandiricilik
+819,Randevunuz pazar saat,normal
+820,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Detaylar için arayın.,normal
+821,Tek kullanımlık şifreniz:,normal
+822,"Tebrikler Selin, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+823,Siparişiniz kargo ile yola çıktı. Takip numaranız 174881.,normal
+824,"Merhaba Can, akşam yemeğe geliyor musun?",normal
+825,Faturanız 320 TL olarak kesilmiştir. Son ödeme pazar. Detaylar için arayın.,normal
+826,"Tebrikler Can, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+827,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz. Detaylar için arayın.",normal
+828,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: tinyurl.com/a164,dolandiricilik
+829,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 5.000 TL.,normal
+830,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin.",dolandiricilik
+831,Otomatik ödeme talimatınız ile 150 TL fatura ödendi.,normal
+832,"Acil dönüş yapar mısın Burak, toplantı saati değişti. İyi günler.",normal
+833,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara. İyi günler.,normal
+834,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: guvenli-odeme.net/a481 Detaylar için arayın.,dolandiricilik
+835,"Acil dönüş yapar mısın Elif, toplantı saati değişti.",normal
+836,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cumartesi. Tutar: 1.200 TL.,normal
+837,Tek kullanımlık şifreniz: 492199. Bu şifreyi kimseyle paylaşmayınız.,normal
+838,"Anneciğim cuma size uğrayacağız,",normal
+839,Randevunuz iptal edilmiştir.,dolandiricilik
+840,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+841,Doğum günün kutlu olsun Selin!,normal
+842,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara. Bilgilerinize.,normal
+843,E-devlet vergi iadeniz 1.890 TL,dolandiricilik
+844,Kartınızdan 1.200 TL harcama,normal
+845,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+846,"Ayşe yola çıktım,",normal
+847,"Eczanemizde reçeteniz hazırdır, pazar",normal
+848,"Anneciğim pazar size uğrayacağız, bir şey lazım mı? Teşekkürler.",normal
+849,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: bit.ly/a118 Bilgilerinize.,dolandiricilik
+850,Randevunuz pazar saat 09:30 olarak onaylanmıştır. Detaylar için arayın.,normal
+851,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Detaylar için arayın.",normal
+852,Doğum günün kutlu,normal
+853,Kartınızdan 2.750 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Bilgilerinize.,normal
+854,Hesabınıza 150 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Detaylar için arayın.,normal
+855,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 89 TL. Detaylar için arayın.,normal
+856,"Burak yola çıktım,",normal
+857,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cuma. Tutar: 1.200 TL. Detaylar için arayın.,normal
+858,"Toplantı notlarını mail attım, bakabilir misin?",normal
+859,Hesabınıza 2.750 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+860,Kartınızdan 150 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+861,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+862,"Anneciğim pazartesi size uğrayacağız, bir",normal
+863,"Anneciğim cumartesi size uğrayacağız, bir şey lazım mı?",normal
+864,"Anneciğim cuma size uğrayacağız, bir şey lazım mı?",normal
+865,"Merhaba Burak, akşam yemeğe geliyor musun?",normal
+866,Kartınızdan 89 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. İyi günler.,normal
+867,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Bilgilerinize.,normal
+868,"Toplantı notlarını mail attım,",normal
+869,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+870,Paketiniz pazartesi teslim edilecektir. İyi günler.,normal
+871,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a129 İyi günler.,dolandiricilik
+872,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+873,Siparişiniz kurye ile yola çıktı. Takip numaranız 256778. Bilgilerinize.,normal
+874,Randevunuz iptal edilmiştir. Yeniden onay için 5.000 TL ödeme yapınız. Bilgilerinize.,dolandiricilik
+875,Otomatik ödeme talimatınız ile 640 TL fatura ödendi. İyi günler.,normal
+876,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+877,"Emre yola çıktım, 11:00 gibi oradayım. Teşekkürler.",normal
+878,"Paketiniz gümrükte bekliyor, 37 TL ödeme",dolandiricilik
+879,Kartınızdan 320 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a408 Teşekkürler.,dolandiricilik
+880,Acil dönüş yapar,normal
+881,Güvenliğiniz için hesabınıza erişim geçici,normal
+882,Tek kullanımlık şifreniz: 121569. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+883,"Tebrikler Can, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+884,"Acil dönüş yapar mısın Zeynep, toplantı saati değişti. Teşekkürler.",normal
+885,Randevunuz yarın saat 20:30 olarak onaylanmıştır. İyi günler.,normal
+886,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+887,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+888,Kartınız ile yapılan 2.750 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Detaylar için arayın.,normal
+889,"Eczanemizde reçeteniz hazırdır,",normal
+890,Paketiniz yarın teslim edilecektir. İyi günler. Detaylar için arayın.,normal
+891,"Acil dönüş yapar mısın Can, toplantı saati değişti. Bilgilerinize.",normal
+892,"Acil dönüş yapar mısın Ayşe, toplantı saati değişti.",normal
+893,Otomatik ödeme talimatınız ile 320 TL fatura ödendi.,normal
+894,Doğum günün kutlu olsun Ayşe! Nice mutlu yıllara. Teşekkürler.,normal
+895,"Emre yola çıktım, 16:45 gibi oradayım. Bilgilerinize.",normal
+896,Faturanız 320 TL olarak kesilmiştir. Son ödeme pazar.,normal
+897,"Anneciğim pazartesi size uğrayacağız, bir şey lazım mı?",normal
+898,"Zeynep ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Detaylar için arayın.",dolandiricilik
+899,"Anneciğim pazar size uğrayacağız,",normal
+900,Faturanız 89 TL olarak kesilmiştir. Son ödeme pazar.,normal
+901,Tek kullanımlık şifreniz: 796559. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+902,"Merhaba Deniz, akşam yemeğe geliyor musun? Detaylar için arayın.",normal
+903,"Eczanemizde reçeteniz hazırdır,",normal
+904,"Emre yola çıktım, 09:30 gibi oradayım.",normal
+905,Kredi başvurunuz onaylandı. 1.890 TL için masraf ücretini,dolandiricilik
+906,Doğum günün kutlu olsun Merve! Nice mutlu yıllara.,normal
+907,Kartınızdan 640 TL harcama yapılmıştır. Size,dolandiricilik
+908,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cuma. Tutar: 250 TL. Bilgilerinize.,normal
+909,Kampanya: pazartesi yapacağınız alışverişlerde 640 TL puan kazanın. Detaylar mobil uygulamada. Detaylar için arayın.,normal
+910,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin.,dolandiricilik
+911,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara. Bilgilerinize.,normal
+912,Kartınızdan 2.750 TL harcama yapılmıştır. Size ait değilse iptal için: hesap-dogrula.com/a327 İyi günler.,dolandiricilik
+913,"Acil dönüş yapar mısın Elif, toplantı saati değişti.",normal
+914,Kampanya: bugün yapacağınız alışverişlerde 250 TL puan kazanın. Detaylar mobil uygulamada.,normal
+915,"Acil dönüş yapar mısın Selin, toplantı saati değişti. Teşekkürler.",normal
+916,"Merhaba Can, akşam yemeğe geliyor musun?",normal
+917,Selin toplantı 09:30,normal
+918,Kartınız ile yapılan 2.750 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+919,Paketiniz bugün teslim,normal
+920,Tek kullanımlık şifreniz: 436765. Bu şifreyi kimseyle paylaşmayınız. Teşekkürler.,normal
+921,Siparişiniz kurye ile yola çıktı. Teslimat,dolandiricilik
+922,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi bugün. Tutar: 640 TL. İyi günler.,normal
+923,"Anneciğim yarın size uğrayacağız, bir şey lazım mı?",normal
+924,Paketiniz pazar teslim edilecektir. İyi günler. Detaylar için arayın.,normal
+925,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+926,"Deniz toplantı 18:00 da başlıyor, geç kalma. Teşekkürler.",normal
+927,"Merhaba Can, akşam yemeğe geliyor musun?",normal
+928,Toplantı notlarını mail,normal
+929,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit",normal
+930,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+931,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+932,Kartınızdan 150 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a127 İyi günler.,dolandiricilik
+933,"Elif yola çıktım, 11:00 gibi oradayım.",normal
+934,Kartınızdan 89 TL harcama yapılmıştır. Size ait değilse iptal için: tinyurl.com/a946 Detaylar için arayın.,dolandiricilik
+935,Paketiniz pazar teslim edilecektir. İyi günler. Detaylar için arayın.,normal
+936,Randevunuz pazartesi saat 16:45 olarak onaylanmıştır. Bilgilerinize.,normal
+937,Randevunuz iptal edilmiştir. Yeniden onay için,dolandiricilik
+938,"Can toplantı 11:00 da başlıyor, geç kalma. Bilgilerinize.",normal
+939,"Tebrikler Elif, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+940,"Anneciğim pazartesi size uğrayacağız, bir şey lazım mı?",normal
+941,"Kredi başvurunuz onaylandı. 640 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. Detaylar için arayın.",dolandiricilik
+942,Hesabınıza 480 TL maaş ödemesi,normal
+943,"Tebrikler, çekilişimizde hediye puan",normal
+944,Siparişiniz kargo ile yola çıktı. Takip numaranız 982023. Bilgilerinize.,normal
+945,Toplantı notlarını mail,normal
+946,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+947,"Ayşe toplantı 18:00 da başlıyor, geç kalma.",normal
+948,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz hesap-dogrula.com/a805",dolandiricilik
+949,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a277 Bilgilerinize.,dolandiricilik
+950,"Tebrikler Merve, kazandın! Maç bileti bende, akşam konuşuruz. İyi günler.",normal
+951,Kartınızdan 250 TL harcama yapılmıştır. Size ait değilse iptal için: guvenli-odeme.net/a162,dolandiricilik
+952,Kargonuz dağıtıma çıktı. Teslimat,normal
+953,"Deniz yola çıktım, 11:00 gibi oradayım. Bilgilerinize.",normal
+954,Faturanız 89 TL olarak kesilmiştir. Son ödeme pazar. Teşekkürler.,normal
+955,"Toplantı notlarını mail attım, bakabilir misin? Teşekkürler.",normal
+956,"Anneciğim pazar size uğrayacağız, bir şey lazım mı? Detaylar için arayın.",normal
+957,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. bit.ly/a382 Bilgilerinize.,dolandiricilik
+958,Hesabınızdan şüpheli işlem tespit edildi. İptal,dolandiricilik
+959,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk",normal
+960,Hesabınıza 480 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Bilgilerinize.,normal
+961,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Teşekkürler.,normal
+962,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde",normal
+963,Kartınızdan 320 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a788 İyi günler.,dolandiricilik
+964,Anneciğim bugün size,normal
+965,Acil dönüş yapar mısın,normal
+966,"Hemen mobil uygulamamızdan başvurun, ihtiyaç",normal
+967,Kartınızdan 250 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+968,Faturanız 150 TL olarak kesilmiştir. Son ödeme bugün. İyi günler.,normal
+969,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde",normal
+970,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+971,Kartınızdan 150 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+972,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+973,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin.,dolandiricilik
+974,"Acil dönüş yapar mısın Deniz, toplantı saati değişti.",normal
+975,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: bit.ly/a807 Detaylar için arayın.,dolandiricilik
+976,"Eczanemizde reçeteniz hazırdır,",normal
+977,Doğum günün kutlu olsun Can! Nice mutlu yıllara. İyi günler.,normal
+978,Hesabınıza 150 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. İyi günler.,normal
+979,Kampanya: yarın yapacağınız alışverişlerde 150 TL puan kazanın. Detaylar mobil uygulamada.,normal
+980,"Eczanemizde reçeteniz hazırdır, yarın teslim alabilirsiniz. Detaylar için arayın.",normal
+981,Tek kullanımlık şifreniz: 429636. Bu şifreyi kimseyle paylaşmayınız. Teşekkürler.,normal
+982,Faturanız 89 TL olarak kesilmiştir. Son ödeme cumartesi. Teşekkürler.,normal
+983,"Toplantı notlarını mail attım,",normal
+984,Kartınızdan 320 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a931 Teşekkürler.,dolandiricilik
+985,"Paketiniz gümrükte bekliyor, 24 TL ödeme yapmazsanız iade edilecek: edevlet-iade.info/a945",dolandiricilik
+986,Kampanya: pazartesi yapacağınız alışverişlerde 2.750 TL puan kazanın. Detaylar mobil uygulamada. Detaylar için arayın.,normal
+987,"Acil dönüş yapar mısın Burak, toplantı saati değişti.",normal
+988,Otomatik ödeme talimatınız ile 150 TL fatura ödendi.,normal
+989,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde",normal
+990,Hesabınıza 5.000 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Bilgilerinize.,normal
+991,Hesabınıza 640 TL maaş ödemesi yatırılmıştır.,normal
+992,Kampanya: pazartesi yapacağınız alışverişlerde 150 TL puan kazanın. Detaylar mobil uygulamada.,normal
+993,Otomatik ödeme talimatınız ile 150 TL fatura ödendi. Detaylar için arayın.,normal
+994,Hesabınıza 640 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Teşekkürler.,normal
+995,Kartınızdan 89 TL harcama yapılmıştır. Size ait değilse iptal için: edevlet-iade.info/a259,dolandiricilik
+996,Doğum günün kutlu olsun Deniz! Nice mutlu yıllara. Teşekkürler.,normal
+997,"Tebrikler Merve, kazandın! Maç",normal
+998,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 89 TL.,normal
+999,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz tinyurl.com/a420 İyi günler.",dolandiricilik
+1000,"Selin yola çıktım, 20:30 gibi oradayım. Bilgilerinize.",normal
+1001,Faturanız 250 TL olarak kesilmiştir. Son ödeme cuma. İyi günler.,normal
+1002,Siparişiniz kurye ile yola çıktı. Takip numaranız 571460. İyi günler.,normal
+1003,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: tinyurl.com/a953 İyi günler.",dolandiricilik
+1004,Hesabınıza 250 TL maaş ödemesi yatırılmıştır.,normal
+1005,"Tebrikler, çekilişimizde hediye",normal
+1006,Acil dönüş yapar,normal
+1007,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. İyi günler.,normal
+1008,"Anneciğim yarın size uğrayacağız, bir şey lazım mı?",normal
+1009,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Detaylar için arayın.,normal
+1010,Tek kullanımlık şifreniz: 532546. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+1011,"Ayşe yola çıktım, 18:00 gibi oradayım.",normal
+1012,"Burak toplantı 16:45 da başlıyor, geç kalma. Bilgilerinize.",normal
+1013,Anneciğim cuma size,normal
+1014,"Müşteri temsilcimiz sizi arayacak, telefonunuza gelen şifreyi kendisine söyleyiniz.",dolandiricilik
+1015,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin.,dolandiricilik
+1016,Hesabınıza 2.750 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+1017,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: hesap-dogrula.com/a455",dolandiricilik
+1018,"Mehmet toplantı 14:15 da başlıyor, geç kalma.",normal
+1019,"Toplantı notlarını mail attım, bakabilir misin?",normal
+1020,"Can yola çıktım, 11:00 gibi oradayım. Detaylar için arayın.",normal
+1021,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: tinyurl.com/a135 Detaylar için arayın.,dolandiricilik
+1022,"Selin yola çıktım, 14:15 gibi oradayım. Detaylar için arayın.",normal
+1023,Kartınızdan 250 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a728 İyi günler.,dolandiricilik
+1024,Siparişiniz kurye ile,normal
+1025,"Eczanemizde reçeteniz hazırdır, yarın teslim alabilirsiniz.",normal
+1026,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: tinyurl.com/a286 Bilgilerinize.,dolandiricilik
+1027,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek,normal
+1028,"Anneciğim yarın size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+1029,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Teşekkürler.",normal
+1030,Kartınızdan 1.890 TL harcama yapılmıştır. Size ait değilse iptal için: hesap-dogrula.com/a577 Detaylar için arayın.,dolandiricilik
+1031,Hesabınıza 2.750 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Detaylar için arayın.,normal
+1032,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1033,Faturanız 5.000 TL olarak kesilmiştir. Son ödeme yarın.,normal
+1034,Kartınız ile yapılan 5.000 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Bilgilerinize.,normal
+1035,"Merhaba Merve, akşam yemeğe geliyor musun? İyi günler.",normal
+1036,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+1037,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+1038,"Can toplantı 18:00 da başlıyor, geç kalma. İyi günler.",normal
+1039,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: guvenli-odeme.net/a162,dolandiricilik
+1040,Otomatik ödeme talimatınız ile 1.200 TL fatura ödendi.,normal
+1041,"Merhaba Elif, akşam",normal
+1042,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+1043,Kartınız ile yapılan 5.000 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+1044,"Mehmet toplantı 18:00 da başlıyor, geç kalma.",normal
+1045,Otomatik ödeme talimatınız ile 480 TL fatura ödendi.,normal
+1046,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: bit.ly/a237,dolandiricilik
+1047,"Merhaba Emre, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+1048,Kartınız ile yapılan 89 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+1049,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a463 Teşekkürler.,dolandiricilik
+1050,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Bilgilerinize.",normal
+1051,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Bilgilerinize.,normal
+1052,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+1053,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: guvenli-odeme.net/a214 Detaylar için arayın.",dolandiricilik
+1054,"Acil dönüş yapar mısın Merve, toplantı saati değişti. Teşekkürler.",normal
+1055,Siparişiniz kargo ile yola çıktı. Takip numaranız 302145. Detaylar için arayın.,normal
+1056,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi bugün. Tutar: 5.000 TL.,normal
+1057,Faturanız 89 TL olarak kesilmiştir. Son ödeme pazar. Bilgilerinize.,normal
+1058,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+1059,Tek kullanımlık şifreniz:,normal
+1060,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin. Detaylar için arayın.",dolandiricilik
+1061,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz tinyurl.com/a153",dolandiricilik
+1062,"Emre yola çıktım, 20:30 gibi oradayım. İyi günler.",normal
+1063,Kampanya detayları için tıklayın:,normal
+1064,Faturanız 250 TL olarak,normal
+1065,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+1066,Kampanya: pazar yapacağınız alışverişlerde 5.000 TL puan kazanın. Detaylar mobil uygulamada. İyi günler.,normal
+1067,Doğum günün kutlu olsun Burak! Nice mutlu yıllara. Detaylar için arayın.,normal
+1068,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+1069,"Kredi başvurunuz onaylandı. 1.200 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın.",dolandiricilik
+1070,Randevunuz cumartesi saat 11:00 olarak onaylanmıştır. Detaylar için arayın.,normal
+1071,Paketiniz bugün teslim edilecektir. İyi günler. İyi günler.,normal
+1072,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Bilgilerinize.",normal
+1073,"Acil dönüş yapar mısın Burak, toplantı saati değişti.",normal
+1074,"Kredi başvurunuz onaylandı. 250 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. Teşekkürler.",dolandiricilik
+1075,Faturanız 250 TL olarak kesilmiştir. Son ödeme bugün.,normal
+1076,Kampanya: cumartesi yapacağınız alışverişlerde 2.750,normal
+1077,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1078,Faturanız 150 TL olarak kesilmiştir. Son ödeme pazartesi.,normal
+1079,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 1.200 TL. İyi günler.,normal
+1080,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: kargo-takip.xyz/a314 İyi günler.,dolandiricilik
+1081,Siparişiniz kurye ile yola çıktı. Takip numaranız 655939.,normal
+1082,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz",normal
+1083,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. İyi günler.",normal
+1084,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Bilgilerinize.,normal
+1085,Kartınızdan 5.000 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Teşekkürler.,normal
+1086,"Paketiniz gümrükte bekliyor, 37 TL ödeme yapmazsanız iade edilecek: kargo-takip.xyz/a465",dolandiricilik
+1087,"Eczanemizde reçeteniz hazırdır, cumartesi teslim alabilirsiniz. Bilgilerinize.",normal
+1088,"Kredi başvurunuz onaylandı. 1.200 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. İyi günler.",dolandiricilik
+1089,Randevunuz bugün saat,normal
+1090,Hesabınıza 320 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. İyi günler.,normal
+1091,Randevunuz bugün saat,normal
+1092,"Eczanemizde reçeteniz hazırdır,",normal
+1093,Siparişiniz kurye ile yola çıktı. Takip numaranız 130521.,normal
+1094,Kartınızdan 640 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Bilgilerinize.,normal
+1095,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: hesap-dogrula.com/a609 İyi günler.,dolandiricilik
+1096,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: bit.ly/a430 Bilgilerinize.,dolandiricilik
+1097,Randevunuz bugün saat 14:15 olarak onaylanmıştır. Detaylar için arayın.,normal
+1098,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+1099,Kartınızdan 320 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Bilgilerinize.,normal
+1100,E-devlet vergi iadeniz 2.750 TL hazır.,dolandiricilik
+1101,"Anneciğim pazar size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+1102,Tek kullanımlık şifreniz: 833564. Bu şifreyi kimseyle paylaşmayınız.,normal
+1103,Kampanya: cuma yapacağınız alışverişlerde 640 TL puan kazanın. Detaylar mobil uygulamada.,normal
+1104,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi bugün. Tutar: 89 TL. Detaylar için arayın.,normal
+1105,Kartınız ile yapılan 480 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+1106,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+1107,Randevunuz iptal edilmiştir. Yeniden onay için 2.750 TL ödeme yapınız. İyi günler.,dolandiricilik
+1108,"Ayşe toplantı 14:15 da başlıyor, geç kalma. İyi günler.",normal
+1109,Kartınız ile yapılan 1.200 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+1110,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+1111,"Tebrikler Burak, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+1112,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi. Bilgilerinize.",normal
+1113,"Eczanemizde reçeteniz hazırdır, cuma teslim alabilirsiniz. Detaylar için arayın.",normal
+1114,"Eczanemizde reçeteniz hazırdır,",normal
+1115,"Anneciğim yarın size uğrayacağız, bir şey lazım mı? Teşekkürler.",normal
+1116,Faturanız 5.000 TL olarak kesilmiştir. Son ödeme yarın.,normal
+1117,Faturanız 480 TL olarak kesilmiştir. Son ödeme bugün.,normal
+1118,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazar. Tutar: 1.890 TL.,normal
+1119,Tek kullanımlık şifreniz: 995998. Bu şifreyi kimseyle paylaşmayınız.,normal
+1120,"Acil dönüş yapar mısın Deniz, toplantı saati değişti. İyi günler.",normal
+1121,Paketiniz pazar teslim edilecektir. İyi günler. Bilgilerinize.,normal
+1122,"Eczanemizde reçeteniz hazırdır,",normal
+1123,Kartınızdan 1.890 TL harcama,dolandiricilik
+1124,Otomatik ödeme talimatınız ile 2.750 TL fatura ödendi.,normal
+1125,Randevunuz yarın saat 11:00 olarak onaylanmıştır. Teşekkürler.,normal
+1126,Randevunuz cuma saat 20:30 olarak onaylanmıştır.,normal
+1127,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: tinyurl.com/a133 Bilgilerinize.,dolandiricilik
+1128,Otomatik ödeme talimatınız ile 1.200 TL fatura ödendi.,normal
+1129,Paketiniz pazar teslim edilecektir. İyi,normal
+1130,"Mehmet ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Detaylar için arayın.",dolandiricilik
+1131,Otomatik ödeme talimatınız ile 250 TL fatura ödendi.,normal
+1132,E-devlet vergi iadeniz 2.750 TL hazır. Kart bilgilerinizi girerek alın: hesap-dogrula.com/a336,dolandiricilik
+1133,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin.,dolandiricilik
+1134,Kartınızdan 480 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Bilgilerinize.,normal
+1135,"Acil dönüş yapar mısın Ayşe, toplantı saati değişti. Teşekkürler.",normal
+1136,Kampanya: bugün yapacağınız alışverişlerde 1.890 TL puan kazanın. Detaylar mobil uygulamada.,normal
+1137,"Acil dönüş yapar mısın Merve, toplantı saati değişti.",normal
+1138,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: hesap-dogrula.com/a922 İyi günler.,dolandiricilik
+1139,"Tebrikler Burak, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+1140,Siparişiniz kargo ile yola çıktı. Takip numaranız 314174.,normal
+1141,Faturanız 250 TL olarak kesilmiştir. Son ödeme yarın. Teşekkürler.,normal
+1142,"Eczanemizde reçeteniz hazırdır,",normal
+1143,Kampanya: bugün yapacağınız alışverişlerde 250 TL puan kazanın. Detaylar mobil uygulamada. Teşekkürler.,normal
+1144,"Tebrikler Elif, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+1145,E-devlet vergi iadeniz 150 TL hazır. Kart bilgilerinizi girerek alın: guvenli-odeme.net/a750 Teşekkürler.,dolandiricilik
+1146,Kampanya detayları için tıklayın:,normal
+1147,Tek kullanımlık şifreniz: 740195.,normal
+1148,"Anneciğim bugün size uğrayacağız,",normal
+1149,Ayşe toplantı 14:15 da,normal
+1150,Doğum günün kutlu,normal
+1151,"Acil dönüş yapar mısın Burak, toplantı saati değişti.",normal
+1152,Güvenliğiniz için hesabınıza erişim geçici,normal
+1153,Tek kullanımlık şifreniz: 214746. Bu şifreyi kimseyle paylaşmayınız. Bilgilerinize.,normal
+1154,"Eczanemizde reçeteniz hazırdır,",normal
+1155,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1156,"Acil dönüş yapar mısın Burak, toplantı saati değişti. Detaylar için arayın.",normal
+1157,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+1158,Siparişiniz kargo ile yola çıktı. Takip numaranız 926888. Teşekkürler.,normal
+1159,"Eczanemizde reçeteniz hazırdır, cumartesi teslim alabilirsiniz. Detaylar için arayın.",normal
+1160,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: edevlet-iade.info/a733,dolandiricilik
+1161,Tek kullanımlık şifreniz: 618070. Bu şifreyi kimseyle paylaşmayınız.,normal
+1162,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 1.890 TL. Teşekkürler.,normal
+1163,"Acil dönüş yapar mısın Burak, toplantı saati değişti. İyi günler.",normal
+1164,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz",normal
+1165,Randevunuz bugün saat 20:30 olarak onaylanmıştır.,normal
+1166,Otomatik ödeme talimatınız,normal
+1167,Faturanız 1.200 TL olarak kesilmiştir.,normal
+1168,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Bilgilerinize.,normal
+1169,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz.",normal
+1170,Acil dönüş yapar mısın,normal
+1171,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Detaylar için arayın.,normal
+1172,"Tebrikler Zeynep, kazandın! Maç",normal
+1173,"Merhaba Deniz, akşam",normal
+1174,Kartınızdan 1.200 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Bilgilerinize.,normal
+1175,Otomatik ödeme talimatınız,normal
+1176,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: guvenli-odeme.net/a514 İyi günler.,dolandiricilik
+1177,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Detaylar için arayın.,normal
+1178,Siparişiniz kargo ile yola çıktı. Takip numaranız 216406. İyi günler.,normal
+1179,Randevunuz bugün saat,normal
+1180,Kampanya: cumartesi yapacağınız alışverişlerde 320 TL puan kazanın. Detaylar mobil uygulamada.,normal
+1181,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. tinyurl.com/a378,dolandiricilik
+1182,Hesabınıza 1.890 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. İyi günler.,normal
+1183,Tek kullanımlık şifreniz: 555404. Bu şifreyi kimseyle paylaşmayınız. Detaylar için arayın.,normal
+1184,Otomatik ödeme talimatınız ile 320 TL fatura ödendi. Teşekkürler.,normal
+1185,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: guvenli-odeme.net/a433 Bilgilerinize.,dolandiricilik
+1186,"Emre ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Detaylar için arayın.",dolandiricilik
+1187,Randevunuz bugün saat,normal
+1188,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Detaylar için arayın.,normal
+1189,Siparişiniz kurye ile yola çıktı. Takip numaranız 572730.,normal
+1190,Acil dönüş yapar,normal
+1191,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin.,dolandiricilik
+1192,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: bit.ly/a247 Bilgilerinize.",dolandiricilik
+1193,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: bit.ly/a170 Detaylar için arayın.,dolandiricilik
+1194,Faturanız 480 TL,normal
+1195,Faturanız 5.000 TL olarak kesilmiştir.,normal
+1196,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+1197,Faturanız 150 TL,normal
+1198,"Selin toplantı 16:45 da başlıyor, geç kalma. İyi günler.",normal
+1199,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Detaylar için arayın.",normal
+1200,"Toplantı notlarını mail attım, bakabilir misin? İyi günler.",normal
+1201,"Tebrikler Merve, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+1202,"Toplantı notlarını mail attım, bakabilir misin?",normal
+1203,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a148 İyi günler.,dolandiricilik
+1204,"Eczanemizde reçeteniz hazırdır, pazar teslim alabilirsiniz. Bilgilerinize.",normal
+1205,"Kredi başvurunuz onaylandı. 89 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. İyi günler.",dolandiricilik
+1206,"Eczanemizde reçeteniz hazırdır, cuma teslim alabilirsiniz. İyi günler.",normal
+1207,"Kredi başvurunuz onaylandı. 480 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. Bilgilerinize.",dolandiricilik
+1208,Randevunuz bugün saat 16:45 olarak onaylanmıştır. İyi günler.,normal
+1209,Randevunuz bugün saat 09:30 olarak onaylanmıştır.,normal
+1210,"Burak toplantı 18:00 da başlıyor, geç kalma. Teşekkürler.",normal
+1211,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz.",normal
+1212,Faturanız 150 TL olarak kesilmiştir. Son ödeme pazar.,normal
+1213,Kartınız askıya alındı. Şifre ve kart bilgilerinizi doğrulayın: tinyurl.com/a295 İyi günler.,dolandiricilik
+1214,Paketiniz pazartesi teslim,normal
+1215,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+1216,Kartınızdan 2.750 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+1217,Kampanya: pazar yapacağınız alışverişlerde 480 TL,normal
+1218,Faturanız 1.200 TL olarak kesilmiştir. Son ödeme pazar.,normal
+1219,Randevunuz iptal edilmiştir. Yeniden onay,dolandiricilik
+1220,Kartınızdan 640 TL harcama yapılmıştır. Size ait değilse iptal için: hesap-dogrula.com/a975 Bilgilerinize.,dolandiricilik
+1221,"Eczanemizde reçeteniz hazırdır, yarın teslim alabilirsiniz. Detaylar için arayın.",normal
+1222,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: tinyurl.com/a694,dolandiricilik
+1223,Doğum günün kutlu olsun Mehmet! Nice mutlu yıllara. Teşekkürler.,normal
+1224,Siparişiniz kargo ile yola çıktı.,dolandiricilik
+1225,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin. İyi günler.,dolandiricilik
+1226,Hesabınıza 250 TL maaş,normal
+1227,Merhaba annecim telefonum bozuldu bu numaradan yazıyorum acil 5.000 TL lazım hemen gönder.,dolandiricilik
+1228,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz kargo-takip.xyz/a579",dolandiricilik
+1229,"Merhaba Zeynep, akşam",normal
+1230,Tek kullanımlık şifreniz: 738913. Bu şifreyi kimseyle paylaşmayınız. İyi günler.,normal
+1231,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cumartesi. Tutar: 5.000 TL. İyi günler.,normal
+1232,Otomatik ödeme talimatınız ile 250 TL fatura ödendi. Teşekkürler.,normal
+1233,Kargonuz dağıtıma çıktı. Teslimat saatini,normal
+1234,Kartınızdan 480 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a527 Teşekkürler.,dolandiricilik
+1235,"Burak toplantı 18:00 da başlıyor, geç kalma. Teşekkürler.",normal
+1236,Kampanya: bugün yapacağınız alışverişlerde 150 TL puan kazanın. Detaylar mobil uygulamada. İyi günler.,normal
+1237,Kargonuz dağıtıma çıktı.,normal
+1238,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz hesap-dogrula.com/a727 Bilgilerinize.",dolandiricilik
+1239,"Merhaba Can, akşam yemeğe geliyor musun? Detaylar için arayın.",normal
+1240,Siparişiniz kurye ile yola,normal
+1241,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: hesap-dogrula.com/a941,dolandiricilik
+1242,"Tebrikler Elif, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+1243,Randevunuz pazar saat 18:00 olarak onaylanmıştır. Bilgilerinize.,normal
+1244,Tebrikler! 2.750 TL ödül kazandınız. Almak için tıklayın edevlet-iade.info/a716 Teşekkürler.,dolandiricilik
+1245,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1246,Kampanya: cumartesi yapacağınız alışverişlerde 2.750 TL puan kazanın. Detaylar mobil uygulamada. Teşekkürler.,normal
+1247,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 250 TL.,normal
+1248,Kartınızdan 2.750 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+1249,"Sayın müşterimiz, güvenlik nedeniyle bilgilerinizi hemen güncelleyiniz bit.ly/a743 İyi günler.",dolandiricilik
+1250,"Elif toplantı 16:45 da başlıyor, geç kalma. Detaylar için arayın.",normal
+1251,Müşteri temsilcimiz sizi,dolandiricilik
+1252,Kampanya: yarın yapacağınız alışverişlerde 5.000 TL puan kazanın. Detaylar mobil uygulamada. İyi günler.,normal
+1253,Hesabınıza 1.890 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. İyi günler.,normal
+1254,"Selin toplantı 18:00 da başlıyor, geç kalma.",normal
+1255,Hesabınızdan şüpheli işlem tespit edildi.,dolandiricilik
+1256,"Tebrikler Deniz, kazandın! Maç",normal
+1257,"Tebrikler Deniz, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+1258,"Acil dönüş yapar mısın Selin, toplantı saati değişti.",normal
+1259,"Deniz yola çıktım, 11:00 gibi oradayım.",normal
+1260,E-devlet vergi iadeniz 480 TL hazır. Kart bilgilerinizi girerek alın: bit.ly/a235 Teşekkürler.,dolandiricilik
+1261,Kredi kartı hesap özetiniz hazırlandı.,normal
+1262,Bedava internet paketi kazandınız!,dolandiricilik
+1263,Otomatik ödeme talimatınız ile 640 TL fatura ödendi. Detaylar için arayın.,normal
+1264,Siparişiniz kargo ile yola çıktı. Takip numaranız 899189.,normal
+1265,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. tinyurl.com/a400,dolandiricilik
+1266,"Merhaba Merve, akşam yemeğe geliyor musun? Detaylar için arayın.",normal
+1267,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. İyi günler.,normal
+1268,Kartınız ile yapılan 320 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Detaylar için arayın.,normal
+1269,Güvenliğiniz için hesabınıza erişim,normal
+1270,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: edevlet-iade.info/a513,dolandiricilik
+1271,Kartınızdan 5.000 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a599,dolandiricilik
+1272,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 5.000 TL.,normal
+1273,"Acil dönüş yapar mısın Merve, toplantı saati değişti.",normal
+1274,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz. Detaylar için arayın.",normal
+1275,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin. Teşekkürler.,dolandiricilik
+1276,"Emre yola çıktım, 09:30 gibi oradayım. Detaylar için arayın.",normal
+1277,Kartınız ile yapılan 150 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Teşekkürler.,normal
+1278,Tek kullanımlık şifreniz:,normal
+1279,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+1280,Kredi başvurunuz onaylandı. 5.000 TL için masraf ücretini,dolandiricilik
+1281,Faturanız 5.000 TL olarak kesilmiştir. Son ödeme cuma. Detaylar için arayın.,normal
+1282,Paketiniz cuma teslim edilecektir. İyi günler. Teşekkürler.,normal
+1283,Siparişiniz kargo ile yola çıktı. Takip numaranız 768422. Teşekkürler.,normal
+1284,Hesabınıza 150 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Detaylar için arayın.,normal
+1285,"Bedava internet paketi kazandınız! Hemen tıkla, sınırlı süre: kargo-takip.xyz/a144 Teşekkürler.",dolandiricilik
+1286,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz.",normal
+1287,Kartınızdan 5.000 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+1288,"Acil dönüş yapar mısın Zeynep,",normal
+1289,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+1290,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi bugün. Tutar: 1.200 TL.,normal
+1291,Hesabınıza 640 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Bilgilerinize.,normal
+1292,Kartınızdan 2.750 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+1293,Otomatik ödeme talimatınız ile,normal
+1294,Kartınızdan 2.750 TL harcama yapılmıştır. Size ait değilse iptal için: tinyurl.com/a220 İyi günler.,dolandiricilik
+1295,Siparişiniz kargo ile yola,normal
+1296,Tek kullanımlık şifreniz: 622711. Bu şifreyi kimseyle paylaşmayınız.,normal
+1297,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin.",dolandiricilik
+1298,"Tebrikler, çekilişimizde hediye puan",normal
+1299,Paketiniz cuma teslim,normal
+1300,Otomatik ödeme talimatınız ile 150 TL fatura ödendi.,normal
+1301,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin.",dolandiricilik
+1302,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: kargo-takip.xyz/a463,dolandiricilik
+1303,Siparişiniz kurye ile yola çıktı. Takip numaranız 603273. Teşekkürler.,normal
+1304,"Eczanemizde reçeteniz hazırdır, cuma teslim alabilirsiniz. Bilgilerinize.",normal
+1305,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a299,dolandiricilik
+1306,"Tebrikler, çekilişimizde hediye",normal
+1307,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+1308,Kredi kartı hesap özetiniz hazırlandı. Son ödeme,normal
+1309,Toplantı notlarını mail,normal
+1310,Siparişiniz kargo ile yola çıktı. Takip numaranız 643759.,normal
+1311,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Bilgilerinize.,normal
+1312,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınızı kartınıza yüklemek için bilgilerinizi girin. Teşekkürler.",dolandiricilik
+1313,Otomatik ödeme talimatınız ile 150 TL fatura ödendi.,normal
+1314,Kartınızdan 89 TL harcama yapılmıştır.,dolandiricilik
+1315,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. kargo-takip.xyz/a644 Bilgilerinize.,dolandiricilik
+1316,"Sayın müşterimiz, güvenlik",dolandiricilik
+1317,"Anneciğim pazartesi size uğrayacağız, bir şey lazım mı? İyi günler.",normal
+1318,Faturanız 480 TL olarak kesilmiştir. Son ödeme pazar.,normal
+1319,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a830,dolandiricilik
+1320,"Tebrikler Burak, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+1321,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: tinyurl.com/a481 Teşekkürler.,dolandiricilik
+1322,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: hesap-dogrula.com/a896 İyi günler.,dolandiricilik
+1323,"Deniz ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Bilgilerinize.",dolandiricilik
+1324,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Bilgilerinize.",normal
+1325,Kartınız ile yapılan 480 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+1326,Doğum günün kutlu olsun Merve! Nice mutlu yıllara. İyi günler.,normal
+1327,E-devlet vergi iadeniz 480 TL hazır. Kart bilgilerinizi girerek alın: guvenli-odeme.net/a872 Detaylar için arayın.,dolandiricilik
+1328,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+1329,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde",normal
+1330,"Burak yola çıktım, 14:15 gibi oradayım. Detaylar için arayın.",normal
+1331,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: edevlet-iade.info/a559 Detaylar için arayın.,dolandiricilik
+1332,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: kargo-takip.xyz/a745,dolandiricilik
+1333,Siparişiniz kurye ile yola çıktı.,dolandiricilik
+1334,Siparişiniz kargo ile,dolandiricilik
+1335,Kargonuz adres eksikliği nedeniyle teslim,dolandiricilik
+1336,Siparişiniz kargo ile yola çıktı.,normal
+1337,"Toplantı notlarını mail attım, bakabilir misin? İyi günler.",normal
+1338,Kampanya: pazartesi yapacağınız alışverişlerde,normal
+1339,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cuma. Tutar: 1.200 TL.,normal
+1340,"Anneciğim pazar size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+1341,Deniz toplantı 11:00,normal
+1342,Kartınız ile yapılan 480 TL işlem,normal
+1343,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. edevlet-iade.info/a770,dolandiricilik
+1344,Güvenliğiniz için hesabınıza,normal
+1345,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 320 TL.,normal
+1346,Kampanya: pazar yapacağınız alışverişlerde 150 TL puan kazanın. Detaylar mobil uygulamada.,normal
+1347,Kartınızdan 2.750 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. İyi günler.,normal
+1348,"Toplantı notlarını mail attım, bakabilir misin? İyi günler.",normal
+1349,Kartınızdan 250 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+1350,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. tinyurl.com/a363 Detaylar için arayın.,dolandiricilik
+1351,Paketiniz pazar teslim edilecektir. İyi günler.,normal
+1352,Doğum günün kutlu olsun,normal
+1353,Merve toplantı 09:30 da,normal
+1354,Siparişiniz kargo ile yola çıktı. Takip numaranız 428946.,normal
+1355,E-devlet vergi iadeniz 1.200 TL hazır. Kart bilgilerinizi girerek alın: tinyurl.com/a784 Teşekkürler.,dolandiricilik
+1356,Güvenliğiniz için hesabınıza erişim geçici,normal
+1357,"Toplantı notlarını mail attım, bakabilir misin?",normal
+1358,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Bilgilerinize.,normal
+1359,Paketiniz yarın teslim edilecektir. İyi günler.,normal
+1360,"Anneciğim bugün size uğrayacağız, bir şey lazım mı?",normal
+1361,"Toplantı notlarını mail attım, bakabilir misin? Teşekkürler.",normal
+1362,"Acil dönüş yapar mısın Elif, toplantı saati değişti. Teşekkürler.",normal
+1363,Tek kullanımlık şifreniz: 164675. Bu şifreyi kimseyle paylaşmayınız. Detaylar için arayın.,normal
+1364,"Merhaba Elif, akşam yemeğe geliyor musun? Bilgilerinize.",normal
+1365,Paketiniz pazar teslim edilecektir. İyi günler.,normal
+1366,"Müşteri temsilcimiz sizi arayacak, telefonunuza gelen şifreyi kendisine söyleyiniz. Detaylar için arayın.",dolandiricilik
+1367,"Kredi başvurunuz onaylandı. 89 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. İyi günler.",dolandiricilik
+1368,"Acil dönüş yapar mısın Merve, toplantı saati değişti. Teşekkürler.",normal
+1369,Tek kullanımlık şifreniz: 166651. Bu şifreyi kimseyle paylaşmayınız.,normal
+1370,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+1371,"Eczanemizde reçeteniz hazırdır,",normal
+1372,"Mehmet yola çıktım, 14:15 gibi oradayım.",normal
+1373,"Toplantı notlarını mail attım, bakabilir misin? İyi günler.",normal
+1374,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1375,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi yarın. Tutar: 2.750 TL.,normal
+1376,Randevunuz cuma saat 16:45 olarak onaylanmıştır. İyi günler.,normal
+1377,"Anneciğim bugün size uğrayacağız, bir",normal
+1378,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Detaylar için arayın.,normal
+1379,Doğum günün kutlu olsun Elif! Nice mutlu yıllara.,normal
+1380,Randevunuz cumartesi saat 09:30 olarak onaylanmıştır. Bilgilerinize.,normal
+1381,Kartınız ile yapılan 2.750 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. Teşekkürler.,normal
+1382,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+1383,"Emre toplantı 18:00 da başlıyor, geç kalma. Bilgilerinize.",normal
+1384,"Elif yola çıktım,",normal
+1385,Randevunuz yarın saat 18:00 olarak onaylanmıştır. İyi günler.,normal
+1386,Paketiniz bugün teslim edilecektir. İyi günler. Detaylar için arayın.,normal
+1387,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? Bilgilerinize.",normal
+1388,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1389,"Merhaba Selin, akşam",normal
+1390,Kargonuz dağıtıma çıktı. Teslimat,normal
+1391,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1392,Doğum günün kutlu olsun Elif! Nice mutlu yıllara. İyi günler.,normal
+1393,Doğum günün kutlu olsun Ayşe! Nice mutlu yıllara. İyi günler.,normal
+1394,Randevunuz bugün saat 09:30 olarak onaylanmıştır.,normal
+1395,Siparişiniz kargo ile yola çıktı. Takip numaranız 161402.,normal
+1396,Hesabınıza 480 TL maaş ödemesi yatırılmıştır. İyi günler dileriz. Teşekkürler.,normal
+1397,Hesabınız bloke edilmiştir. Açmak için hemen tıklayın: bit.ly/a262 Bilgilerinize.,dolandiricilik
+1398,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+1399,Acil dönüş yapar,normal
+1400,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cuma. Tutar: 480 TL. İyi günler.,normal
+1401,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1402,Kartınızdan 89 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz.,normal
+1403,"Merhaba Ayşe, akşam yemeğe geliyor musun?",normal
+1404,"Tebrikler Emre, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+1405,Kartınızdan 5.000 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+1406,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+1407,Siparişiniz kurye ile yola çıktı. Takip numaranız 573243. Bilgilerinize.,normal
+1408,Randevunuz pazartesi saat 09:30 olarak onaylanmıştır. Detaylar için arayın.,normal
+1409,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Teşekkürler.",normal
+1410,"Acil dönüş yapar mısın Mehmet, toplantı saati değişti. İyi günler.",normal
+1411,"Anneciğim pazartesi size uğrayacağız, bir şey lazım mı? Detaylar için arayın.",normal
+1412,Kartınızdan 1.200 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Teşekkürler.,normal
+1413,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 640 TL.,normal
+1414,"Tebrikler Burak, kazandın! Maç bileti",normal
+1415,Randevunuz iptal edilmiştir. Yeniden,dolandiricilik
+1416,"Eczanemizde reçeteniz hazırdır, bugün teslim alabilirsiniz. Detaylar için arayın.",normal
+1417,Kartınızdan 89 TL harcama yapılmıştır. Size ait değilse iptal için: guvenli-odeme.net/a325,dolandiricilik
+1418,"Emre yola çıktım, 09:30 gibi oradayım. İyi günler.",normal
+1419,Paketiniz cumartesi teslim,normal
+1420,Kartınız ile yapılan 320 TL,normal
+1421,Paketiniz cuma teslim edilecektir. İyi günler. İyi günler.,normal
+1422,"Acil dönüş yapar mısın Burak, toplantı saati değişti.",normal
+1423,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın.,normal
+1424,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Bilgilerinize.,normal
+1425,Otomatik ödeme talimatınız ile 5.000 TL fatura ödendi.,normal
+1426,"Tebrikler Zeynep, kazandın! Maç bileti bende, akşam konuşuruz. Bilgilerinize.",normal
+1427,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz.,normal
+1428,Hesabınızdan şüpheli işlem tespit,dolandiricilik
+1429,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz.",normal
+1430,"Selin yola çıktım, 16:45 gibi oradayım.",normal
+1431,Hesabınızdan şüpheli işlem tespit edildi. İptal için size gelen şifreyi bu numaraya iletin. Bilgilerinize.,dolandiricilik
+1432,Acil dönüş yapar,normal
+1433,"Eczanemizde reçeteniz hazırdır, pazartesi teslim alabilirsiniz. Detaylar için arayın.",normal
+1434,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz. İyi günler.",normal
+1435,"Zeynep toplantı 11:00 da başlıyor, geç kalma.",normal
+1436,"Anneciğim bugün size uğrayacağız, bir şey lazım mı?",normal
+1437,"Paketiniz gümrükte bekliyor, 37 TL",dolandiricilik
+1438,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: hesap-dogrula.com/a400 Bilgilerinize.,dolandiricilik
+1439,"Toplantı notlarını mail attım, bakabilir misin? Teşekkürler.",normal
+1440,Siparişiniz kargo ile yola çıktı. Teslimat için onay verin: bit.ly/a622,dolandiricilik
+1441,Siparişiniz kargo ile yola çıktı. Takip numaranız 113494. Detaylar için arayın.,normal
+1442,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın.",normal
+1443,Kartınızdan 250 TL harcama yapılmıştır. Size,dolandiricilik
+1444,"Tebrikler, çekilişimizde hediye puan kazandınız. Puanınız kartınıza yüklendi.",normal
+1445,Faturanız 5.000 TL olarak kesilmiştir. Son ödeme cumartesi. Detaylar için arayın.,normal
+1446,Kartınız ile yapılan 250 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+1447,"Toplantı notlarını mail attım, bakabilir",normal
+1448,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Bilgilerinize.,normal
+1449,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Teşekkürler.",normal
+1450,"Merve ben, yeni numaram bu. Acil para lazım, IBAN atıyorum. Bilgilerinize.",dolandiricilik
+1451,Doğum günün kutlu olsun Burak! Nice mutlu yıllara.,normal
+1452,Doğum günün kutlu olsun Elif! Nice mutlu yıllara.,normal
+1453,Kartınız ile yapılan 89 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız. İyi günler.,normal
+1454,"Toplantı notlarını mail attım, bakabilir misin? İyi günler.",normal
+1455,"Ayşe toplantı 09:30 da başlıyor, geç kalma. Teşekkürler.",normal
+1456,Kartınızdan 250 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Teşekkürler.,normal
+1457,Tebrikler! 89 TL ödül kazandınız. Almak için tıklayın guvenli-odeme.net/a630 Detaylar için arayın.,dolandiricilik
+1458,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Detaylar için arayın.,normal
+1459,Siparişiniz kargo ile yola çıktı. Teslimat,dolandiricilik
+1460,"Mehmet yola çıktım, 16:45 gibi oradayım. Bilgilerinize.",normal
+1461,Hesabınıza 480 TL maaş,normal
+1462,Kampanya: pazartesi yapacağınız alışverişlerde 320 TL puan kazanın. Detaylar mobil uygulamada.,normal
+1463,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi cumartesi. Tutar: 5.000 TL. Detaylar için arayın.,normal
+1464,Siparişiniz kurye ile yola çıktı. Takip numaranız 963712. Teşekkürler.,normal
+1465,Siparişiniz kargo ile yola çıktı. Takip numaranız 967934.,normal
+1466,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz. Bilgilerinize.,normal
+1467,Güvenliğiniz için hesabınıza erişim geçici olarak kısıtlanmıştır. Lütfen şubenize başvurunuz.,normal
+1468,Hesabınıza 5.000 TL maaş ödemesi yatırılmıştır. İyi günler dileriz.,normal
+1469,Kredi kartı hesap özetiniz hazırlandı. Son ödeme tarihi pazartesi. Tutar: 1.890 TL.,normal
+1470,Kargonuz dağıtıma çıktı. Teslimat saatini değiştirmek için uygulamayı kullanabilirsiniz. Teşekkürler.,normal
+1471,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. İyi günler.",normal
+1472,Kartınızdan 250 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a834,dolandiricilik
+1473,"Tebrikler Mehmet, kazandın! Maç bileti bende, akşam konuşuruz. Detaylar için arayın.",normal
+1474,Doğum günün kutlu olsun,normal
+1475,Kampanya detayları için,normal
+1476,"Tebrikler Burak, kazandın! Maç bileti bende, akşam konuşuruz. Teşekkürler.",normal
+1477,Kartınızdan 640 TL harcama yapılmıştır. Size ait değilse iptal için: kargo-takip.xyz/a110,dolandiricilik
+1478,"Hemen mobil uygulamamızdan başvurun, ihtiyaç kredisinde faizsiz ilk taksit fırsatı. Ret için RET yazın. Teşekkürler.",normal
+1479,Kampanya detayları için tıklayın:,normal
+1480,Siparişiniz kurye ile yola,dolandiricilik
+1481,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. İyi günler.,normal
+1482,Güvenliğiniz için hesabınıza erişim geçici olarak,normal
+1483,"Kredi başvurunuz onaylandı. 2.750 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. İyi günler.",dolandiricilik
+1484,Otomatik ödeme talimatınız,normal
+1485,Doğum günün kutlu,normal
+1486,"Merhaba Elif, akşam yemeğe geliyor musun? İyi günler.",normal
+1487,"Kredi başvurunuz onaylandı. 2.750 TL için masraf ücretini yatırın, IBAN bilgisi için yanıtlayın. Bilgilerinize.",dolandiricilik
+1488,Kartınızdan 480 TL harcama yapılmıştır. Bilgi için müşteri hizmetlerimizi arayabilirsiniz. Detaylar için arayın.,normal
+1489,Kartınızdan 480 TL harcama yapılmıştır. Size ait değilse iptal için: bit.ly/a421 Teşekkürler.,dolandiricilik
+1490,Kartınız ile yapılan 1.890 TL işlem onaylanmadı. Size ait değilse şubemizi arayınız.,normal
+1491,Son uyarı! Hesap doğrulama yapmazsanız hesabınız kapatılacak. bit.ly/a447,dolandiricilik
+1492,"Anneciğim bugün size uğrayacağız, bir şey lazım mı? Detaylar için arayın.",normal
+1493,Kampanya detayları için tıklayın: bankamiz.com.tr/kampanya. Ret için RET yazın. Bilgilerinize.,normal
+1494,"Merhaba Emre, akşam yemeğe geliyor musun?",normal
+1495,"Merhaba Emre, akşam yemeğe geliyor musun? İyi günler.",normal
+1496,Doğum günün kutlu olsun Can!,normal
+1497,Siparişiniz kurye ile yola çıktı. Teslimat için onay verin: bit.ly/a319,dolandiricilik
+1498,"Tebrikler Ayşe, kazandın! Maç bileti bende, akşam konuşuruz.",normal
+1499,Kargonuz adres eksikliği nedeniyle teslim edilemedi. Adres güncelleme için: hesap-dogrula.com/a280,dolandiricilik
+1500,Kampanya detayları için,normal
