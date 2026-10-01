@@ -1,0 +1,2501 @@
+rota,havayolu,aktarma,ucus_suresi_dk,kalan_gun,kalkis_dilimi,ucus_gunu,bayram_donemi,bagaj_dahil,doluluk_orani,arama_cihazi,fiyat_tl
+ANK-IZM,Kanat,0,72,3,Ogle,Cuma,0,0,0.9,Mobil,4310
+IST-ANT,Bulut,0,85,65,Aksam,Hafta ici,0,1,0.71,Mobil,2740
+IZM-ANT,Zirve,0,61,19,Sabah,Pazar,0,1,0.61,Masaustu,2790
+IST-VAN,Zirve,0,136,64,Sabah,Hafta ici,1,0,0.54,Masaustu,6050
+IST-ANK,Kanat,0,77,51,Ogle,Hafta ici,0,0,0.45,Mobil,1390
+ANK-TZX,Kanat,0,91,18,Sabah erken,Pazar,0,1,0.77,Masaustu,1960
+ANK-IZM,Zirve,0,68,42,Sabah,Pazar,0,0,0.52,Mobil,2780
+ANK-IZM,Zirve,0,77,3,Sabah,Hafta ici,0,0,0.51,Mobil,4950
+IST-ANK,Bulut,0,69,63,Ogle,Hafta ici,0,0,0.83,Mobil,1870
+IST-ANT,Bulut,0,77,27,Sabah,Hafta ici,0,0,0.66,Mobil,1740
+IST-IZM,Bulut,0,73,34,Ogle,Hafta ici,0,0,0.7,Mobil,1380
+ANK-TZX,Bulut,0,83,14,Gece,Hafta ici,0,0,0.75,Mobil,1580
+IST-TZX,Kanat,0,108,33,Ogle,Hafta ici,0,1,0.29,Mobil,1990
+IZM-ANT,Kanat,0,59,36,Sabah,Hafta ici,1,0,0.86,Masaustu,1900
+IST-ANT,Kanat,0,82,20,Sabah erken,Cuma,0,0,0.86,Mobil,1540
+IST-IZM,Zirve,0,62,89,Sabah erken,Cuma,0,0,0.82,Mobil,2830
+IST-ANT,Kanat,0,77,25,Ogle,Cuma,0,0,0.69,Mobil,1660
+IST-ANK,Kanat,0,70,16,Aksam,Hafta ici,0,1,0.59,Masaustu,2080
+IZM-ANT,Bulut,0,58,49,Sabah erken,Hafta ici,0,1,0.8,Masaustu,1540
+IST-TZX,Kanat,0,107,29,Sabah,Hafta ici,0,1,0.73,Masaustu,1830
+ANK-IZM,Kanat,1,173,41,Sabah,Pazar,0,0,0.62,Masaustu,1400
+IST-IZM,Bulut,1,220,65,Sabah,Hafta ici,0,0,0.79,Masaustu,1570
+ANK-TZX,Kanat,1,244,7,Gece,Cuma,1,0,0.62,Mobil,3730
+IZM-ANT,Bulut,0,56,46,Sabah,Hafta ici,0,0,0.65,Mobil,1530
+ANK-IZM,Zirve,0,77,1,Sabah erken,Pazar,0,1,0.9,Mobil,6570
+IST-ANK,Kanat,0,69,3,Sabah,Hafta ici,0,0,0.76,Mobil,3610
+IST-ANT,Zirve,0,77,8,Sabah erken,Hafta ici,0,0,0.51,Mobil,2940
+IST-ANK,Zirve,0,74,14,Sabah erken,Cumartesi,0,0,0.45,Mobil,2300
+IST-ANK,Zirve,0,77,31,Ogle,Hafta ici,0,0,0.81,Mobil,1760
+IST-VAN,Bulut,0,135,85,Sabah,Hafta ici,1,0,0.48,Masaustu,5070
+ANK-IZM,Bulut,0,76,82,Sabah erken,Hafta ici,0,1,0.84,Mobil,2350
+ANK-TZX,Bulut,1,227,9,Aksam,Pazar,0,1,0.6,Masaustu,2930
+IST-IZM,Bulut,0,61,90,Ogle,Cuma,0,0,0.36,Masaustu,2410
+IST-IZM,Kanat,0,71,57,Sabah erken,Hafta ici,0,0,0.74,Masaustu,1370
+IST-ANT,Zirve,0,88,50,Gece,Cumartesi,0,0,0.71,Mobil,1950
+IST-ANK,Bulut,0,79,72,Sabah,Cuma,0,0,0.65,Masaustu,2700
+IST-ANK,Zirve,1,255,44,Gece,Hafta ici,0,1,0.82,Mobil,1690
+IST-ANT,Kanat,0,83,24,Gece,Hafta ici,0,0,0.28,Masaustu,1120
+IST-IZM,Kanat,1,223,48,Ogle,Hafta ici,1,1,0.75,Mobil,1910
+IST-VAN,Bulut,0,131,65,Sabah,Cuma,0,1,0.74,Mobil,3750
+IST-ANT,Bulut,0,89,62,Aksam,Hafta ici,0,0,0.7,Mobil,2200
+IZM-ANT,Bulut,0,56,15,Sabah,Pazar,0,1,0.7,Masaustu,2560
+IST-VAN,Kanat,0,134,85,Sabah,Hafta ici,0,1,0.61,Masaustu,3270
+IST-IZM,Kanat,0,74,25,Ogle,Cuma,0,1,0.49,Masaustu,2000
+IZM-ANT,Bulut,0,63,74,Ogle,Hafta ici,0,0,0.46,Masaustu,1760
+ANK-IZM,Kanat,1,210,28,Gece,Cuma,0,1,0.79,Mobil,1190
+IST-ANT,Zirve,0,82,5,Aksam,Hafta ici,0,0,0.56,Masaustu,4200
+IST-IZM,Kanat,1,171,90,Gece,Hafta ici,0,0,0.45,Mobil,1170
+IST-VAN,Kanat,0,131,53,Aksam,Hafta ici,0,1,0.36,Masaustu,2990
+IST-ANK,Kanat,1,177,19,Aksam,Cuma,0,0,0.49,Masaustu,1430
+IST-ANK,Bulut,0,65,0,Ogle,Hafta ici,0,0,0.92,Mobil,4680
+IST-ANK,Bulut,0,67,11,Gece,Cumartesi,0,0,0.71,Mobil,1690
+ANK-IZM,Bulut,0,72,15,Gece,Hafta ici,0,0,0.75,Masaustu,1500
+IST-VAN,Zirve,0,136,84,Aksam,Hafta ici,0,0,0.83,Masaustu,3890
+IST-VAN,Kanat,1,294,16,Aksam,Hafta ici,0,0,0.22,Masaustu,1750
+ANK-IZM,Bulut,0,76,14,Ogle,Hafta ici,0,0,0.92,Masaustu,1980
+IST-ANT,Kanat,0,79,76,Sabah,Hafta ici,0,1,0.65,Masaustu,2570
+IST-TZX,Kanat,0,117,80,Gece,Hafta ici,0,0,0.82,Mobil,1870
+IST-ANK,Bulut,0,65,19,Sabah erken,Cuma,0,1,0.68,Mobil,1930
+IST-ANK,Kanat,0,68,59,Sabah,Pazar,0,1,0.85,Mobil,2620
+IST-VAN,Bulut,0,134,48,Ogle,Hafta ici,0,1,0.79,Mobil,2580
+IST-ANT,Bulut,0,83,52,Ogle,Cuma,0,1,0.6,Masaustu,2440
+IST-TZX,Bulut,0,111,28,Ogle,Cuma,0,1,0.65,Mobil,2130
+ANK-IZM,Bulut,0,67,68,Sabah,Cuma,0,0,0.9,Masaustu,2650
+IST-TZX,Bulut,1,218,80,Sabah erken,Hafta ici,0,1,0.69,Mobil,2390
+IST-ANT,Kanat,0,89,66,Sabah,Pazar,0,1,0.68,Masaustu,2680
+IST-ANT,Kanat,0,77,82,Sabah,Hafta ici,0,1,0.67,Mobil,2390
+IST-IZM,Kanat,0,63,10,Sabah erken,Cumartesi,0,0,0.45,Mobil,1630
+IST-ANK,Bulut,0,72,59,Aksam,Hafta ici,0,1,0.55,Mobil,2430
+IST-ANT,Zirve,0,85,90,Sabah,Cumartesi,0,1,0.93,Masaustu,4510
+IST-IZM,Kanat,0,62,48,Sabah,Pazar,0,0,0.55,Mobil,1930
+IST-ANT,Bulut,0,78,85,Sabah,Pazar,0,1,0.74,Mobil,3100
+IZM-ANT,Zirve,0,58,31,Ogle,Hafta ici,0,1,0.92,Masaustu,2530
+IST-IZM,Zirve,0,69,81,Gece,Cumartesi,0,0,0.49,Mobil,2220
+IST-ANK,Bulut,1,186,85,Sabah erken,Hafta ici,0,0,0.8,Mobil,1440
+IST-IZM,Bulut,0,69,56,Sabah,Cuma,0,0,0.7,Mobil,2230
+IST-IZM,Bulut,0,66,64,Aksam,Hafta ici,0,1,0.64,Mobil,2510
+IST-VAN,Zirve,0,134,47,Sabah erken,Cuma,0,0,0.62,Mobil,3240
+IST-ANT,Kanat,0,87,28,Aksam,Hafta ici,0,1,0.52,Mobil,1700
+ANK-IZM,Zirve,0,77,48,Gece,Hafta ici,0,0,0.48,Mobil,1730
+IST-VAN,Kanat,0,142,87,Aksam,Hafta ici,0,1,0.51,Mobil,3340
+IST-ANT,Zirve,0,88,1,Gece,Hafta ici,0,1,0.47,Mobil,4700
+ANK-IZM,Kanat,0,68,18,Ogle,Hafta ici,0,1,0.65,Mobil,1750
+IST-ANK,Kanat,0,77,45,Ogle,Cumartesi,0,0,0.35,Mobil,1470
+IST-ANK,Kanat,1,172,30,Sabah erken,Cuma,0,0,0.68,Mobil,1090
+IST-ANK,Bulut,0,69,56,Sabah erken,Cumartesi,0,1,0.79,Mobil,2170
+ANK-IZM,Kanat,0,73,32,Sabah,Cumartesi,0,0,0.67,Masaustu,1340
+IST-ANT,Kanat,0,86,59,Ogle,Hafta ici,0,0,0.51,Mobil,1740
+IST-ANK,Bulut,1,210,9,Ogle,Hafta ici,0,0,0.96,Masaustu,2230
+IST-ANT,Bulut,0,83,30,Sabah,Hafta ici,0,0,0.84,Mobil,1710
+IST-ANK,Zirve,0,70,63,Aksam,Hafta ici,0,1,0.53,Mobil,3400
+IST-VAN,Zirve,0,138,42,Sabah,Hafta ici,0,0,0.6,Masaustu,3030
+IST-ANT,Bulut,0,82,64,Sabah,Cuma,0,0,0.41,Mobil,2420
+IST-ANT,Kanat,0,82,57,Sabah,Cuma,1,0,0.82,Masaustu,3330
+IST-IZM,Kanat,1,180,29,Aksam,Cuma,0,0,0.9,Mobil,1470
+IST-TZX,Zirve,0,114,38,Ogle,Hafta ici,1,0,0.77,Mobil,3810
+IST-IZM,Kanat,0,64,87,Aksam,Cumartesi,0,1,0.67,Mobil,2240
+IST-ANK,Bulut,0,67,87,Sabah erken,Hafta ici,0,1,0.39,Masaustu,2060
+IST-ANK,Zirve,1,230,3,Ogle,Pazar,0,1,0.88,Mobil,4950
+ANK-TZX,Zirve,1,166,64,Gece,Hafta ici,0,0,0.78,Mobil,1610
+IZM-ANT,Bulut,0,57,44,Sabah erken,Hafta ici,1,0,0.66,Masaustu,1850
+IST-VAN,Bulut,0,132,0,Ogle,Hafta ici,0,0,0.35,Mobil,6440
+IST-IZM,Bulut,0,74,57,Sabah erken,Hafta ici,0,1,0.37,Mobil,1870
+ANK-TZX,Zirve,0,84,2,Sabah erken,Hafta ici,0,1,0.87,Mobil,5110
+ANK-IZM,Kanat,1,236,29,Ogle,Hafta ici,0,1,0.74,Mobil,1460
+IST-VAN,Kanat,0,131,62,Sabah,Hafta ici,0,0,0.62,Mobil,2410
+IST-ANT,Bulut,0,89,73,Ogle,Pazar,0,1,0.66,Mobil,2570
+IST-IZM,Kanat,0,63,37,Gece,Hafta ici,0,1,0.63,Masaustu,1500
+IST-ANK,Bulut,0,70,73,Sabah,Hafta ici,0,0,0.59,Mobil,2210
+IZM-ANT,Kanat,1,227,76,Sabah erken,Pazar,0,1,0.45,Mobil,1860
+IST-ANT,Zirve,0,78,40,Aksam,Hafta ici,0,1,0.67,Mobil,2620
+IST-IZM,Zirve,0,68,15,Ogle,Cumartesi,0,0,0.75,Mobil,2220
+IST-IZM,Bulut,0,71,59,Gece,Hafta ici,0,1,0.38,Mobil,1700
+IST-TZX,Zirve,1,220,1,Sabah,Hafta ici,0,1,0.29,Mobil,6220
+IST-ANK,Kanat,0,65,81,Aksam,Hafta ici,0,1,0.81,Masaustu,2580
+IZM-ANT,Bulut,1,184,35,Gece,Hafta ici,1,0,0.68,Mobil,1340
+ANK-IZM,Kanat,0,68,69,Sabah,Cuma,0,0,0.62,Masaustu,2430
+IST-VAN,Zirve,0,143,66,Aksam,Cumartesi,0,1,0.78,Masaustu,4450
+IST-ANT,Zirve,0,88,43,Aksam,Hafta ici,0,0,0.77,Mobil,2250
+IST-TZX,Zirve,0,118,88,Aksam,Pazar,0,0,0.55,Masaustu,4570
+IST-TZX,Zirve,0,119,72,Sabah,Hafta ici,0,0,0.54,Masaustu,3430
+IST-TZX,Zirve,0,117,80,Ogle,Hafta ici,0,0,0.74,Mobil,3420
+IST-ANK,Kanat,0,70,8,Sabah erken,Pazar,0,1,0.79,Mobil,2670
+IST-ANT,Zirve,0,89,44,Gece,Pazar,0,0,0.71,Mobil,2050
+IST-ANK,Bulut,0,70,86,Sabah erken,Hafta ici,0,0,0.5,Mobil,1970
+IST-ANT,Bulut,0,83,73,Sabah erken,Hafta ici,0,0,0.37,Masaustu,1650
+IST-IZM,Bulut,0,60,41,Gece,Hafta ici,0,0,0.77,Mobil,1120
+IST-ANK,Kanat,0,79,6,Sabah,Hafta ici,0,0,0.65,Mobil,2590
+IST-ANK,Kanat,1,163,25,Ogle,Cumartesi,1,0,0.72,Masaustu,1620
+IST-TZX,Kanat,1,234,52,Sabah,Hafta ici,0,0,0.33,Masaustu,1750
+IST-ANK,Kanat,0,70,58,Aksam,Cuma,0,0,0.67,Mobil,2200
+ANK-TZX,Bulut,0,84,84,Sabah,Hafta ici,0,1,0.52,Mobil,2620
+IST-TZX,Zirve,0,112,8,Ogle,Hafta ici,0,0,0.89,Mobil,4220
+IST-IZM,Bulut,0,72,36,Ogle,Hafta ici,0,1,0.56,Masaustu,1710
+IST-TZX,Bulut,1,272,24,Sabah,Hafta ici,0,0,0.62,Mobil,1450
+IST-ANK,Bulut,0,76,87,Sabah,Hafta ici,0,1,0.85,Mobil,2630
+ANK-TZX,Bulut,0,83,15,Sabah erken,Pazar,0,1,0.35,Mobil,2420
+IST-ANT,Kanat,0,86,20,Aksam,Pazar,0,0,0.47,Mobil,2210
+ANK-IZM,Zirve,0,75,27,Sabah,Cuma,0,1,0.91,Mobil,2930
+IST-ANK,Kanat,1,275,9,Sabah,Hafta ici,0,1,0.62,Masaustu,2250
+IST-ANT,Bulut,0,75,58,Sabah,Pazar,0,0,0.83,Masaustu,2330
+IST-ANT,Zirve,0,80,47,Ogle,Pazar,0,1,0.54,Mobil,2720
+ANK-TZX,Bulut,0,81,50,Aksam,Pazar,0,1,0.53,Masaustu,2570
+IST-TZX,Zirve,1,304,82,Ogle,Hafta ici,0,0,0.56,Mobil,2740
+IST-ANT,Kanat,0,86,39,Gece,Hafta ici,1,1,0.61,Mobil,2120
+IST-IZM,Zirve,1,158,28,Aksam,Cumartesi,0,0,0.61,Mobil,1590
+IST-IZM,Bulut,1,176,34,Aksam,Hafta ici,0,1,0.8,Mobil,1620
+IST-ANT,Zirve,0,86,72,Aksam,Hafta ici,0,1,0.36,Mobil,3460
+IST-ANT,Bulut,1,170,48,Sabah erken,Hafta ici,0,1,0.34,Mobil,1580
+IST-ANK,Zirve,0,78,15,Gece,Hafta ici,0,1,0.54,Mobil,2200
+IZM-ANT,Zirve,0,63,62,Aksam,Hafta ici,0,1,0.61,Masaustu,2780
+IZM-ANT,Bulut,0,68,67,Ogle,Cuma,0,0,0.96,Mobil,2860
+IST-ANK,Zirve,0,65,22,Sabah,Cuma,0,0,0.96,Mobil,3470
+IST-ANT,Bulut,0,85,50,Sabah,Hafta ici,0,1,0.54,Mobil,2520
+IST-ANK,Bulut,0,72,51,Aksam,Hafta ici,0,0,0.31,Masaustu,1850
+IST-VAN,Zirve,0,144,15,Ogle,Pazar,0,1,0.6,Mobil,3930
+IST-IZM,Kanat,0,67,0,Aksam,Hafta ici,0,0,0.22,Mobil,4310
+IST-TZX,Bulut,0,107,65,Sabah,Hafta ici,0,0,0.49,Masaustu,2750
+ANK-IZM,Kanat,0,75,56,Ogle,Hafta ici,0,0,0.66,Mobil,1590
+ANK-IZM,Kanat,0,79,64,Sabah,Hafta ici,0,0,0.92,Masaustu,2110
+IST-ANK,Zirve,1,161,34,Sabah,Cuma,0,0,0.71,Mobil,1960
+IZM-ANT,Kanat,1,166,46,Sabah erken,Hafta ici,0,0,0.68,Masaustu,910
+IST-IZM,Kanat,0,69,89,Aksam,Pazar,0,1,0.79,Mobil,2630
+IST-ANK,Kanat,0,73,20,Ogle,Hafta ici,0,1,0.63,Masaustu,1760
+IST-ANT,Bulut,0,83,59,Gece,Pazar,0,1,0.81,Mobil,2120
+IST-IZM,Zirve,0,61,12,Aksam,Cuma,0,0,0.42,Mobil,3350
+IZM-ANT,Zirve,0,63,5,Aksam,Hafta ici,0,0,0.77,Masaustu,3360
+ANK-IZM,Kanat,0,73,87,Ogle,Hafta ici,0,1,0.8,Mobil,2120
+IST-IZM,Bulut,0,72,11,Aksam,Hafta ici,0,0,0.64,Mobil,2240
+ANK-TZX,Bulut,0,85,59,Gece,Pazar,0,0,0.64,Mobil,1720
+IST-IZM,Bulut,0,65,46,Aksam,Cumartesi,0,1,0.72,Mobil,1900
+IST-ANT,Bulut,0,76,73,Sabah erken,Hafta ici,0,0,0.43,Mobil,1860
+IST-IZM,Kanat,1,151,49,Aksam,Hafta ici,0,1,0.94,Mobil,2080
+ANK-TZX,Bulut,0,89,63,Sabah erken,Pazar,0,0,0.63,Mobil,2020
+IST-ANK,Bulut,0,69,81,Sabah erken,Cuma,0,0,0.86,Mobil,2160
+IST-ANK,Bulut,0,75,75,Aksam,Hafta ici,0,0,0.73,Masaustu,2230
+IST-ANT,Bulut,0,89,65,Aksam,Hafta ici,0,1,0.26,Mobil,2370
+ANK-TZX,Zirve,0,82,14,Sabah,Hafta ici,0,1,0.52,Mobil,3470
+IZM-ANT,Bulut,0,63,15,Sabah erken,Cuma,0,1,0.51,Mobil,2070
+ANK-IZM,Kanat,0,75,45,Gece,Hafta ici,1,0,0.65,Mobil,1740
+IZM-ANT,Zirve,0,55,59,Sabah erken,Cumartesi,0,1,0.64,Mobil,2410
+IZM-ANT,Zirve,0,57,60,Sabah erken,Hafta ici,0,1,0.91,Mobil,2430
+IST-ANT,Kanat,0,80,71,Aksam,Hafta ici,0,1,0.65,Mobil,2620
+IST-IZM,Bulut,0,62,9,Aksam,Hafta ici,0,1,0.46,Masaustu,2990
+ANK-IZM,Kanat,0,70,15,Ogle,Cumartesi,0,1,0.45,Mobil,1950
+IST-VAN,Bulut,1,310,13,Ogle,Hafta ici,0,1,0.82,Mobil,2480
+IST-IZM,Kanat,0,73,49,Sabah,Pazar,0,0,0.38,Mobil,1850
+IST-ANK,Bulut,0,73,57,Sabah,Hafta ici,0,1,0.88,Mobil,2610
+ANK-IZM,Kanat,1,175,10,Aksam,Cuma,0,0,0.88,Masaustu,2100
+IST-IZM,Bulut,0,71,79,Aksam,Pazar,0,1,0.57,Masaustu,2980
+ANK-TZX,Zirve,0,80,27,Sabah,Cumartesi,0,0,0.77,Masaustu,2230
+IST-IZM,Kanat,0,68,60,Sabah,Hafta ici,0,0,0.72,Mobil,1780
+IST-ANK,Zirve,0,75,68,Sabah,Cuma,0,0,0.34,Mobil,3510
+IZM-ANT,Zirve,0,67,3,Sabah erken,Hafta ici,0,1,0.7,Masaustu,4550
+IST-ANK,Zirve,1,210,78,Sabah,Hafta ici,0,0,0.78,Masaustu,2340
+IST-ANK,Kanat,1,237,88,Sabah erken,Cumartesi,0,1,0.74,Mobil,1760
+IST-TZX,Zirve,0,116,87,Aksam,Cumartesi,0,1,0.73,Mobil,4030
+IZM-ANT,Kanat,0,66,12,Sabah,Hafta ici,0,0,0.32,Mobil,1970
+IST-ANK,Kanat,0,67,35,Aksam,Pazar,0,0,0.31,Mobil,1650
+IST-IZM,Zirve,0,74,21,Ogle,Hafta ici,0,1,0.71,Mobil,2710
+ANK-IZM,Bulut,0,69,41,Aksam,Pazar,0,1,0.73,Mobil,2100
+ANK-TZX,Bulut,0,85,88,Gece,Cumartesi,0,0,0.44,Masaustu,2100
+IST-ANT,Kanat,0,77,69,Sabah,Pazar,0,1,0.74,Mobil,2940
+IST-ANK,Zirve,0,67,70,Sabah erken,Cumartesi,0,0,0.55,Masaustu,2120
+IST-ANK,Bulut,0,68,38,Aksam,Pazar,0,1,0.67,Mobil,2590
+IST-IZM,Bulut,0,62,85,Sabah erken,Cuma,0,1,0.76,Mobil,2330
+IST-ANK,Zirve,0,75,83,Sabah,Hafta ici,0,0,0.83,Masaustu,2950
+IST-VAN,Kanat,1,286,73,Sabah erken,Hafta ici,0,0,0.59,Mobil,1620
+IST-ANK,Kanat,0,70,74,Gece,Cumartesi,0,1,0.51,Mobil,1790
+IST-ANT,Bulut,0,83,59,Sabah erken,Hafta ici,0,0,0.84,Mobil,1700
+IST-VAN,Zirve,0,139,8,Ogle,Pazar,0,0,0.47,Mobil,5250
+IST-TZX,Kanat,0,107,25,Ogle,Hafta ici,0,0,0.73,Masaustu,1820
+IST-ANK,Kanat,1,231,69,Aksam,Pazar,0,1,0.76,Masaustu,2160
+ANK-IZM,Kanat,1,251,29,Sabah,Hafta ici,1,0,0.88,Masaustu,1540
+IST-VAN,Zirve,0,130,15,Gece,Cumartesi,0,0,0.7,Mobil,2710
+ANK-IZM,Kanat,0,79,86,Aksam,Pazar,0,1,0.73,Masaustu,2800
+IST-ANK,Bulut,0,79,44,Ogle,Hafta ici,0,1,0.71,Mobil,2060
+IST-ANK,Zirve,0,68,78,Sabah,Cuma,0,0,0.67,Mobil,3460
+ANK-TZX,Kanat,0,84,25,Aksam,Hafta ici,0,0,0.71,Masaustu,1540
+IST-ANT,Bulut,0,78,32,Aksam,Cumartesi,0,0,0.78,Mobil,1560
+IST-IZM,Bulut,0,68,31,Sabah,Cumartesi,0,0,0.38,Mobil,1540
+IST-ANT,Zirve,0,78,33,Sabah,Hafta ici,0,0,0.79,Masaustu,2100
+IST-VAN,Kanat,0,141,39,Sabah erken,Hafta ici,0,0,0.57,Mobil,1760
+ANK-TZX,Bulut,0,85,27,Sabah erken,Hafta ici,0,0,0.9,Mobil,1490
+IST-IZM,Kanat,0,74,74,Sabah erken,Hafta ici,0,1,0.93,Mobil,2430
+ANK-TZX,Bulut,0,92,29,Sabah erken,Cumartesi,0,0,0.87,Masaustu,1280
+IST-ANK,Zirve,0,71,40,Sabah,Hafta ici,0,0,0.83,Mobil,1910
+IST-ANT,Kanat,0,83,78,Gece,Pazar,0,1,0.48,Mobil,2310
+IST-TZX,Kanat,0,105,39,Aksam,Pazar,0,0,0.63,Mobil,2120
+IST-ANK,Zirve,0,66,0,Aksam,Pazar,0,1,0.52,Mobil,8020
+IST-ANK,Kanat,1,256,0,Aksam,Hafta ici,0,0,0.48,Mobil,3420
+IST-ANT,Kanat,1,259,39,Aksam,Hafta ici,0,1,0.96,Masaustu,1880
+ANK-TZX,Bulut,0,85,59,Sabah erken,Cumartesi,0,0,0.78,Masaustu,1820
+IST-TZX,Kanat,0,106,85,Aksam,Cuma,0,0,0.46,Masaustu,3130
+ANK-TZX,Kanat,0,92,11,Sabah,Pazar,0,1,0.5,Masaustu,2790
+ANK-IZM,Bulut,0,71,49,Ogle,Hafta ici,0,0,0.74,Mobil,1700
+IST-ANT,Kanat,0,82,26,Gece,Hafta ici,0,0,0.78,Mobil,1180
+ANK-IZM,Bulut,0,71,40,Gece,Pazar,0,0,0.9,Mobil,1540
+IST-ANK,Bulut,0,72,40,Sabah,Cumartesi,0,0,0.59,Mobil,1720
+IST-ANK,Bulut,0,74,28,Aksam,Hafta ici,0,0,0.76,Mobil,1490
+IZM-ANT,Kanat,0,66,1,Sabah erken,Cuma,0,0,0.8,Mobil,3710
+ANK-IZM,Zirve,0,73,6,Sabah erken,Hafta ici,1,0,0.53,Masaustu,6580
+IST-IZM,Kanat,0,62,47,Sabah erken,Hafta ici,0,1,0.73,Mobil,1520
+IST-ANT,Zirve,0,88,20,Sabah,Hafta ici,0,1,0.62,Mobil,3090
+IST-TZX,Kanat,0,109,29,Aksam,Hafta ici,0,0,0.79,Masaustu,1790
+IZM-ANT,Zirve,0,55,8,Sabah,Hafta ici,0,1,0.88,Mobil,3680
+IST-TZX,Kanat,0,105,4,Sabah erken,Hafta ici,0,0,0.91,Mobil,3470
+IST-ANT,Kanat,0,86,11,Gece,Hafta ici,0,0,0.57,Mobil,1510
+IST-IZM,Bulut,0,65,34,Ogle,Hafta ici,0,1,0.82,Mobil,1570
+IST-ANT,Kanat,1,205,14,Sabah,Hafta ici,0,1,0.45,Mobil,1850
+IST-TZX,Kanat,0,117,21,Ogle,Hafta ici,0,0,0.56,Masaustu,1650
+IZM-ANT,Bulut,0,59,27,Ogle,Cuma,0,1,0.7,Masaustu,1800
+IST-ANT,Zirve,0,89,26,Ogle,Cuma,0,1,0.54,Masaustu,2850
+IST-IZM,Kanat,1,266,1,Aksam,Hafta ici,0,0,0.81,Masaustu,3050
+IST-IZM,Zirve,0,60,10,Gece,Hafta ici,0,1,0.35,Mobil,2410
+ANK-IZM,Zirve,1,263,86,Sabah,Cumartesi,0,1,0.63,Masaustu,2590
+ANK-IZM,Zirve,0,74,60,Ogle,Pazar,0,1,0.62,Mobil,2920
+IST-ANK,Bulut,0,67,11,Sabah erken,Pazar,0,1,0.54,Mobil,2640
+IST-ANK,Bulut,0,70,25,Gece,Pazar,0,0,0.29,Masaustu,1390
+IST-TZX,Bulut,0,112,34,Sabah,Cuma,0,1,0.76,Mobil,2700
+IST-ANK,Bulut,0,67,82,Sabah,Pazar,0,0,0.71,Mobil,2850
+IZM-ANT,Zirve,0,65,80,Gece,Hafta ici,0,1,0.62,Masaustu,2350
+IST-IZM,Kanat,0,64,70,Ogle,Cumartesi,0,1,0.42,Mobil,2220
+IST-ANK,Kanat,1,243,9,Sabah erken,Pazar,0,1,0.69,Mobil,1980
+ANK-TZX,Kanat,0,92,44,Sabah,Cumartesi,0,0,0.44,Mobil,1560
+IST-ANK,Zirve,0,74,44,Sabah,Hafta ici,0,0,0.79,Mobil,2280
+IST-IZM,Bulut,0,61,58,Gece,Hafta ici,0,1,0.53,Mobil,1780
+IST-ANK,Bulut,1,214,76,Ogle,Hafta ici,0,0,0.83,Mobil,1590
+IST-ANK,Zirve,1,190,29,Sabah,Hafta ici,0,0,0.43,Mobil,1720
+IST-ANK,Zirve,0,72,50,Ogle,Cumartesi,0,0,0.9,Mobil,2420
+IST-ANK,Kanat,1,241,24,Ogle,Cuma,0,1,0.87,Mobil,1680
+IST-ANK,Zirve,1,147,19,Sabah erken,Hafta ici,0,0,0.71,Mobil,1610
+IST-ANK,Zirve,1,238,28,Gece,Cuma,0,1,0.4,Mobil,1780
+IST-TZX,Kanat,1,244,66,Sabah erken,Hafta ici,1,0,0.75,Mobil,2420
+IST-VAN,Zirve,0,133,39,Gece,Hafta ici,0,1,0.5,Mobil,2280
+IST-ANT,Kanat,0,83,62,Aksam,Hafta ici,0,0,0.74,Mobil,2480
+IST-IZM,Bulut,0,72,62,Sabah erken,Hafta ici,0,0,0.58,Masaustu,1450
+IST-ANT,Bulut,0,86,32,Aksam,Cuma,0,0,0.78,Mobil,1900
+IZM-ANT,Kanat,0,62,86,Aksam,Cuma,1,0,0.53,Mobil,3590
+IZM-ANT,Kanat,0,55,4,Aksam,Cumartesi,1,1,0.4,Mobil,7420
+IST-ANK,Kanat,1,159,81,Ogle,Hafta ici,0,1,0.54,Mobil,1750
+IST-ANK,Kanat,0,76,0,Sabah erken,Cuma,0,1,0.64,Mobil,4680
+IST-IZM,Bulut,1,227,34,Sabah erken,Hafta ici,0,1,0.64,Masaustu,1270
+IST-IZM,Kanat,0,70,75,Aksam,Hafta ici,0,1,0.69,Masaustu,2200
+IST-TZX,Kanat,0,115,62,Sabah erken,Hafta ici,0,1,0.83,Mobil,2280
+IST-ANT,Bulut,0,86,29,Sabah,Cuma,0,1,0.66,Mobil,2170
+IST-ANK,Bulut,0,68,80,Ogle,Pazar,0,0,0.68,Masaustu,2400
+IST-IZM,Bulut,0,63,12,Sabah,Hafta ici,0,0,0.75,Mobil,2180
+IST-ANT,Zirve,0,77,61,Aksam,Cumartesi,0,1,0.64,Mobil,3640
+IST-ANK,Kanat,0,70,47,Aksam,Hafta ici,0,1,0.45,Mobil,1840
+IZM-ANT,Zirve,0,62,18,Aksam,Hafta ici,0,1,0.35,Mobil,2620
+IST-ANK,Kanat,0,66,83,Sabah erken,Cumartesi,0,0,0.67,Masaustu,1660
+ANK-TZX,Bulut,1,224,69,Ogle,Cuma,0,1,0.6,Mobil,2310
+IST-ANK,Zirve,0,68,0,Aksam,Pazar,0,0,0.79,Mobil,9000
+IZM-ANT,Zirve,0,63,7,Sabah,Cumartesi,0,0,0.59,Mobil,3390
+IZM-ANT,Bulut,0,59,5,Aksam,Hafta ici,0,1,0.82,Masaustu,2880
+ANK-TZX,Bulut,1,291,37,Ogle,Pazar,0,1,0.67,Mobil,1770
+ANK-IZM,Kanat,0,69,37,Sabah,Pazar,0,0,0.94,Mobil,2000
+ANK-IZM,Bulut,0,78,65,Sabah,Hafta ici,0,0,0.39,Mobil,2060
+IST-TZX,Zirve,0,107,61,Aksam,Hafta ici,0,1,0.67,Mobil,3590
+ANK-IZM,Zirve,0,66,1,Sabah erken,Hafta ici,0,0,0.61,Mobil,4310
+IST-ANK,Bulut,0,67,43,Gece,Cumartesi,0,0,0.72,Mobil,1380
+IST-ANT,Kanat,0,81,71,Ogle,Pazar,0,1,0.63,Masaustu,2580
+IST-ANT,Bulut,0,88,81,Sabah erken,Cumartesi,0,1,0.93,Masaustu,2640
+IZM-ANT,Kanat,0,57,26,Aksam,Hafta ici,0,0,0.78,Mobil,1550
+IST-ANT,Kanat,0,86,4,Ogle,Hafta ici,0,0,0.75,Masaustu,2760
+IST-ANT,Kanat,1,282,13,Sabah,Hafta ici,0,1,0.49,Mobil,2030
+IST-TZX,Bulut,0,110,30,Gece,Hafta ici,0,0,0.39,Masaustu,1280
+IST-IZM,Kanat,0,65,40,Aksam,Hafta ici,0,0,0.77,Masaustu,1530
+IST-ANK,Kanat,0,79,31,Ogle,Hafta ici,1,0,0.94,Masaustu,2140
+IST-ANT,Kanat,0,85,8,Aksam,Hafta ici,0,0,0.78,Mobil,2650
+IST-ANT,Zirve,0,78,30,Ogle,Hafta ici,0,1,0.74,Masaustu,2520
+IST-IZM,Bulut,0,73,26,Ogle,Cumartesi,1,0,0.6,Mobil,2120
+IST-IZM,Kanat,0,66,44,Sabah,Hafta ici,0,1,0.67,Mobil,1600
+IST-IZM,Kanat,0,61,7,Sabah,Hafta ici,0,0,0.69,Masaustu,2440
+IST-IZM,Bulut,0,72,71,Ogle,Hafta ici,0,1,0.67,Mobil,2280
+IST-IZM,Kanat,0,73,37,Ogle,Pazar,0,0,0.67,Mobil,1540
+IST-VAN,Bulut,1,233,28,Aksam,Cumartesi,0,1,0.64,Mobil,2290
+IST-IZM,Bulut,0,70,82,Ogle,Cuma,0,1,0.5,Mobil,2920
+ANK-TZX,Zirve,0,83,67,Ogle,Cuma,1,0,0.42,Masaustu,4910
+IZM-ANT,Kanat,0,67,12,Aksam,Cuma,0,0,0.64,Mobil,2160
+IST-ANT,Bulut,0,80,13,Gece,Cuma,0,1,0.65,Mobil,2110
+IST-IZM,Kanat,1,164,0,Sabah,Hafta ici,0,1,0.63,Masaustu,3670
+IST-ANT,Zirve,0,82,51,Gece,Hafta ici,0,1,0.88,Masaustu,2470
+IZM-ANT,Zirve,0,59,32,Aksam,Hafta ici,0,0,0.85,Masaustu,1790
+IST-TZX,Bulut,0,114,34,Sabah erken,Hafta ici,0,0,0.82,Mobil,1440
+ANK-IZM,Bulut,0,76,46,Sabah,Hafta ici,1,0,0.67,Mobil,2780
+IST-ANT,Kanat,1,273,49,Sabah,Hafta ici,0,1,0.78,Masaustu,1680
+IST-TZX,Zirve,0,116,0,Aksam,Hafta ici,0,0,0.68,Masaustu,8340
+IST-IZM,Bulut,0,66,9,Ogle,Hafta ici,1,0,0.8,Mobil,4260
+ANK-IZM,Kanat,0,79,71,Ogle,Hafta ici,0,1,0.81,Mobil,2140
+IST-IZM,Bulut,0,63,86,Aksam,Hafta ici,0,0,0.64,Mobil,2200
+IST-VAN,Bulut,0,140,76,Sabah,Hafta ici,1,1,0.56,Mobil,4500
+IZM-ANT,Zirve,0,63,82,Sabah,Hafta ici,0,0,0.68,Mobil,2980
+IST-ANK,Bulut,0,79,42,Gece,Cuma,0,1,0.76,Mobil,1710
+IST-TZX,Bulut,0,108,75,Gece,Hafta ici,1,0,0.81,Mobil,3040
+IST-ANK,Bulut,0,67,80,Aksam,Hafta ici,0,1,0.59,Mobil,2550
+ANK-IZM,Kanat,0,78,81,Sabah,Hafta ici,0,0,0.54,Mobil,2120
+IST-ANK,Kanat,1,234,13,Sabah erken,Hafta ici,0,0,0.7,Mobil,1240
+ANK-TZX,Kanat,0,91,13,Sabah,Hafta ici,0,0,0.87,Masaustu,2230
+IST-ANK,Zirve,0,72,36,Ogle,Hafta ici,0,1,0.7,Mobil,2110
+ANK-TZX,Bulut,0,86,45,Sabah,Hafta ici,0,0,0.42,Masaustu,1850
+ANK-IZM,Bulut,1,184,87,Gece,Pazar,0,0,0.87,Masaustu,1720
+IST-TZX,Kanat,0,116,28,Aksam,Cuma,0,1,0.62,Masaustu,2670
+ANK-IZM,Kanat,0,69,75,Ogle,Hafta ici,0,0,0.96,Masaustu,2260
+ANK-IZM,Bulut,0,65,80,Sabah,Hafta ici,0,0,0.66,Masaustu,2120
+ANK-TZX,Kanat,0,81,87,Sabah,Cumartesi,0,0,0.44,Mobil,2340
+IST-IZM,Kanat,0,65,17,Ogle,Hafta ici,0,0,0.79,Mobil,1440
+IST-TZX,Zirve,0,115,22,Aksam,Pazar,0,0,0.48,Masaustu,2880
+IST-ANK,Kanat,0,71,20,Sabah erken,Hafta ici,0,0,0.59,Mobil,1120
+IST-TZX,Kanat,1,200,66,Aksam,Hafta ici,0,0,0.61,Masaustu,1930
+IST-ANK,Bulut,0,72,62,Sabah erken,Hafta ici,0,0,0.57,Mobil,1650
+IST-TZX,Zirve,0,108,37,Sabah,Pazar,0,1,0.65,Mobil,3310
+IST-TZX,Kanat,0,116,8,Gece,Pazar,0,1,0.83,Mobil,3030
+IST-ANT,Zirve,1,232,47,Sabah,Pazar,0,0,0.65,Masaustu,2190
+IST-ANT,Zirve,1,284,66,Sabah erken,Hafta ici,0,0,0.85,Mobil,1730
+ANK-IZM,Bulut,0,77,43,Aksam,Cumartesi,0,1,0.35,Mobil,1970
+ANK-IZM,Bulut,0,70,24,Sabah,Hafta ici,0,0,0.82,Mobil,1550
+IST-ANT,Bulut,0,85,53,Sabah erken,Hafta ici,1,1,0.56,Masaustu,2850
+IST-TZX,Bulut,1,306,60,Sabah erken,Cuma,0,0,0.43,Masaustu,1810
+ANK-TZX,Bulut,0,93,53,Sabah erken,Pazar,0,0,0.71,Mobil,1710
+IST-ANK,Bulut,0,74,79,Ogle,Hafta ici,0,0,0.68,Mobil,1690
+IST-ANK,Kanat,0,77,28,Sabah,Hafta ici,0,1,0.59,Masaustu,1760
+IST-ANK,Kanat,1,229,55,Aksam,Hafta ici,0,0,0.23,Mobil,1350
+IST-TZX,Bulut,1,252,77,Gece,Hafta ici,0,0,0.97,Mobil,1790
+IST-ANT,Kanat,1,211,19,Sabah erken,Hafta ici,0,0,0.56,Masaustu,1130
+ANK-IZM,Bulut,0,72,25,Sabah,Pazar,0,1,0.72,Masaustu,2430
+IST-VAN,Bulut,0,144,4,Sabah erken,Hafta ici,0,0,0.73,Mobil,3750
+IST-IZM,Zirve,1,244,34,Sabah,Cuma,0,1,0.54,Mobil,2240
+IZM-ANT,Kanat,0,67,4,Sabah,Hafta ici,0,0,0.62,Mobil,2950
+ANK-IZM,Bulut,0,72,67,Aksam,Hafta ici,0,0,0.84,Masaustu,1870
+IST-IZM,Bulut,1,254,8,Sabah,Hafta ici,0,0,0.67,Masaustu,2130
+IST-IZM,Kanat,0,74,63,Ogle,Hafta ici,0,1,0.96,Mobil,2640
+IST-IZM,Kanat,0,63,52,Aksam,Hafta ici,0,0,0.59,Masaustu,1890
+IST-ANK,Kanat,0,77,89,Aksam,Cuma,1,0,0.74,Mobil,3900
+IST-ANK,Kanat,0,65,31,Sabah,Pazar,0,1,0.61,Masaustu,1850
+ANK-TZX,Kanat,0,88,31,Sabah,Hafta ici,0,0,0.79,Masaustu,1630
+IST-ANT,Bulut,0,81,22,Gece,Hafta ici,0,0,0.49,Masaustu,1320
+IST-ANT,Bulut,0,79,48,Sabah,Pazar,0,0,0.96,Masaustu,2920
+ANK-IZM,Kanat,1,203,19,Aksam,Hafta ici,1,1,0.49,Mobil,2290
+IST-ANT,Kanat,0,84,10,Aksam,Pazar,1,0,0.62,Mobil,5840
+ANK-TZX,Kanat,0,82,86,Ogle,Pazar,0,1,0.92,Mobil,2990
+ANK-IZM,Bulut,0,67,61,Sabah,Cumartesi,1,1,0.61,Masaustu,3510
+IST-ANT,Kanat,0,76,10,Sabah erken,Hafta ici,0,0,0.6,Mobil,1780
+IST-IZM,Bulut,0,64,56,Ogle,Cuma,0,0,0.75,Mobil,2290
+ANK-TZX,Kanat,0,81,27,Ogle,Hafta ici,0,1,0.71,Mobil,1780
+IST-VAN,Kanat,0,133,16,Aksam,Hafta ici,0,1,0.61,Mobil,2440
+ANK-TZX,Zirve,0,91,42,Aksam,Pazar,0,1,0.45,Mobil,3230
+IST-ANK,Kanat,0,78,71,Gece,Hafta ici,0,0,0.82,Mobil,1470
+IZM-ANT,Kanat,1,175,0,Gece,Cumartesi,0,1,0.71,Mobil,2720
+IST-TZX,Kanat,0,112,32,Aksam,Hafta ici,0,1,0.67,Mobil,1970
+IST-ANK,Zirve,0,75,83,Sabah erken,Hafta ici,0,1,0.71,Mobil,2880
+IST-TZX,Bulut,1,236,35,Ogle,Cuma,0,0,0.69,Masaustu,1520
+IST-VAN,Bulut,0,130,9,Aksam,Cumartesi,0,1,0.7,Mobil,3990
+IST-ANK,Zirve,0,78,39,Ogle,Hafta ici,0,1,0.75,Mobil,2090
+IST-ANT,Kanat,0,85,62,Sabah,Cumartesi,0,1,0.54,Masaustu,2250
+IZM-ANT,Zirve,0,60,90,Ogle,Hafta ici,0,1,0.48,Mobil,3130
+IST-IZM,Kanat,0,66,57,Sabah,Pazar,0,1,0.81,Mobil,2480
+IST-ANT,Bulut,0,81,4,Sabah,Cuma,0,0,0.68,Mobil,4250
+IST-ANT,Bulut,0,77,73,Aksam,Cumartesi,0,0,0.5,Mobil,2360
+IST-IZM,Kanat,0,63,70,Ogle,Hafta ici,0,0,0.8,Mobil,1700
+IZM-ANT,Zirve,0,59,59,Ogle,Hafta ici,0,1,0.4,Masaustu,2450
+ANK-IZM,Kanat,0,65,81,Ogle,Pazar,0,0,0.45,Mobil,1970
+IST-ANK,Zirve,0,72,70,Ogle,Hafta ici,0,1,0.78,Mobil,2970
+ANK-TZX,Kanat,0,87,21,Sabah,Hafta ici,0,1,0.62,Masaustu,2210
+IZM-ANT,Bulut,0,59,38,Ogle,Cumartesi,0,1,0.79,Mobil,1740
+IST-IZM,Zirve,0,62,46,Sabah,Cuma,0,1,0.25,Mobil,3020
+IZM-ANT,Kanat,0,69,44,Aksam,Pazar,0,1,0.82,Masaustu,1950
+IST-ANK,Zirve,0,75,58,Sabah erken,Cuma,0,0,0.72,Mobil,2620
+ANK-TZX,Bulut,1,218,63,Gece,Pazar,0,0,0.77,Mobil,1600
+IST-VAN,Bulut,0,140,9,Aksam,Hafta ici,0,0,0.84,Mobil,3670
+IST-TZX,Kanat,0,110,51,Ogle,Cuma,0,1,0.58,Masaustu,2710
+IST-ANK,Bulut,0,68,3,Sabah,Cumartesi,0,0,0.45,Masaustu,4030
+IZM-ANT,Bulut,0,65,46,Sabah,Cuma,0,0,0.69,Masaustu,1800
+IST-ANK,Bulut,0,76,38,Aksam,Hafta ici,0,1,0.61,Mobil,1830
+IST-IZM,Kanat,0,69,18,Aksam,Hafta ici,0,0,0.83,Mobil,1650
+IST-ANK,Kanat,0,73,90,Aksam,Hafta ici,0,1,0.66,Mobil,2410
+ANK-IZM,Zirve,1,189,23,Gece,Cumartesi,0,0,0.54,Masaustu,1180
+IST-ANK,Kanat,0,74,5,Ogle,Hafta ici,0,1,0.94,Mobil,3740
+IZM-ANT,Bulut,0,64,32,Aksam,Cumartesi,0,0,0.38,Mobil,1390
+IST-TZX,Zirve,0,111,68,Ogle,Cumartesi,0,1,0.51,Mobil,3430
+IST-ANK,Kanat,0,68,0,Aksam,Hafta ici,0,1,0.79,Mobil,4430
+IST-ANK,Kanat,0,79,44,Ogle,Cuma,0,0,0.82,Masaustu,1630
+IST-ANK,Bulut,0,70,37,Aksam,Hafta ici,0,0,0.74,Masaustu,1730
+IST-TZX,Kanat,1,276,78,Sabah erken,Hafta ici,0,1,0.64,Mobil,2100
+ANK-IZM,Bulut,0,75,0,Sabah,Hafta ici,0,0,0.64,Mobil,5190
+IST-IZM,Bulut,1,178,1,Sabah,Hafta ici,0,1,0.71,Mobil,3760
+IZM-ANT,Bulut,1,171,51,Gece,Cumartesi,0,0,0.8,Mobil,1090
+IST-ANK,Kanat,1,179,16,Ogle,Hafta ici,0,1,0.92,Mobil,1870
+ANK-IZM,Bulut,0,70,64,Sabah,Hafta ici,0,0,0.72,Mobil,2020
+ANK-TZX,Bulut,0,82,25,Ogle,Hafta ici,0,1,0.48,Mobil,1930
+ANK-IZM,Kanat,0,67,51,Ogle,Cumartesi,0,1,0.77,Masaustu,1960
+IST-VAN,Bulut,0,144,3,Gece,Hafta ici,0,0,0.55,Mobil,3430
+IZM-ANT,Zirve,0,62,63,Gece,Hafta ici,0,0,0.48,Mobil,1760
+IST-ANK,Bulut,0,71,47,Aksam,Pazar,0,1,0.91,Mobil,2790
+IST-IZM,Bulut,0,64,0,Aksam,Hafta ici,0,1,0.91,Mobil,5470
+IST-ANK,Kanat,1,245,24,Sabah,Hafta ici,0,1,0.53,Mobil,1410
+IST-ANT,Kanat,0,88,5,Sabah,Hafta ici,0,1,0.8,Mobil,3300
+ANK-IZM,Kanat,1,210,4,Ogle,Cuma,0,1,0.56,Mobil,3130
+IST-TZX,Kanat,0,113,63,Aksam,Cumartesi,0,1,0.71,Mobil,2890
+IZM-ANT,Zirve,0,62,38,Sabah,Hafta ici,0,1,0.62,Masaustu,2360
+IST-ANK,Kanat,1,180,73,Aksam,Cumartesi,0,0,0.73,Masaustu,1640
+ANK-IZM,Zirve,1,225,23,Sabah,Cuma,0,0,0.63,Masaustu,2280
+IST-ANK,Kanat,0,70,65,Sabah,Pazar,0,1,0.67,Mobil,2510
+IST-IZM,Kanat,1,184,55,Sabah,Pazar,0,1,0.81,Masaustu,2000
+IST-VAN,Bulut,0,142,60,Aksam,Cumartesi,0,0,0.67,Mobil,2770
+ANK-TZX,Kanat,1,239,75,Aksam,Hafta ici,0,0,0.93,Mobil,1940
+IST-TZX,Zirve,0,105,64,Ogle,Hafta ici,0,1,0.43,Mobil,3610
+IST-ANK,Zirve,0,66,67,Aksam,Pazar,0,1,0.67,Masaustu,3650
+IST-TZX,Zirve,0,109,67,Aksam,Hafta ici,0,0,0.9,Masaustu,4080
+IST-ANK,Kanat,0,76,40,Sabah,Hafta ici,0,1,0.71,Mobil,1790
+IZM-ANT,Zirve,0,56,65,Aksam,Pazar,1,0,0.55,Mobil,5230
+IST-VAN,Kanat,0,131,76,Sabah,Pazar,0,0,0.67,Masaustu,3080
+IST-ANK,Zirve,0,65,67,Ogle,Cuma,0,1,0.8,Masaustu,3510
+IST-ANK,Bulut,1,191,55,Sabah erken,Pazar,0,0,0.52,Mobil,1550
+IST-ANK,Kanat,0,78,6,Ogle,Hafta ici,0,1,0.59,Mobil,2440
+ANK-TZX,Kanat,0,90,39,Ogle,Cumartesi,0,0,0.6,Mobil,1370
+IST-ANT,Kanat,0,85,5,Sabah erken,Pazar,0,1,0.76,Mobil,3420
+ANK-IZM,Kanat,0,69,9,Ogle,Hafta ici,0,0,0.47,Mobil,2200
+IST-TZX,Zirve,0,114,32,Aksam,Hafta ici,0,1,0.69,Mobil,3030
+IST-TZX,Zirve,0,116,42,Aksam,Cumartesi,0,1,0.61,Mobil,3040
+IST-ANK,Zirve,0,72,48,Sabah erken,Hafta ici,0,0,0.66,Mobil,1790
+ANK-TZX,Kanat,0,92,81,Sabah erken,Hafta ici,0,1,0.74,Masaustu,2220
+IST-IZM,Bulut,0,68,69,Sabah,Hafta ici,0,0,0.93,Mobil,2370
+IST-TZX,Kanat,0,109,38,Aksam,Hafta ici,0,0,0.62,Mobil,1790
+IST-VAN,Bulut,1,259,30,Gece,Hafta ici,0,1,0.54,Mobil,1570
+IST-TZX,Kanat,0,119,64,Sabah,Pazar,0,1,0.76,Masaustu,3270
+ANK-TZX,Kanat,0,92,25,Aksam,Cuma,0,1,0.54,Mobil,2490
+IST-ANK,Bulut,0,72,80,Ogle,Cuma,0,1,0.63,Mobil,2890
+IST-ANT,Kanat,0,83,71,Gece,Hafta ici,0,0,0.68,Mobil,1520
+IST-ANT,Bulut,0,89,62,Sabah erken,Hafta ici,0,0,0.58,Mobil,1650
+IST-ANT,Bulut,0,86,22,Ogle,Hafta ici,0,0,0.84,Masaustu,1630
+IST-ANK,Kanat,1,218,56,Ogle,Pazar,0,0,0.49,Mobil,1650
+IST-ANK,Zirve,0,69,74,Sabah,Pazar,0,1,0.73,Mobil,3980
+IST-IZM,Bulut,0,73,6,Sabah erken,Hafta ici,0,0,0.71,Mobil,2320
+IST-IZM,Zirve,0,74,16,Sabah erken,Pazar,0,1,0.2,Mobil,2580
+IST-ANT,Bulut,0,76,46,Ogle,Hafta ici,0,0,0.62,Masaustu,1680
+IST-TZX,Bulut,0,105,32,Aksam,Hafta ici,0,0,0.75,Masaustu,2070
+IST-TZX,Bulut,0,106,64,Aksam,Cumartesi,0,1,0.89,Masaustu,3290
+IST-ANT,Zirve,1,212,36,Sabah,Hafta ici,0,0,0.9,Mobil,1920
+IST-ANT,Bulut,0,77,90,Gece,Pazar,0,1,0.51,Mobil,2400
+IST-IZM,Kanat,0,73,27,Sabah,Hafta ici,0,1,0.55,Masaustu,1990
+IST-TZX,Kanat,0,118,32,Gece,Cumartesi,0,1,0.68,Mobil,1520
+IST-IZM,Bulut,0,62,0,Sabah erken,Hafta ici,0,1,0.68,Masaustu,3910
+IST-ANK,Kanat,1,227,22,Aksam,Hafta ici,0,1,0.84,Mobil,1600
+IST-ANT,Kanat,1,254,21,Gece,Hafta ici,0,0,0.7,Mobil,940
+IST-ANT,Kanat,1,244,69,Aksam,Pazar,0,1,0.58,Masaustu,2480
+IST-IZM,Bulut,0,65,30,Aksam,Hafta ici,0,0,0.57,Mobil,1620
+IST-TZX,Kanat,0,105,18,Sabah,Cuma,0,0,0.78,Mobil,2210
+IST-TZX,Bulut,0,111,28,Aksam,Hafta ici,0,1,0.94,Mobil,2640
+IST-VAN,Zirve,0,142,51,Ogle,Hafta ici,0,1,0.75,Mobil,3200
+IST-TZX,Zirve,0,119,71,Ogle,Hafta ici,0,1,0.3,Mobil,3650
+IST-TZX,Kanat,0,106,89,Gece,Cumartesi,0,1,0.82,Mobil,2340
+IST-IZM,Bulut,0,72,4,Sabah,Hafta ici,0,1,0.27,Masaustu,3560
+ANK-IZM,Bulut,1,252,76,Ogle,Hafta ici,1,1,0.67,Mobil,2830
+IST-ANT,Bulut,0,81,35,Gece,Cuma,0,0,0.66,Mobil,1320
+IST-ANT,Bulut,1,156,73,Sabah,Hafta ici,0,0,0.77,Mobil,1760
+IST-TZX,Kanat,0,119,3,Sabah,Hafta ici,0,0,0.74,Masaustu,3810
+IST-IZM,Zirve,0,71,56,Sabah,Hafta ici,0,1,0.95,Mobil,3520
+IST-ANT,Kanat,0,84,84,Aksam,Hafta ici,0,0,0.59,Mobil,2290
+ANK-IZM,Zirve,0,75,3,Gece,Cuma,0,0,0.58,Masaustu,3940
+IZM-ANT,Bulut,0,68,71,Sabah erken,Hafta ici,0,0,0.76,Masaustu,1670
+ANK-TZX,Kanat,0,82,10,Aksam,Cuma,0,1,0.6,Masaustu,3370
+IST-ANT,Bulut,0,78,89,Ogle,Hafta ici,0,0,0.45,Masaustu,2080
+IST-ANT,Kanat,1,178,67,Aksam,Pazar,0,0,0.81,Mobil,1930
+ANK-IZM,Zirve,0,72,82,Aksam,Pazar,0,0,0.73,Masaustu,3740
+IST-IZM,Bulut,0,67,81,Gece,Hafta ici,0,0,0.5,Mobil,1610
+IZM-ANT,Kanat,0,55,28,Sabah,Hafta ici,0,0,0.75,Mobil,1210
+IST-ANT,Kanat,0,84,37,Sabah,Hafta ici,0,1,0.6,Mobil,1810
+IST-ANK,Zirve,0,65,62,Ogle,Cumartesi,0,0,0.6,Mobil,2340
+IST-ANK,Kanat,0,76,15,Ogle,Hafta ici,0,0,0.86,Mobil,1600
+IZM-ANT,Zirve,0,65,27,Ogle,Cuma,0,1,0.64,Mobil,2360
+IST-ANK,Zirve,0,77,9,Sabah erken,Hafta ici,0,1,0.57,Mobil,3250
+IST-IZM,Bulut,0,61,80,Sabah erken,Hafta ici,1,0,0.4,Masaustu,2690
+IST-IZM,Kanat,0,73,22,Gece,Cuma,0,0,0.67,Mobil,1130
+IST-ANK,Bulut,1,156,37,Sabah erken,Cuma,0,1,0.69,Mobil,1550
+IST-IZM,Zirve,0,72,41,Ogle,Cumartesi,0,1,0.85,Mobil,2450
+ANK-IZM,Kanat,0,75,34,Aksam,Cumartesi,0,0,0.58,Mobil,1420
+IST-ANK,Kanat,0,74,70,Sabah erken,Cuma,0,1,0.65,Masaustu,2140
+IZM-ANT,Kanat,0,55,83,Sabah,Hafta ici,0,0,0.83,Mobil,1920
+IZM-ANT,Kanat,0,65,52,Sabah,Pazar,0,0,0.58,Mobil,1970
+IST-IZM,Bulut,0,66,76,Ogle,Cumartesi,0,0,0.53,Mobil,1880
+IST-ANK,Bulut,0,77,10,Sabah,Pazar,0,1,0.51,Mobil,2840
+IST-TZX,Bulut,0,115,87,Aksam,Pazar,0,0,0.52,Mobil,3340
+IST-ANK,Kanat,0,66,10,Sabah,Hafta ici,0,0,0.74,Masaustu,2130
+IST-IZM,Kanat,1,183,6,Sabah erken,Cuma,0,0,0.47,Masaustu,2030
+ANK-TZX,Kanat,0,80,2,Sabah erken,Cuma,0,0,0.52,Mobil,3640
+ANK-TZX,Zirve,0,84,22,Sabah,Hafta ici,0,0,0.63,Masaustu,2340
+ANK-IZM,Bulut,1,205,76,Sabah,Cuma,0,0,0.64,Masaustu,2090
+IST-IZM,Kanat,1,230,27,Gece,Hafta ici,1,1,0.8,Mobil,1520
+IST-VAN,Zirve,0,132,71,Sabah erken,Hafta ici,0,0,0.64,Masaustu,3140
+IST-VAN,Kanat,1,222,38,Ogle,Hafta ici,0,0,0.94,Mobil,1750
+IST-ANT,Kanat,0,78,9,Ogle,Cuma,1,1,0.8,Masaustu,5200
+IST-TZX,Kanat,0,114,43,Aksam,Cuma,0,0,0.79,Mobil,2320
+IST-ANK,Zirve,1,160,21,Aksam,Hafta ici,0,0,0.46,Masaustu,1710
+IST-IZM,Bulut,0,65,26,Sabah erken,Hafta ici,0,1,0.45,Masaustu,1470
+IST-ANT,Bulut,0,84,47,Aksam,Hafta ici,0,1,0.57,Masaustu,2180
+IST-ANK,Kanat,0,75,71,Sabah,Hafta ici,1,0,0.65,Mobil,3290
+IST-ANK,Kanat,0,78,53,Aksam,Hafta ici,0,0,0.78,Mobil,1590
+IZM-ANT,Bulut,0,67,20,Sabah,Hafta ici,0,0,0.74,Masaustu,1580
+ANK-TZX,Kanat,1,219,65,Aksam,Pazar,0,0,0.55,Mobil,2000
+IST-ANT,Zirve,0,79,63,Aksam,Hafta ici,0,1,0.82,Masaustu,3540
+IZM-ANT,Zirve,0,58,21,Aksam,Hafta ici,0,1,0.8,Mobil,2790
+ANK-TZX,Bulut,0,94,77,Sabah,Pazar,0,0,0.67,Mobil,2780
+IST-ANK,Bulut,0,74,76,Aksam,Hafta ici,0,0,0.92,Masaustu,2700
+IST-ANT,Zirve,0,88,54,Aksam,Pazar,0,0,0.27,Masaustu,3240
+IST-ANT,Bulut,1,242,26,Ogle,Hafta ici,0,0,0.62,Mobil,1180
+IST-ANK,Bulut,0,72,32,Sabah,Hafta ici,0,0,0.44,Masaustu,1550
+ANK-IZM,Zirve,0,77,39,Sabah,Hafta ici,0,0,0.89,Mobil,2080
+IST-ANT,Kanat,0,85,17,Sabah,Hafta ici,0,1,0.64,Mobil,2120
+IST-ANT,Zirve,0,78,27,Aksam,Pazar,0,1,0.93,Mobil,3590
+IST-ANK,Kanat,0,72,12,Ogle,Cuma,0,1,0.39,Mobil,2300
+IST-ANK,Bulut,0,68,14,Aksam,Cuma,0,1,0.48,Masaustu,2870
+IZM-ANT,Zirve,0,66,67,Aksam,Hafta ici,0,1,0.81,Mobil,2720
+IST-ANK,Bulut,0,65,11,Aksam,Pazar,0,1,0.6,Masaustu,3100
+IST-IZM,Bulut,1,256,42,Aksam,Hafta ici,0,0,0.66,Mobil,1430
+IST-IZM,Bulut,0,73,39,Aksam,Hafta ici,0,0,0.85,Masaustu,1580
+IST-ANT,Kanat,0,75,4,Ogle,Pazar,1,0,0.74,Mobil,6780
+IST-TZX,Kanat,0,114,75,Sabah,Hafta ici,0,1,0.41,Mobil,2580
+IST-ANT,Kanat,0,76,89,Aksam,Hafta ici,0,1,0.76,Mobil,2730
+IST-ANK,Bulut,1,159,58,Gece,Hafta ici,0,0,0.65,Masaustu,1230
+IST-IZM,Bulut,0,65,61,Ogle,Hafta ici,0,1,0.46,Masaustu,2110
+IZM-ANT,Kanat,0,62,21,Gece,Cumartesi,0,1,0.65,Mobil,1370
+IST-TZX,Zirve,0,118,76,Gece,Hafta ici,0,1,0.86,Mobil,2700
+IST-TZX,Kanat,1,240,71,Ogle,Pazar,0,0,0.81,Mobil,2060
+IST-VAN,Bulut,0,135,39,Aksam,Hafta ici,0,0,0.68,Mobil,2180
+ANK-IZM,Bulut,0,66,64,Aksam,Cuma,0,0,0.81,Mobil,2420
+IST-ANK,Kanat,0,78,86,Sabah,Cuma,0,0,0.53,Masaustu,2720
+IST-IZM,Bulut,0,64,54,Sabah erken,Cuma,0,1,0.45,Mobil,1890
+IST-ANT,Bulut,1,206,18,Ogle,Hafta ici,0,0,0.85,Mobil,1230
+IST-IZM,Kanat,0,61,30,Aksam,Hafta ici,0,0,0.35,Masaustu,1400
+IZM-ANT,Zirve,0,59,16,Sabah,Cuma,0,0,0.71,Masaustu,2710
+IST-ANT,Zirve,0,83,30,Aksam,Pazar,0,1,0.91,Mobil,3220
+ANK-IZM,Bulut,1,241,81,Aksam,Hafta ici,0,0,0.54,Masaustu,1890
+IZM-ANT,Zirve,0,59,17,Aksam,Hafta ici,1,1,0.51,Mobil,4060
+IST-ANT,Zirve,0,83,81,Sabah,Cuma,0,0,0.74,Mobil,3510
+IZM-ANT,Kanat,1,229,25,Ogle,Hafta ici,0,1,0.78,Mobil,1270
+IST-TZX,Bulut,0,110,45,Sabah,Hafta ici,1,0,0.48,Mobil,3280
+IZM-ANT,Bulut,1,257,48,Sabah,Pazar,0,0,0.42,Mobil,1610
+IST-IZM,Kanat,0,60,11,Sabah erken,Hafta ici,0,1,0.79,Masaustu,2000
+IST-ANT,Kanat,0,88,16,Sabah erken,Hafta ici,0,1,0.79,Mobil,1750
+IST-ANT,Kanat,0,76,27,Sabah,Cuma,0,1,0.43,Mobil,2160
+IST-ANK,Bulut,0,68,5,Ogle,Hafta ici,0,1,0.86,Masaustu,3420
+IST-ANT,Zirve,0,77,68,Ogle,Hafta ici,0,0,0.48,Masaustu,2650
+IZM-ANT,Zirve,0,65,49,Sabah,Hafta ici,0,1,0.74,Masaustu,2590
+IST-TZX,Kanat,1,211,76,Gece,Hafta ici,0,0,0.5,Masaustu,1430
+IST-ANK,Kanat,0,75,78,Ogle,Hafta ici,0,1,0.64,Masaustu,2080
+IST-IZM,Bulut,0,69,31,Gece,Cumartesi,0,1,0.58,Masaustu,1350
+IST-ANK,Bulut,0,65,74,Aksam,Hafta ici,0,1,0.61,Mobil,2550
+IST-ANK,Zirve,0,69,5,Sabah erken,Hafta ici,0,1,0.64,Mobil,3780
+ANK-TZX,Zirve,0,80,39,Gece,Cuma,0,1,0.8,Mobil,2210
+IST-ANT,Zirve,0,75,60,Gece,Hafta ici,0,0,0.86,Mobil,2100
+IST-IZM,Zirve,0,67,42,Aksam,Hafta ici,0,0,0.34,Mobil,2150
+IST-TZX,Zirve,0,108,67,Ogle,Hafta ici,0,1,0.77,Mobil,3780
+IST-ANK,Bulut,0,66,78,Ogle,Hafta ici,0,1,0.68,Mobil,2440
+IST-IZM,Kanat,0,66,38,Ogle,Hafta ici,0,0,0.44,Mobil,1300
+IST-VAN,Kanat,1,221,24,Aksam,Hafta ici,0,1,0.67,Mobil,2120
+IST-TZX,Kanat,0,119,53,Ogle,Pazar,0,0,0.78,Mobil,2180
+ANK-TZX,Kanat,0,89,79,Sabah,Pazar,0,1,0.91,Mobil,3630
+IST-TZX,Kanat,0,110,89,Sabah erken,Pazar,0,1,0.68,Mobil,2880
+IST-ANT,Zirve,0,82,74,Sabah erken,Hafta ici,0,0,0.58,Mobil,2450
+ANK-IZM,Kanat,0,66,22,Sabah,Cumartesi,0,0,0.74,Mobil,1400
+IZM-ANT,Zirve,1,216,18,Sabah,Hafta ici,1,1,0.53,Masaustu,3050
+ANK-IZM,Zirve,1,249,52,Gece,Hafta ici,0,0,0.93,Masaustu,1530
+ANK-TZX,Bulut,0,80,36,Sabah,Pazar,0,1,0.7,Mobil,2320
+ANK-IZM,Bulut,0,78,55,Sabah,Cumartesi,0,0,0.48,Masaustu,1880
+IZM-ANT,Kanat,0,62,84,Sabah,Hafta ici,0,0,0.67,Masaustu,1920
+IST-ANK,Bulut,0,76,49,Ogle,Pazar,0,0,0.67,Masaustu,1750
+ANK-IZM,Kanat,0,69,32,Aksam,Hafta ici,1,1,0.42,Masaustu,2670
+IST-ANT,Zirve,0,87,79,Ogle,Hafta ici,0,1,0.82,Mobil,3250
+IST-ANT,Kanat,0,80,39,Gece,Hafta ici,0,1,0.7,Mobil,1630
+IST-TZX,Kanat,0,118,55,Gece,Hafta ici,0,1,0.72,Mobil,2140
+ANK-TZX,Bulut,0,87,12,Aksam,Pazar,0,1,0.96,Mobil,4020
+ANK-TZX,Bulut,0,89,46,Aksam,Hafta ici,0,0,0.79,Mobil,2060
+IST-IZM,Bulut,0,63,38,Sabah,Hafta ici,0,0,0.82,Masaustu,1560
+ANK-IZM,Bulut,0,79,11,Ogle,Cumartesi,0,1,0.58,Mobil,2300
+ANK-IZM,Kanat,0,67,19,Sabah,Pazar,0,0,0.69,Mobil,1860
+IST-IZM,Bulut,1,253,63,Aksam,Pazar,0,1,0.62,Masaustu,2380
+IST-ANK,Kanat,0,71,16,Sabah,Pazar,1,1,0.86,Mobil,4460
+IST-ANK,Kanat,0,77,12,Sabah,Pazar,0,1,0.79,Mobil,2860
+ANK-IZM,Kanat,0,78,5,Sabah erken,Cuma,0,1,0.25,Mobil,3110
+IST-ANT,Kanat,0,87,2,Aksam,Hafta ici,0,1,0.82,Mobil,4450
+ANK-TZX,Kanat,0,88,39,Aksam,Pazar,0,1,0.63,Mobil,2330
+IST-ANT,Bulut,0,88,44,Sabah erken,Hafta ici,0,1,0.79,Mobil,1780
+ANK-TZX,Kanat,0,87,56,Ogle,Hafta ici,0,0,0.83,Mobil,1810
+IST-ANT,Kanat,0,82,52,Sabah,Hafta ici,1,0,0.81,Mobil,2780
+ANK-IZM,Bulut,0,67,48,Aksam,Hafta ici,0,0,0.72,Masaustu,1730
+IST-ANK,Kanat,0,76,90,Sabah erken,Cuma,1,1,0.38,Mobil,3600
+IST-ANT,Bulut,0,79,22,Sabah erken,Pazar,0,1,0.66,Mobil,2090
+ANK-IZM,Zirve,0,67,64,Aksam,Hafta ici,0,1,0.76,Mobil,3130
+ANK-TZX,Bulut,0,85,7,Ogle,Hafta ici,0,0,0.73,Masaustu,2730
+IZM-ANT,Zirve,0,64,77,Aksam,Hafta ici,1,1,0.39,Mobil,5010
+IST-ANK,Kanat,0,69,33,Ogle,Cuma,0,0,0.69,Mobil,1460
+IST-IZM,Kanat,0,65,31,Gece,Hafta ici,0,1,0.61,Mobil,1300
+IST-ANK,Bulut,0,69,12,Sabah,Hafta ici,0,0,0.87,Mobil,2160
+IST-ANK,Zirve,0,73,46,Sabah,Cuma,0,1,0.73,Masaustu,3000
+IST-VAN,Zirve,0,140,36,Gece,Hafta ici,0,1,0.81,Masaustu,2650
+IST-VAN,Kanat,0,140,88,Sabah erken,Hafta ici,0,0,0.67,Mobil,2330
+ANK-IZM,Zirve,0,67,16,Aksam,Hafta ici,0,0,0.82,Mobil,2620
+IZM-ANT,Kanat,0,60,37,Sabah erken,Hafta ici,0,0,0.77,Mobil,1060
+ANK-IZM,Kanat,0,74,81,Ogle,Cuma,0,0,0.74,Masaustu,2110
+ANK-IZM,Kanat,0,68,73,Sabah,Hafta ici,0,0,0.88,Mobil,2000
+IST-ANK,Zirve,0,66,69,Ogle,Hafta ici,0,0,0.87,Mobil,2640
+IST-IZM,Kanat,0,64,47,Aksam,Pazar,0,0,0.86,Masaustu,1870
+IST-TZX,Zirve,0,115,79,Sabah erken,Cuma,1,0,0.71,Mobil,5770
+IZM-ANT,Bulut,0,64,20,Sabah,Hafta ici,0,1,0.89,Masaustu,2130
+IST-ANK,Bulut,0,66,73,Sabah,Cuma,0,0,0.96,Mobil,3180
+IST-ANT,Bulut,0,85,52,Sabah,Hafta ici,0,0,0.5,Masaustu,1970
+IST-VAN,Zirve,0,132,31,Sabah,Hafta ici,0,1,0.34,Masaustu,3200
+IST-ANK,Kanat,0,76,19,Gece,Cuma,0,0,0.92,Mobil,1740
+IST-ANT,Kanat,1,236,47,Sabah erken,Hafta ici,0,1,0.7,Mobil,1350
+IZM-ANT,Bulut,0,56,0,Ogle,Hafta ici,1,1,0.48,Mobil,9080
+IST-VAN,Kanat,0,135,65,Ogle,Pazar,0,1,0.58,Masaustu,2820
+IST-IZM,Kanat,0,72,21,Sabah,Cuma,0,0,0.69,Mobil,1890
+IZM-ANT,Kanat,0,61,35,Sabah,Pazar,0,0,0.44,Masaustu,1550
+IST-IZM,Kanat,0,70,17,Aksam,Pazar,0,1,0.52,Masaustu,2120
+IZM-ANT,Kanat,1,194,42,Aksam,Hafta ici,0,1,0.54,Masaustu,1400
+IST-IZM,Kanat,0,60,33,Aksam,Cuma,0,0,0.91,Mobil,1940
+IST-TZX,Zirve,0,118,17,Ogle,Hafta ici,0,1,0.92,Mobil,3150
+IST-ANT,Kanat,0,80,80,Aksam,Cuma,0,1,0.77,Mobil,3030
+IST-IZM,Zirve,0,71,69,Gece,Hafta ici,0,1,0.84,Mobil,2290
+IZM-ANT,Zirve,0,62,35,Gece,Hafta ici,0,0,0.48,Mobil,1390
+IST-ANK,Kanat,0,73,5,Gece,Hafta ici,0,0,0.76,Mobil,2010
+IST-ANK,Bulut,0,70,76,Sabah,Cumartesi,0,0,0.77,Masaustu,2080
+IST-IZM,Bulut,0,72,63,Gece,Hafta ici,0,0,0.59,Mobil,1420
+IST-VAN,Bulut,0,131,50,Aksam,Hafta ici,0,1,0.56,Mobil,3060
+ANK-IZM,Kanat,0,78,55,Aksam,Pazar,0,0,0.41,Mobil,2100
+ANK-TZX,Kanat,1,246,0,Aksam,Cuma,0,0,0.83,Masaustu,4800
+IST-IZM,Kanat,0,73,43,Gece,Hafta ici,1,0,0.57,Masaustu,1650
+IST-ANT,Bulut,1,227,17,Ogle,Hafta ici,0,1,0.83,Mobil,1810
+IST-ANK,Zirve,0,65,59,Aksam,Pazar,0,1,0.5,Mobil,3650
+IST-TZX,Bulut,1,226,84,Aksam,Hafta ici,0,1,0.69,Mobil,2590
+ANK-TZX,Bulut,0,88,48,Aksam,Hafta ici,0,1,0.74,Mobil,2210
+IST-VAN,Zirve,0,133,54,Aksam,Pazar,0,1,0.26,Mobil,4860
+IST-TZX,Bulut,0,113,60,Sabah,Hafta ici,0,0,0.83,Mobil,2380
+IST-ANT,Kanat,1,253,84,Sabah,Hafta ici,0,0,0.51,Masaustu,1820
+IZM-ANT,Zirve,0,55,3,Sabah,Hafta ici,0,1,0.79,Mobil,4930
+IST-ANT,Kanat,0,82,28,Aksam,Hafta ici,0,1,0.5,Mobil,1820
+IST-ANK,Kanat,0,76,24,Aksam,Hafta ici,0,0,0.71,Mobil,1540
+IST-IZM,Bulut,0,66,65,Aksam,Cuma,0,1,0.94,Masaustu,3640
+IST-ANK,Zirve,1,268,40,Aksam,Hafta ici,0,0,0.81,Mobil,1820
+IST-IZM,Kanat,0,69,70,Ogle,Cuma,0,1,0.81,Masaustu,2360
+IST-ANK,Bulut,0,65,42,Sabah erken,Cumartesi,0,1,0.35,Masaustu,1840
+IST-ANT,Kanat,0,83,88,Aksam,Pazar,0,0,0.67,Masaustu,2450
+IST-TZX,Kanat,0,110,69,Gece,Hafta ici,0,1,0.69,Mobil,1960
+IST-IZM,Kanat,0,61,1,Aksam,Cumartesi,0,1,0.62,Mobil,4230
+IST-ANT,Bulut,0,89,89,Gece,Hafta ici,0,1,0.5,Masaustu,2350
+ANK-TZX,Zirve,0,83,86,Gece,Cuma,0,1,0.46,Masaustu,3400
+ANK-IZM,Kanat,0,66,3,Sabah,Hafta ici,0,0,0.74,Masaustu,3000
+IST-ANT,Kanat,1,170,35,Aksam,Cuma,0,0,0.55,Masaustu,1410
+IST-IZM,Kanat,0,72,88,Ogle,Hafta ici,0,0,0.27,Mobil,1690
+IZM-ANT,Kanat,0,63,76,Ogle,Cuma,0,0,0.78,Mobil,1990
+IST-IZM,Bulut,0,72,42,Sabah,Hafta ici,0,0,0.84,Mobil,1690
+IST-IZM,Bulut,1,206,49,Sabah,Hafta ici,0,0,0.8,Mobil,1490
+IZM-ANT,Bulut,0,56,2,Sabah,Cuma,0,0,0.94,Mobil,5430
+IST-ANT,Kanat,0,80,51,Aksam,Hafta ici,0,1,0.74,Mobil,2130
+ANK-IZM,Bulut,0,67,60,Sabah erken,Cuma,0,0,0.28,Mobil,1910
+IST-TZX,Kanat,1,218,32,Ogle,Cuma,0,0,0.7,Mobil,1510
+IST-TZX,Kanat,1,194,27,Ogle,Cuma,0,1,0.62,Mobil,2080
+IST-IZM,Zirve,0,74,75,Ogle,Cuma,0,1,0.75,Masaustu,3080
+IST-IZM,Zirve,1,175,40,Gece,Cumartesi,0,1,0.7,Mobil,1710
+IST-IZM,Zirve,0,64,24,Ogle,Pazar,0,0,0.71,Mobil,2200
+IST-ANK,Zirve,0,79,34,Sabah erken,Hafta ici,0,1,0.49,Masaustu,2080
+IZM-ANT,Bulut,0,62,44,Gece,Hafta ici,0,0,0.46,Mobil,1180
+IST-IZM,Zirve,0,62,23,Aksam,Cuma,0,1,0.46,Mobil,3120
+IST-TZX,Bulut,0,112,50,Aksam,Hafta ici,0,1,0.8,Mobil,2740
+ANK-IZM,Kanat,1,257,78,Aksam,Hafta ici,0,0,0.52,Mobil,1600
+ANK-IZM,Kanat,1,213,67,Sabah erken,Hafta ici,0,1,0.71,Mobil,1630
+IST-ANT,Kanat,0,83,21,Aksam,Hafta ici,0,1,0.82,Masaustu,2160
+IST-ANT,Kanat,0,85,42,Sabah,Hafta ici,0,0,0.87,Mobil,1660
+ANK-TZX,Kanat,0,94,49,Ogle,Cuma,0,0,0.64,Masaustu,1660
+IST-VAN,Bulut,0,140,61,Sabah,Cuma,0,1,0.59,Mobil,3650
+ANK-IZM,Zirve,1,187,68,Aksam,Cuma,0,0,0.7,Mobil,2730
+IZM-ANT,Bulut,0,58,44,Sabah,Hafta ici,0,0,0.98,Masaustu,2040
+ANK-IZM,Kanat,0,72,28,Sabah,Cumartesi,0,0,0.58,Masaustu,1360
+IST-ANK,Bulut,0,71,59,Sabah erken,Cuma,0,1,0.78,Mobil,2430
+IST-TZX,Kanat,1,277,11,Aksam,Hafta ici,0,0,0.59,Mobil,1780
+IST-ANK,Kanat,1,257,61,Sabah,Hafta ici,0,1,0.58,Mobil,1840
+IST-TZX,Kanat,0,118,81,Ogle,Hafta ici,1,1,0.73,Masaustu,3890
+ANK-TZX,Kanat,0,85,64,Sabah,Pazar,0,0,0.75,Mobil,2730
+IST-ANT,Kanat,0,85,39,Aksam,Hafta ici,0,0,0.93,Mobil,1860
+IST-ANT,Zirve,0,89,74,Sabah,Hafta ici,0,1,0.74,Mobil,3490
+IST-ANK,Zirve,0,65,48,Gece,Hafta ici,0,0,0.89,Masaustu,1890
+ANK-TZX,Bulut,1,169,49,Sabah,Hafta ici,0,0,0.64,Mobil,1590
+IST-ANK,Kanat,1,239,77,Sabah erken,Hafta ici,0,0,0.52,Masaustu,1430
+IST-ANK,Zirve,1,167,17,Sabah,Cumartesi,0,1,0.69,Mobil,2150
+IST-IZM,Bulut,0,71,70,Sabah erken,Hafta ici,1,1,0.73,Mobil,2830
+IST-ANK,Kanat,0,72,61,Ogle,Cumartesi,0,0,0.76,Mobil,1730
+IST-ANT,Bulut,1,165,48,Sabah,Hafta ici,0,0,0.62,Mobil,1540
+IST-ANT,Bulut,0,81,7,Gece,Hafta ici,0,0,0.29,Mobil,2100
+IST-IZM,Bulut,0,66,69,Ogle,Cumartesi,0,1,0.57,Mobil,2190
+IST-ANK,Kanat,1,212,19,Sabah,Cuma,0,0,0.79,Mobil,1590
+IST-ANK,Bulut,0,67,81,Ogle,Pazar,0,1,0.88,Masaustu,3000
+IST-ANT,Kanat,1,159,72,Sabah,Hafta ici,1,1,0.48,Mobil,2810
+IST-ANK,Kanat,0,67,33,Sabah,Hafta ici,0,0,0.76,Mobil,1410
+IST-VAN,Kanat,1,240,39,Sabah,Cuma,0,1,0.75,Mobil,2240
+IST-IZM,Zirve,0,74,2,Sabah erken,Hafta ici,0,1,0.58,Mobil,4610
+IST-IZM,Kanat,0,69,45,Sabah,Cumartesi,0,1,0.55,Mobil,1820
+IST-ANT,Kanat,1,249,5,Gece,Hafta ici,0,0,0.59,Mobil,1650
+IST-ANT,Kanat,0,87,89,Aksam,Hafta ici,0,1,0.47,Masaustu,2780
+IST-ANK,Zirve,0,74,58,Gece,Cumartesi,0,0,0.38,Masaustu,1990
+IST-ANK,Bulut,0,74,21,Sabah,Cuma,0,1,0.58,Mobil,2540
+IZM-ANT,Zirve,0,58,73,Gece,Pazar,0,0,0.75,Mobil,2150
+IST-ANK,Kanat,1,164,1,Sabah,Pazar,0,0,0.71,Masaustu,3770
+IST-ANT,Kanat,0,86,49,Sabah erken,Hafta ici,0,1,0.64,Mobil,1730
+IST-ANT,Bulut,0,88,10,Aksam,Cuma,1,0,0.75,Mobil,6170
+IST-IZM,Kanat,0,74,4,Sabah erken,Pazar,0,0,0.8,Masaustu,2580
+IST-ANT,Zirve,1,170,22,Ogle,Hafta ici,0,1,0.62,Mobil,1870
+ANK-IZM,Zirve,1,202,26,Aksam,Hafta ici,0,0,0.75,Mobil,1720
+IZM-ANT,Bulut,1,212,66,Aksam,Pazar,0,1,0.65,Masaustu,2200
+IST-IZM,Zirve,0,67,81,Ogle,Hafta ici,0,1,0.67,Mobil,2790
+IST-IZM,Bulut,0,74,70,Sabah,Pazar,0,0,0.68,Masaustu,2670
+IST-IZM,Kanat,0,70,67,Sabah erken,Hafta ici,0,1,0.82,Mobil,2110
+IST-ANT,Bulut,0,78,51,Gece,Pazar,0,1,0.88,Mobil,2180
+IST-VAN,Kanat,0,135,33,Sabah,Cuma,0,1,0.86,Masaustu,2440
+IST-IZM,Zirve,0,69,23,Sabah,Cuma,0,0,0.81,Masaustu,2520
+IST-IZM,Kanat,0,65,86,Sabah,Cumartesi,0,1,0.59,Masaustu,2090
+ANK-TZX,Kanat,0,84,47,Gece,Hafta ici,0,1,0.85,Mobil,1500
+IST-ANK,Bulut,0,68,51,Aksam,Cuma,0,0,0.64,Masaustu,2310
+IST-ANT,Kanat,0,84,1,Ogle,Pazar,0,1,0.93,Mobil,5210
+IST-VAN,Kanat,0,130,41,Gece,Pazar,1,0,0.7,Mobil,2700
+IST-ANK,Bulut,1,178,62,Sabah erken,Pazar,0,0,0.4,Masaustu,1420
+IST-ANK,Kanat,0,65,45,Gece,Cuma,0,0,0.55,Mobil,1350
+IST-ANK,Bulut,1,159,55,Sabah erken,Cuma,0,1,0.7,Mobil,1950
+IZM-ANT,Kanat,0,55,73,Sabah,Hafta ici,0,0,0.61,Masaustu,1790
+IST-ANK,Kanat,0,71,1,Sabah erken,Cuma,1,0,0.74,Masaustu,7950
+IST-ANK,Kanat,0,66,82,Gece,Cuma,0,0,0.59,Mobil,1700
+IST-ANK,Zirve,0,73,74,Gece,Hafta ici,0,0,0.78,Mobil,2020
+IST-ANK,Zirve,0,65,38,Ogle,Hafta ici,0,1,0.49,Mobil,2110
+IST-TZX,Kanat,0,105,69,Sabah,Cuma,0,0,0.68,Mobil,2960
+IST-IZM,Zirve,1,224,6,Sabah,Hafta ici,0,0,0.76,Mobil,2750
+IST-TZX,Bulut,1,238,28,Ogle,Hafta ici,1,1,0.88,Mobil,2570
+IST-TZX,Bulut,0,106,9,Sabah,Hafta ici,1,0,0.6,Mobil,6540
+IZM-ANT,Bulut,0,62,57,Sabah erken,Cumartesi,0,0,0.42,Mobil,1580
+IST-ANK,Bulut,0,77,77,Aksam,Pazar,0,1,0.69,Masaustu,3120
+IZM-ANT,Zirve,0,64,54,Aksam,Cuma,1,1,0.63,Masaustu,4810
+IST-TZX,Bulut,0,116,64,Gece,Pazar,0,0,0.83,Mobil,2140
+IST-ANK,Bulut,0,69,13,Ogle,Pazar,0,1,0.5,Mobil,2690
+ANK-IZM,Kanat,0,79,84,Sabah,Hafta ici,0,1,0.75,Masaustu,2310
+IZM-ANT,Kanat,0,57,17,Ogle,Hafta ici,0,1,0.53,Mobil,1670
+IST-IZM,Bulut,1,158,47,Sabah,Hafta ici,0,0,0.75,Masaustu,1480
+IZM-ANT,Kanat,1,205,62,Aksam,Hafta ici,1,1,0.55,Mobil,2640
+IST-ANT,Kanat,0,75,77,Aksam,Hafta ici,0,1,0.5,Masaustu,2600
+IST-TZX,Kanat,1,308,84,Sabah,Hafta ici,0,1,0.51,Mobil,2500
+ANK-TZX,Kanat,0,90,54,Sabah,Pazar,0,1,0.37,Masaustu,2580
+IST-IZM,Bulut,0,63,52,Gece,Cuma,0,1,0.63,Masaustu,1760
+ANK-IZM,Bulut,1,228,37,Ogle,Hafta ici,0,1,0.74,Mobil,1490
+IST-IZM,Bulut,1,167,51,Ogle,Pazar,0,0,0.64,Masaustu,1520
+ANK-IZM,Kanat,1,262,61,Aksam,Pazar,0,0,0.56,Mobil,1700
+IST-TZX,Bulut,0,105,58,Ogle,Cumartesi,0,1,0.79,Mobil,2380
+IST-IZM,Kanat,1,248,53,Sabah erken,Cumartesi,0,0,0.84,Masaustu,1080
+IST-ANT,Bulut,0,85,40,Aksam,Pazar,0,1,0.63,Mobil,2230
+IST-IZM,Bulut,0,66,17,Gece,Cuma,0,1,0.7,Mobil,1880
+IST-ANK,Bulut,0,68,4,Sabah erken,Pazar,1,1,0.76,Mobil,6970
+IST-ANK,Bulut,0,69,38,Sabah erken,Hafta ici,0,0,0.47,Mobil,1270
+IST-IZM,Zirve,0,66,36,Aksam,Hafta ici,0,1,0.65,Mobil,2450
+IST-ANK,Zirve,0,65,55,Aksam,Hafta ici,0,1,0.8,Mobil,3090
+IST-ANK,Bulut,1,265,81,Sabah,Hafta ici,0,0,0.92,Mobil,2000
+ANK-IZM,Bulut,0,68,63,Ogle,Hafta ici,0,1,0.36,Mobil,2310
+IST-VAN,Kanat,0,131,73,Aksam,Hafta ici,1,0,0.45,Mobil,4300
+ANK-IZM,Zirve,0,66,52,Ogle,Hafta ici,0,1,0.89,Masaustu,3090
+IST-IZM,Kanat,0,65,84,Sabah erken,Hafta ici,0,0,0.73,Masaustu,1570
+IZM-ANT,Kanat,0,60,85,Sabah erken,Hafta ici,0,1,0.4,Mobil,1750
+IST-TZX,Zirve,0,110,13,Ogle,Cumartesi,0,0,0.55,Mobil,3190
+IST-ANK,Bulut,0,75,58,Gece,Cuma,0,0,0.79,Mobil,1770
+IST-ANK,Kanat,0,72,46,Ogle,Cuma,0,0,0.42,Mobil,1780
+IST-VAN,Kanat,0,132,88,Sabah,Hafta ici,0,0,0.67,Mobil,2990
+IST-ANK,Kanat,1,238,53,Gece,Cumartesi,0,1,0.5,Mobil,1560
+IST-ANT,Bulut,0,85,1,Sabah,Hafta ici,0,1,0.61,Masaustu,4970
+ANK-TZX,Kanat,0,87,19,Ogle,Hafta ici,0,0,0.82,Masaustu,1650
+IST-ANK,Zirve,0,65,11,Sabah erken,Hafta ici,0,0,0.48,Mobil,2310
+IST-ANK,Zirve,0,78,18,Aksam,Pazar,0,1,0.8,Mobil,3320
+ANK-TZX,Bulut,0,91,8,Aksam,Pazar,0,0,0.67,Masaustu,3570
+IST-TZX,Bulut,0,111,71,Aksam,Cumartesi,0,0,0.48,Masaustu,2870
+IST-ANK,Kanat,0,67,44,Sabah,Cuma,0,0,0.65,Mobil,1900
+IZM-ANT,Kanat,0,56,61,Ogle,Hafta ici,0,1,0.36,Mobil,1540
+IZM-ANT,Bulut,0,59,90,Sabah,Cuma,0,1,0.72,Mobil,2950
+IST-ANT,Kanat,0,78,58,Gece,Hafta ici,0,0,0.75,Mobil,1360
+IST-TZX,Kanat,0,108,43,Sabah erken,Hafta ici,1,1,0.54,Masaustu,2630
+IST-IZM,Kanat,0,66,24,Aksam,Pazar,0,1,0.63,Mobil,2030
+IST-ANK,Kanat,0,65,68,Aksam,Pazar,0,1,0.56,Mobil,2850
+IST-TZX,Bulut,1,307,46,Sabah,Hafta ici,0,1,0.66,Mobil,2090
+IST-IZM,Bulut,0,73,68,Sabah,Hafta ici,1,1,0.61,Mobil,3440
+IST-VAN,Zirve,0,142,2,Sabah erken,Hafta ici,0,1,0.5,Masaustu,5680
+IZM-ANT,Bulut,0,55,14,Ogle,Hafta ici,0,1,0.74,Mobil,2230
+IST-ANK,Zirve,0,75,11,Gece,Hafta ici,0,0,0.42,Masaustu,2090
+IST-TZX,Bulut,0,119,62,Ogle,Cuma,1,1,0.67,Masaustu,4450
+IST-IZM,Zirve,0,68,47,Gece,Hafta ici,0,1,0.6,Masaustu,2260
+IZM-ANT,Bulut,0,60,28,Sabah erken,Hafta ici,0,0,0.97,Mobil,1420
+IST-IZM,Kanat,0,67,28,Sabah,Hafta ici,0,0,0.69,Mobil,1340
+IST-TZX,Zirve,0,108,55,Gece,Cumartesi,0,0,0.2,Mobil,2350
+IST-ANT,Kanat,0,80,87,Gece,Hafta ici,0,0,0.75,Mobil,1480
+IST-ANT,Kanat,0,89,90,Sabah,Hafta ici,0,0,0.58,Mobil,2030
+IST-VAN,Kanat,0,139,42,Aksam,Cuma,0,0,0.73,Mobil,2450
+ANK-IZM,Kanat,0,71,61,Gece,Cumartesi,0,0,0.52,Masaustu,1320
+IST-TZX,Kanat,0,106,7,Aksam,Hafta ici,0,1,0.5,Masaustu,3560
+ANK-IZM,Bulut,1,255,86,Aksam,Cuma,0,0,0.73,Masaustu,2110
+ANK-TZX,Zirve,0,82,1,Sabah,Hafta ici,0,0,0.87,Masaustu,6780
+IST-ANT,Kanat,0,85,31,Sabah erken,Cuma,0,0,0.51,Masaustu,1210
+IST-ANT,Bulut,0,79,65,Aksam,Hafta ici,0,0,0.91,Mobil,2560
+IST-ANK,Kanat,0,69,88,Ogle,Pazar,0,0,0.93,Mobil,2690
+ANK-IZM,Zirve,0,67,15,Sabah,Pazar,0,1,0.62,Masaustu,3460
+IST-ANT,Kanat,0,80,60,Sabah,Cumartesi,0,0,0.62,Masaustu,1930
+IST-ANT,Kanat,0,85,17,Sabah,Pazar,0,0,0.76,Masaustu,2020
+IST-ANK,Bulut,0,71,4,Ogle,Hafta ici,0,1,0.37,Mobil,3340
+IZM-ANT,Bulut,1,232,38,Sabah,Cuma,0,1,0.74,Masaustu,1890
+IST-ANT,Zirve,1,271,52,Sabah,Hafta ici,0,0,0.69,Mobil,2030
+IST-VAN,Bulut,0,132,24,Sabah erken,Hafta ici,0,0,0.92,Mobil,2180
+IST-ANK,Zirve,0,71,88,Gece,Hafta ici,0,1,0.83,Mobil,2780
+ANK-TZX,Kanat,0,93,56,Aksam,Cuma,0,0,0.68,Mobil,2110
+IST-ANK,Kanat,1,168,39,Sabah erken,Cuma,0,0,0.46,Mobil,1100
+IST-ANK,Kanat,1,182,44,Ogle,Pazar,0,1,0.67,Masaustu,1550
+IZM-ANT,Kanat,0,56,42,Ogle,Hafta ici,0,1,0.54,Mobil,1470
+IZM-ANT,Kanat,0,62,10,Aksam,Pazar,0,1,0.67,Masaustu,2920
+IST-IZM,Bulut,0,60,55,Aksam,Pazar,1,0,0.44,Mobil,3640
+IST-ANT,Kanat,1,214,71,Aksam,Cumartesi,0,1,0.78,Mobil,2090
+ANK-IZM,Bulut,0,73,38,Aksam,Hafta ici,0,1,0.74,Mobil,1850
+IZM-ANT,Bulut,0,66,38,Sabah erken,Hafta ici,1,1,0.88,Mobil,2380
+IST-IZM,Bulut,0,65,82,Sabah,Cuma,0,0,0.9,Mobil,2660
+IST-ANT,Bulut,0,75,55,Sabah erken,Pazar,0,0,0.59,Mobil,1960
+ANK-IZM,Kanat,0,71,27,Ogle,Hafta ici,0,0,0.45,Mobil,1210
+ANK-IZM,Kanat,0,71,0,Ogle,Hafta ici,0,1,0.65,Mobil,4580
+ANK-IZM,Bulut,0,74,74,Aksam,Hafta ici,1,0,0.7,Mobil,3410
+IST-TZX,Bulut,0,106,57,Sabah,Hafta ici,0,0,0.32,Mobil,2480
+IST-ANK,Kanat,0,74,56,Aksam,Cumartesi,0,0,0.48,Mobil,1860
+IZM-ANT,Kanat,0,61,25,Sabah,Hafta ici,0,0,0.32,Mobil,1350
+IZM-ANT,Bulut,1,241,16,Sabah,Hafta ici,0,1,0.58,Mobil,1790
+ANK-IZM,Bulut,0,79,44,Aksam,Cuma,1,0,0.74,Masaustu,3230
+IST-ANK,Kanat,0,68,68,Sabah erken,Hafta ici,0,0,0.79,Mobil,1470
+IST-IZM,Bulut,0,71,27,Sabah,Hafta ici,0,1,0.81,Mobil,1900
+ANK-IZM,Zirve,0,66,47,Sabah,Cuma,0,1,0.72,Masaustu,3250
+IST-ANK,Kanat,0,79,90,Aksam,Hafta ici,0,1,0.73,Mobil,2610
+ANK-TZX,Zirve,0,87,19,Sabah,Pazar,0,1,0.82,Masaustu,3260
+IST-IZM,Kanat,0,71,21,Gece,Cuma,0,0,0.32,Masaustu,1300
+IST-VAN,Bulut,0,141,21,Gece,Pazar,0,0,0.37,Masaustu,1970
+IZM-ANT,Bulut,0,64,83,Aksam,Hafta ici,0,0,0.79,Masaustu,2190
+IST-ANT,Kanat,0,80,48,Sabah,Cumartesi,0,1,0.55,Mobil,1920
+IST-IZM,Zirve,0,71,83,Aksam,Hafta ici,0,1,0.39,Mobil,3630
+IST-TZX,Bulut,0,112,86,Sabah erken,Cuma,0,0,0.46,Mobil,3030
+IST-TZX,Zirve,0,114,38,Gece,Hafta ici,0,1,0.82,Masaustu,2150
+IST-ANT,Kanat,0,84,4,Ogle,Hafta ici,0,1,0.76,Mobil,3420
+IST-TZX,Zirve,0,111,27,Sabah,Hafta ici,0,1,0.84,Mobil,3130
+ANK-TZX,Zirve,0,81,49,Sabah,Cumartesi,0,0,0.79,Masaustu,2450
+IST-ANT,Bulut,1,202,34,Aksam,Cumartesi,0,0,0.56,Mobil,1160
+IST-ANK,Kanat,0,79,0,Gece,Hafta ici,0,1,0.55,Mobil,3930
+IST-IZM,Bulut,0,67,90,Ogle,Cuma,0,1,0.59,Mobil,2760
+IST-ANT,Bulut,0,84,27,Ogle,Cuma,0,1,0.75,Mobil,2020
+IST-ANK,Zirve,0,68,56,Aksam,Hafta ici,0,1,0.2,Mobil,3010
+IST-ANK,Bulut,1,215,86,Aksam,Hafta ici,0,0,0.76,Mobil,1860
+IST-VAN,Kanat,0,137,49,Aksam,Pazar,0,1,0.85,Masaustu,3670
+IST-IZM,Kanat,1,159,63,Sabah,Cuma,0,0,0.83,Mobil,1660
+ANK-TZX,Bulut,0,82,3,Aksam,Cuma,1,0,0.61,Mobil,10360
+IST-IZM,Zirve,0,65,63,Gece,Cuma,0,0,0.45,Masaustu,2460
+IST-ANK,Kanat,1,264,77,Sabah,Cuma,1,0,0.91,Mobil,3600
+ANK-IZM,Bulut,0,69,83,Sabah,Hafta ici,0,0,0.88,Mobil,2590
+IZM-ANT,Zirve,0,58,7,Sabah erken,Pazar,0,1,0.63,Mobil,3500
+IST-IZM,Kanat,0,64,20,Ogle,Hafta ici,0,1,0.68,Masaustu,1690
+IST-IZM,Kanat,1,178,4,Aksam,Cumartesi,0,0,0.78,Mobil,2140
+IST-ANK,Bulut,0,76,83,Sabah,Pazar,0,0,0.69,Masaustu,2680
+IST-ANT,Bulut,0,82,25,Ogle,Cuma,0,0,0.78,Masaustu,1770
+IST-ANT,Kanat,1,278,48,Sabah erken,Hafta ici,0,0,0.47,Mobil,1160
+IST-IZM,Zirve,0,62,43,Gece,Hafta ici,0,0,0.62,Mobil,1740
+IST-ANK,Bulut,0,73,62,Aksam,Hafta ici,0,1,0.6,Masaustu,2560
+IST-ANT,Zirve,0,89,81,Ogle,Cuma,0,1,0.44,Mobil,3910
+ANK-TZX,Zirve,0,91,29,Aksam,Hafta ici,0,0,0.81,Mobil,2260
+IST-TZX,Zirve,1,297,71,Sabah erken,Hafta ici,0,1,0.62,Mobil,2810
+IST-ANT,Bulut,0,79,26,Aksam,Pazar,0,1,0.67,Mobil,2360
+IST-ANK,Kanat,0,70,17,Aksam,Hafta ici,0,0,0.47,Masaustu,1840
+IST-IZM,Bulut,0,60,9,Sabah erken,Hafta ici,0,0,0.68,Mobil,2020
+IST-IZM,Kanat,0,60,33,Gece,Hafta ici,0,0,0.76,Mobil,1010
+ANK-IZM,Bulut,1,253,51,Sabah erken,Cuma,0,0,0.93,Mobil,1510
+IZM-ANT,Kanat,0,67,71,Aksam,Hafta ici,0,1,0.86,Mobil,2440
+IZM-ANT,Bulut,0,69,77,Sabah,Cumartesi,0,0,0.55,Masaustu,2140
+ANK-TZX,Kanat,0,89,47,Aksam,Hafta ici,1,0,0.49,Mobil,2890
+ANK-TZX,Kanat,0,93,37,Sabah erken,Hafta ici,0,0,0.69,Masaustu,1270
+ANK-TZX,Kanat,0,86,15,Sabah erken,Hafta ici,0,0,0.55,Mobil,1600
+IST-ANK,Bulut,0,68,83,Ogle,Hafta ici,0,1,0.67,Masaustu,2570
+IST-ANK,Zirve,0,68,36,Gece,Cumartesi,0,0,0.61,Masaustu,1460
+IST-IZM,Kanat,1,181,69,Sabah,Hafta ici,0,1,0.61,Mobil,1910
+IST-ANT,Zirve,0,86,56,Aksam,Hafta ici,0,0,0.63,Masaustu,2680
+IST-ANK,Zirve,0,65,84,Ogle,Hafta ici,0,0,0.69,Mobil,2790
+IZM-ANT,Kanat,0,69,88,Aksam,Hafta ici,0,0,0.69,Mobil,2080
+IST-TZX,Bulut,0,116,64,Sabah,Hafta ici,0,1,0.57,Mobil,2800
+IST-ANT,Bulut,0,80,60,Ogle,Hafta ici,0,0,0.79,Mobil,1920
+IST-ANK,Kanat,0,75,12,Gece,Pazar,0,1,0.79,Masaustu,1980
+IST-IZM,Bulut,0,62,1,Sabah,Hafta ici,0,0,0.81,Masaustu,4190
+IST-ANK,Kanat,1,258,49,Ogle,Hafta ici,0,1,0.59,Mobil,1560
+IZM-ANT,Zirve,1,221,64,Gece,Cuma,0,1,0.75,Masaustu,2160
+IST-TZX,Zirve,1,244,67,Sabah,Hafta ici,0,1,0.8,Mobil,2740
+ANK-IZM,Zirve,0,65,22,Sabah,Cuma,1,0,0.58,Mobil,4080
+IST-IZM,Bulut,1,168,45,Sabah,Pazar,0,0,0.52,Masaustu,1540
+IST-IZM,Bulut,0,71,78,Aksam,Cumartesi,0,1,0.62,Mobil,2510
+IST-ANT,Zirve,0,88,8,Gece,Pazar,0,1,0.86,Masaustu,3330
+ANK-IZM,Kanat,0,79,34,Aksam,Cuma,1,0,0.82,Mobil,2620
+ANK-IZM,Kanat,0,79,85,Aksam,Hafta ici,0,0,0.93,Mobil,2450
+IST-IZM,Bulut,0,74,18,Sabah,Pazar,0,0,0.67,Mobil,2220
+ANK-TZX,Kanat,0,80,28,Sabah erken,Hafta ici,0,0,0.9,Mobil,1220
+IST-ANK,Kanat,0,76,42,Sabah,Hafta ici,0,0,0.87,Mobil,1480
+IZM-ANT,Kanat,0,65,62,Sabah erken,Cumartesi,0,0,0.8,Mobil,1320
+IST-ANK,Bulut,1,152,23,Sabah erken,Pazar,0,0,0.54,Mobil,1260
+IST-IZM,Kanat,0,62,72,Aksam,Pazar,0,1,0.65,Masaustu,2850
+IZM-ANT,Kanat,0,69,21,Sabah erken,Hafta ici,0,1,0.44,Mobil,1560
+IST-ANK,Kanat,0,78,33,Sabah erken,Cuma,0,1,0.92,Mobil,1800
+IST-ANT,Kanat,1,177,52,Sabah,Hafta ici,0,0,0.35,Mobil,1410
+IST-ANT,Zirve,0,76,1,Sabah,Cumartesi,0,1,0.69,Mobil,6200
+IST-IZM,Kanat,0,65,69,Sabah erken,Cuma,0,0,0.48,Mobil,1840
+IST-VAN,Bulut,0,130,60,Sabah erken,Hafta ici,0,1,0.67,Mobil,2530
+IZM-ANT,Zirve,0,65,75,Sabah,Cumartesi,0,0,0.64,Mobil,2500
+IZM-ANT,Kanat,0,60,25,Ogle,Hafta ici,0,0,0.66,Masaustu,1250
+IST-IZM,Zirve,0,60,36,Aksam,Hafta ici,0,1,0.95,Mobil,3150
+IST-ANT,Bulut,0,89,81,Gece,Pazar,0,0,0.67,Mobil,2050
+IST-IZM,Bulut,0,72,6,Aksam,Cuma,1,1,0.31,Masaustu,7640
+IST-IZM,Kanat,0,73,44,Aksam,Hafta ici,0,1,0.43,Mobil,1710
+IST-ANK,Kanat,0,79,44,Gece,Hafta ici,0,0,0.6,Mobil,990
+ANK-TZX,Zirve,0,80,40,Ogle,Hafta ici,0,0,0.65,Mobil,1840
+IZM-ANT,Zirve,0,66,39,Aksam,Hafta ici,0,1,0.46,Mobil,2380
+ANK-IZM,Zirve,0,76,68,Ogle,Hafta ici,0,1,0.6,Masaustu,2800
+IST-ANT,Zirve,0,86,17,Sabah,Hafta ici,0,1,0.82,Mobil,3020
+IST-ANT,Kanat,0,78,81,Sabah,Hafta ici,0,0,0.61,Masaustu,2150
+IST-ANT,Zirve,0,80,81,Sabah erken,Cuma,0,1,0.74,Mobil,3540
+IST-ANT,Bulut,0,88,16,Aksam,Hafta ici,0,0,0.52,Masaustu,2170
+IST-ANT,Zirve,0,75,88,Sabah erken,Cuma,0,0,0.52,Mobil,3030
+IST-ANK,Kanat,0,74,23,Aksam,Pazar,0,1,0.51,Masaustu,2020
+IST-ANK,Kanat,0,76,4,Gece,Hafta ici,0,0,0.85,Mobil,2000
+ANK-TZX,Zirve,0,91,36,Ogle,Cuma,0,0,0.68,Mobil,2560
+IST-ANT,Zirve,0,83,72,Sabah erken,Hafta ici,0,0,0.87,Mobil,2390
+ANK-TZX,Bulut,0,91,76,Ogle,Hafta ici,0,1,0.7,Masaustu,2270
+IST-ANK,Kanat,0,78,58,Sabah,Cuma,0,1,0.38,Mobil,2510
+IST-ANT,Kanat,0,86,73,Gece,Hafta ici,0,1,0.67,Mobil,1720
+IST-IZM,Zirve,0,61,23,Aksam,Hafta ici,0,0,0.42,Masaustu,2160
+IST-IZM,Bulut,0,63,79,Aksam,Pazar,0,0,0.77,Masaustu,2580
+IST-ANK,Bulut,0,69,57,Ogle,Hafta ici,0,1,0.64,Masaustu,2230
+IST-ANK,Bulut,0,70,12,Aksam,Cuma,0,0,0.74,Mobil,2750
+IZM-ANT,Bulut,1,253,11,Aksam,Cuma,0,0,0.7,Mobil,2190
+IST-IZM,Bulut,1,222,24,Sabah erken,Hafta ici,0,0,0.8,Masaustu,1010
+IST-TZX,Bulut,0,115,6,Sabah,Cuma,0,1,0.55,Mobil,4400
+IST-ANT,Zirve,0,76,25,Sabah erken,Hafta ici,0,1,0.38,Masaustu,2000
+IST-ANT,Zirve,0,86,90,Ogle,Hafta ici,0,0,0.77,Mobil,2840
+IST-ANT,Zirve,0,84,21,Gece,Pazar,0,0,0.81,Masaustu,2280
+IST-ANK,Bulut,0,79,57,Aksam,Hafta ici,0,1,0.55,Mobil,2350
+ANK-TZX,Bulut,0,80,88,Ogle,Cuma,0,1,0.74,Mobil,3060
+ANK-IZM,Bulut,0,69,23,Gece,Hafta ici,0,0,0.89,Masaustu,1420
+ANK-IZM,Zirve,1,255,63,Sabah,Hafta ici,0,0,0.45,Masaustu,2210
+IST-ANT,Bulut,0,82,40,Sabah erken,Cuma,0,1,0.76,Masaustu,1890
+IST-ANK,Bulut,0,73,25,Gece,Cuma,0,1,0.88,Mobil,1910
+ANK-TZX,Bulut,0,80,86,Gece,Hafta ici,1,1,0.65,Mobil,3130
+IST-IZM,Bulut,0,71,59,Aksam,Cuma,0,1,0.79,Masaustu,2760
+IST-ANK,Bulut,0,68,39,Sabah,Hafta ici,0,1,0.5,Mobil,2010
+IST-IZM,Kanat,1,216,73,Gece,Hafta ici,0,0,0.94,Mobil,1310
+ANK-IZM,Bulut,0,70,81,Aksam,Cumartesi,1,0,0.2,Mobil,3640
+IST-TZX,Bulut,0,107,71,Aksam,Cuma,0,0,0.68,Mobil,3540
+ANK-IZM,Kanat,0,73,79,Sabah,Hafta ici,0,1,0.64,Mobil,2300
+ANK-IZM,Zirve,1,193,29,Ogle,Cumartesi,0,0,0.46,Mobil,1560
+IST-IZM,Bulut,1,163,31,Aksam,Hafta ici,0,0,0.73,Masaustu,1170
+ANK-TZX,Kanat,0,94,21,Gece,Pazar,0,0,0.63,Masaustu,1600
+IST-ANT,Zirve,0,80,63,Ogle,Cumartesi,0,1,0.6,Mobil,2770
+IST-TZX,Bulut,0,110,73,Ogle,Hafta ici,0,1,0.8,Mobil,2690
+IST-ANK,Zirve,1,181,60,Aksam,Hafta ici,0,0,0.56,Mobil,2390
+ANK-TZX,Kanat,1,241,54,Ogle,Pazar,0,0,0.85,Masaustu,1750
+IST-IZM,Zirve,1,266,70,Ogle,Pazar,0,1,0.37,Masaustu,2790
+IST-ANK,Bulut,0,68,16,Sabah erken,Hafta ici,0,0,0.74,Mobil,1430
+IST-ANT,Bulut,0,78,33,Sabah erken,Hafta ici,0,1,0.77,Masaustu,1660
+IST-ANK,Kanat,0,65,64,Aksam,Hafta ici,0,0,0.54,Mobil,1940
+IST-ANK,Bulut,0,70,4,Sabah erken,Pazar,0,1,0.66,Masaustu,3380
+IST-TZX,Bulut,0,113,82,Sabah erken,Pazar,0,0,0.87,Masaustu,2890
+IST-ANT,Bulut,0,85,15,Gece,Cumartesi,0,1,0.28,Masaustu,1780
+ANK-TZX,Bulut,0,93,71,Aksam,Hafta ici,0,0,0.71,Mobil,2220
+IST-IZM,Zirve,1,154,56,Sabah erken,Pazar,0,0,0.83,Mobil,1720
+ANK-IZM,Bulut,0,69,77,Sabah,Hafta ici,0,1,0.81,Mobil,2830
+IST-ANT,Kanat,1,260,70,Aksam,Hafta ici,0,1,0.55,Mobil,1980
+IST-TZX,Zirve,0,107,46,Ogle,Hafta ici,0,1,0.75,Mobil,2790
+IST-TZX,Bulut,0,108,68,Ogle,Hafta ici,0,1,0.57,Mobil,2520
+IST-ANT,Zirve,0,80,31,Ogle,Hafta ici,0,1,0.65,Mobil,2440
+ANK-TZX,Zirve,0,88,53,Sabah,Hafta ici,0,1,0.61,Mobil,2830
+IST-IZM,Zirve,0,63,83,Aksam,Hafta ici,0,0,0.74,Mobil,2780
+IST-ANK,Zirve,0,78,7,Sabah erken,Cumartesi,0,1,0.78,Masaustu,3210
+IST-VAN,Bulut,0,134,32,Ogle,Hafta ici,1,0,0.56,Mobil,2920
+IZM-ANT,Kanat,1,240,1,Sabah,Hafta ici,0,0,0.73,Mobil,3140
+IST-ANK,Bulut,0,74,48,Sabah erken,Hafta ici,0,1,0.35,Masaustu,1720
+IST-ANT,Zirve,1,231,71,Sabah erken,Hafta ici,0,0,0.39,Mobil,2110
+IZM-ANT,Bulut,1,178,3,Gece,Hafta ici,1,0,0.63,Mobil,4080
+ANK-IZM,Zirve,1,274,49,Sabah,Cuma,0,0,0.68,Masaustu,2120
+ANK-TZX,Kanat,0,86,37,Sabah,Hafta ici,0,0,0.95,Mobil,1770
+IST-ANT,Kanat,1,242,71,Sabah erken,Hafta ici,0,1,0.73,Mobil,1610
+IST-TZX,Bulut,1,205,20,Aksam,Cumartesi,0,0,0.77,Masaustu,1630
+IST-IZM,Bulut,1,231,14,Ogle,Hafta ici,0,0,0.53,Masaustu,1460
+ANK-TZX,Kanat,0,83,8,Gece,Cumartesi,0,0,0.63,Mobil,1770
+IST-IZM,Kanat,0,72,37,Aksam,Hafta ici,0,0,0.7,Mobil,1410
+ANK-IZM,Zirve,1,176,44,Ogle,Pazar,0,0,0.57,Masaustu,1760
+IST-ANT,Bulut,0,77,83,Aksam,Hafta ici,1,0,0.57,Mobil,3580
+IST-TZX,Kanat,0,107,42,Sabah erken,Hafta ici,1,1,0.54,Masaustu,2840
+IST-VAN,Kanat,0,140,15,Gece,Cuma,0,1,0.79,Mobil,2710
+IST-ANT,Bulut,0,78,63,Gece,Hafta ici,0,0,0.49,Mobil,1720
+IZM-ANT,Kanat,0,62,5,Sabah,Cumartesi,1,0,0.81,Mobil,5140
+IST-ANT,Bulut,1,187,31,Aksam,Hafta ici,0,0,0.65,Masaustu,1220
+IST-TZX,Zirve,1,282,59,Sabah,Hafta ici,0,0,0.56,Mobil,2930
+IST-IZM,Kanat,1,182,23,Ogle,Pazar,0,0,0.59,Masaustu,1190
+IST-ANT,Bulut,0,88,54,Aksam,Pazar,0,1,0.73,Masaustu,2590
+IST-ANT,Kanat,0,79,41,Gece,Hafta ici,0,1,0.44,Masaustu,1600
+IST-ANK,Kanat,0,78,86,Sabah,Hafta ici,0,0,0.7,Masaustu,2110
+IST-ANK,Zirve,0,68,26,Aksam,Cumartesi,0,0,0.68,Mobil,2190
+IST-VAN,Bulut,0,130,82,Aksam,Cumartesi,0,1,0.34,Mobil,3100
+IST-TZX,Zirve,0,115,56,Sabah,Pazar,0,1,0.74,Mobil,4040
+IST-VAN,Kanat,1,252,68,Aksam,Cumartesi,0,0,0.55,Mobil,2320
+IST-ANK,Kanat,0,78,15,Aksam,Hafta ici,1,1,0.2,Mobil,3060
+IST-IZM,Bulut,0,73,1,Aksam,Cuma,0,0,0.61,Masaustu,5580
+IST-ANK,Bulut,0,66,66,Gece,Hafta ici,0,1,0.88,Masaustu,1850
+ANK-IZM,Zirve,0,74,43,Sabah erken,Hafta ici,0,0,0.72,Mobil,1760
+IZM-ANT,Kanat,0,65,28,Sabah,Cumartesi,0,1,0.76,Mobil,1830
+IST-IZM,Zirve,0,69,81,Sabah erken,Cuma,1,0,0.74,Masaustu,3960
+IST-VAN,Zirve,0,130,29,Sabah,Hafta ici,0,0,0.8,Masaustu,2840
+IST-ANK,Bulut,0,65,39,Ogle,Cuma,0,1,0.51,Masaustu,2110
+IST-IZM,Kanat,1,236,65,Gece,Hafta ici,0,1,0.57,Mobil,1440
+IST-ANK,Bulut,0,77,87,Ogle,Hafta ici,0,1,0.57,Mobil,2390
+IST-IZM,Kanat,0,62,81,Aksam,Cuma,0,0,0.63,Masaustu,2290
+IST-VAN,Zirve,0,130,59,Sabah,Cuma,0,1,0.65,Mobil,4720
+IZM-ANT,Bulut,0,61,10,Sabah,Hafta ici,0,0,0.88,Masaustu,2350
+IST-IZM,Zirve,0,64,9,Aksam,Hafta ici,0,1,0.9,Mobil,3650
+IST-ANT,Bulut,1,272,63,Aksam,Hafta ici,0,0,0.65,Mobil,1910
+IST-VAN,Bulut,1,294,46,Sabah,Hafta ici,0,0,0.44,Mobil,1820
+ANK-TZX,Bulut,0,88,12,Gece,Pazar,0,0,0.6,Masaustu,1860
+IST-TZX,Bulut,0,119,63,Ogle,Hafta ici,0,1,0.71,Mobil,2530
+IST-IZM,Zirve,0,63,85,Sabah,Pazar,0,1,0.71,Masaustu,3620
+IST-TZX,Kanat,0,119,5,Ogle,Hafta ici,0,0,0.72,Masaustu,3110
+IST-IZM,Zirve,0,66,75,Aksam,Hafta ici,0,1,0.72,Masaustu,3000
+ANK-TZX,Zirve,1,234,31,Sabah,Hafta ici,0,0,0.69,Masaustu,1800
+IST-ANT,Zirve,0,75,36,Aksam,Cumartesi,0,0,0.92,Masaustu,2790
+IST-VAN,Bulut,0,132,65,Ogle,Pazar,0,0,0.91,Masaustu,3460
+IST-ANK,Zirve,0,67,22,Ogle,Hafta ici,0,1,0.62,Mobil,2100
+IST-ANT,Kanat,0,82,14,Gece,Hafta ici,0,1,0.77,Masaustu,1670
+IZM-ANT,Zirve,1,221,87,Ogle,Hafta ici,1,1,0.58,Masaustu,3590
+IST-TZX,Kanat,0,106,31,Ogle,Hafta ici,0,0,0.9,Mobil,1500
+IST-ANT,Kanat,0,84,15,Sabah erken,Hafta ici,0,0,0.89,Mobil,1520
+ANK-TZX,Bulut,0,93,62,Sabah,Pazar,0,1,0.4,Mobil,2690
+IZM-ANT,Kanat,1,141,19,Sabah,Hafta ici,0,0,0.82,Masaustu,1210
+IST-IZM,Kanat,0,68,70,Sabah,Cumartesi,0,1,0.85,Masaustu,2530
+IST-ANT,Zirve,0,89,6,Ogle,Cumartesi,0,1,0.92,Mobil,4280
+IST-ANT,Kanat,0,81,47,Sabah erken,Hafta ici,0,0,0.55,Masaustu,1430
+IST-TZX,Bulut,0,107,36,Sabah,Hafta ici,1,0,0.76,Mobil,2880
+IST-IZM,Kanat,1,241,87,Ogle,Pazar,0,1,0.56,Mobil,1910
+IST-IZM,Zirve,0,74,47,Sabah,Hafta ici,0,1,0.6,Masaustu,2850
+IZM-ANT,Zirve,0,61,84,Aksam,Hafta ici,0,1,0.63,Masaustu,3700
+ANK-TZX,Bulut,0,81,22,Aksam,Pazar,0,1,0.52,Mobil,2600
+IZM-ANT,Bulut,0,67,43,Sabah,Hafta ici,0,0,0.71,Masaustu,1610
+ANK-TZX,Zirve,0,92,74,Sabah erken,Pazar,1,1,0.78,Masaustu,4980
+ANK-IZM,Zirve,1,255,14,Ogle,Hafta ici,0,1,0.71,Masaustu,2230
+ANK-IZM,Kanat,0,66,84,Sabah erken,Hafta ici,0,1,0.81,Masaustu,2070
+ANK-IZM,Bulut,0,66,70,Ogle,Hafta ici,0,0,0.87,Mobil,2080
+IST-ANT,Zirve,0,78,61,Aksam,Hafta ici,0,0,0.33,Mobil,3210
+IST-ANT,Kanat,0,77,22,Aksam,Hafta ici,0,0,0.54,Mobil,1590
+IST-IZM,Zirve,0,67,74,Ogle,Hafta ici,0,0,0.47,Mobil,2520
+IST-TZX,Kanat,0,110,76,Gece,Hafta ici,0,1,0.9,Mobil,2390
+IST-IZM,Zirve,0,71,26,Sabah erken,Hafta ici,0,1,0.7,Mobil,2080
+IST-IZM,Kanat,0,61,53,Gece,Cuma,0,0,0.81,Mobil,1660
+IST-TZX,Kanat,1,223,5,Aksam,Hafta ici,1,1,0.67,Mobil,6840
+IST-ANT,Zirve,0,89,35,Ogle,Hafta ici,0,0,0.44,Mobil,2020
+IST-IZM,Zirve,0,61,13,Sabah,Hafta ici,0,1,0.75,Mobil,3180
+ANK-IZM,Zirve,0,74,50,Sabah,Hafta ici,0,1,0.71,Mobil,2980
+IZM-ANT,Zirve,0,62,49,Gece,Hafta ici,0,1,0.43,Mobil,2290
+IST-ANK,Bulut,0,66,48,Sabah,Hafta ici,1,1,0.62,Masaustu,2810
+IST-ANK,Kanat,0,69,61,Gece,Hafta ici,0,1,0.55,Masaustu,1770
+IST-IZM,Kanat,0,71,84,Ogle,Cuma,0,1,0.78,Masaustu,2100
+ANK-IZM,Bulut,1,204,17,Ogle,Cuma,0,0,0.65,Masaustu,1650
+IZM-ANT,Kanat,1,230,19,Aksam,Hafta ici,0,1,0.71,Masaustu,1640
+IST-ANK,Zirve,0,66,19,Sabah,Pazar,0,0,0.7,Masaustu,2650
+ANK-IZM,Kanat,1,257,84,Ogle,Cuma,0,0,0.47,Mobil,1480
+IST-ANK,Kanat,1,247,8,Gece,Cuma,0,1,0.51,Mobil,1980
+IST-ANT,Kanat,0,83,2,Sabah,Hafta ici,0,1,0.41,Mobil,4270
+ANK-TZX,Kanat,0,86,14,Gece,Hafta ici,0,1,0.82,Mobil,1800
+IST-ANK,Kanat,0,65,69,Gece,Hafta ici,0,0,0.87,Masaustu,1430
+IST-ANK,Bulut,0,76,52,Sabah erken,Hafta ici,0,0,0.71,Mobil,1430
+IST-ANT,Kanat,0,81,83,Ogle,Cuma,1,0,0.53,Masaustu,3580
+IST-TZX,Bulut,0,113,18,Sabah,Hafta ici,0,1,0.85,Mobil,2450
+ANK-TZX,Zirve,1,241,35,Aksam,Hafta ici,0,1,0.29,Masaustu,2280
+ANK-TZX,Bulut,0,88,50,Gece,Hafta ici,0,1,0.67,Mobil,1810
+IST-ANK,Bulut,0,78,6,Gece,Hafta ici,1,0,0.85,Mobil,4040
+IST-ANK,Kanat,0,73,83,Gece,Hafta ici,0,1,0.52,Mobil,1890
+ANK-IZM,Kanat,0,70,73,Sabah,Hafta ici,1,0,0.73,Mobil,3140
+IST-IZM,Kanat,1,221,13,Ogle,Hafta ici,0,1,0.95,Mobil,2230
+IZM-ANT,Zirve,0,64,76,Sabah,Hafta ici,0,1,0.45,Masaustu,3260
+IST-VAN,Bulut,0,141,40,Gece,Hafta ici,0,0,0.94,Mobil,1860
+IST-ANK,Kanat,0,68,30,Sabah,Pazar,0,1,0.61,Mobil,2160
+IZM-ANT,Bulut,0,65,86,Sabah,Pazar,0,1,0.56,Mobil,2680
+IST-ANK,Zirve,0,73,47,Sabah erken,Hafta ici,0,0,0.35,Mobil,1870
+IST-ANT,Bulut,0,76,20,Sabah,Hafta ici,0,0,0.73,Mobil,1910
+IST-ANT,Bulut,0,78,73,Sabah,Cuma,0,1,0.57,Mobil,3340
+IST-ANT,Zirve,0,88,65,Sabah erken,Pazar,0,1,0.35,Masaustu,3470
+IST-VAN,Bulut,0,138,17,Gece,Hafta ici,0,1,0.61,Mobil,2390
+IST-TZX,Bulut,0,116,61,Aksam,Hafta ici,0,0,0.79,Masaustu,2560
+ANK-TZX,Kanat,0,82,57,Sabah,Cumartesi,0,1,0.61,Mobil,2390
+ANK-TZX,Kanat,0,83,25,Aksam,Hafta ici,0,0,0.58,Masaustu,1630
+IST-ANT,Zirve,0,89,39,Ogle,Cumartesi,0,0,0.83,Masaustu,1910
+IST-ANK,Bulut,0,71,76,Aksam,Hafta ici,0,0,0.32,Mobil,2250
+ANK-IZM,Bulut,0,78,15,Sabah,Hafta ici,0,0,0.82,Masaustu,2170
+ANK-TZX,Bulut,0,92,65,Ogle,Cumartesi,0,0,0.68,Mobil,2110
+IST-IZM,Kanat,0,65,75,Sabah,Cuma,1,0,0.66,Mobil,3990
+IST-ANT,Zirve,1,271,85,Sabah,Hafta ici,0,0,0.7,Masaustu,2410
+IST-ANT,Kanat,0,86,29,Ogle,Cumartesi,0,1,0.74,Masaustu,1630
+IST-ANK,Zirve,0,66,24,Aksam,Pazar,0,0,0.56,Mobil,2630
+IST-VAN,Bulut,0,131,85,Aksam,Hafta ici,0,0,0.84,Masaustu,3420
+IST-IZM,Kanat,0,61,42,Sabah,Pazar,0,0,0.35,Mobil,1710
+ANK-IZM,Kanat,0,76,51,Ogle,Hafta ici,0,1,0.53,Mobil,1950
+IZM-ANT,Zirve,0,57,46,Aksam,Hafta ici,0,1,0.71,Mobil,2680
+IZM-ANT,Kanat,0,59,46,Sabah erken,Cumartesi,1,0,0.78,Mobil,1700
+IST-ANT,Kanat,0,81,56,Sabah erken,Hafta ici,0,1,0.91,Masaustu,2210
+IST-IZM,Zirve,0,62,38,Sabah,Pazar,0,1,0.37,Mobil,2920
+ANK-IZM,Kanat,0,69,35,Sabah,Hafta ici,1,1,0.51,Masaustu,2570
+ANK-IZM,Kanat,0,75,36,Sabah,Hafta ici,0,0,0.59,Masaustu,1260
+IST-ANT,Kanat,1,264,59,Sabah erken,Hafta ici,0,0,0.68,Mobil,1220
+IZM-ANT,Zirve,0,62,74,Ogle,Cuma,0,0,0.65,Mobil,2940
+IST-ANK,Kanat,1,167,50,Aksam,Cumartesi,0,0,0.72,Mobil,1300
+IZM-ANT,Kanat,0,62,61,Aksam,Hafta ici,0,0,0.72,Mobil,1890
+IST-ANK,Kanat,0,71,37,Aksam,Hafta ici,0,1,0.71,Mobil,1900
+IST-ANK,Kanat,0,72,70,Sabah,Hafta ici,0,0,0.55,Mobil,1970
+IST-ANT,Kanat,0,89,35,Gece,Hafta ici,0,0,0.32,Mobil,1090
+IST-ANK,Kanat,0,65,38,Aksam,Cuma,0,1,0.57,Mobil,2120
+IST-ANK,Kanat,0,72,5,Ogle,Cuma,0,1,0.76,Masaustu,3370
+IST-ANK,Bulut,0,65,23,Sabah,Hafta ici,0,0,0.79,Masaustu,1500
+IST-ANT,Zirve,0,88,67,Aksam,Hafta ici,0,1,0.65,Masaustu,3290
+ANK-IZM,Kanat,1,272,7,Ogle,Cuma,0,0,0.52,Masaustu,2120
+IST-ANK,Kanat,0,65,20,Aksam,Hafta ici,0,0,0.76,Mobil,1740
+IST-TZX,Zirve,0,114,70,Aksam,Hafta ici,0,0,0.32,Mobil,3740
+IZM-ANT,Zirve,0,61,79,Gece,Cuma,1,0,0.82,Mobil,4050
+IST-ANK,Bulut,0,65,37,Gece,Hafta ici,0,1,0.87,Masaustu,1430
+IST-ANK,Kanat,1,196,37,Aksam,Hafta ici,0,0,0.76,Mobil,1150
+IZM-ANT,Bulut,0,60,46,Gece,Hafta ici,0,1,0.36,Mobil,1740
+IZM-ANT,Kanat,0,55,70,Gece,Cumartesi,0,0,0.81,Masaustu,1280
+IST-ANT,Kanat,0,84,42,Sabah erken,Hafta ici,0,1,0.82,Mobil,1560
+ANK-IZM,Kanat,0,70,15,Aksam,Cumartesi,1,0,0.72,Masaustu,2780
+IST-ANK,Bulut,0,74,39,Sabah,Hafta ici,0,1,0.71,Mobil,2190
+IST-ANT,Kanat,1,221,23,Sabah,Hafta ici,0,0,0.44,Mobil,1200
+ANK-IZM,Bulut,0,77,62,Sabah,Cumartesi,0,1,0.92,Masaustu,2860
+IST-IZM,Kanat,0,66,12,Ogle,Hafta ici,0,1,0.68,Mobil,2100
+ANK-IZM,Kanat,0,71,55,Sabah erken,Hafta ici,1,1,0.61,Mobil,2260
+IST-ANT,Zirve,0,87,11,Sabah,Hafta ici,0,0,0.64,Mobil,3140
+ANK-IZM,Zirve,1,173,88,Sabah erken,Cuma,0,1,0.56,Masaustu,2600
+IST-ANT,Kanat,0,75,58,Aksam,Hafta ici,0,1,0.73,Mobil,2410
+IST-IZM,Bulut,0,68,12,Gece,Cumartesi,1,1,0.54,Mobil,3940
+IST-IZM,Kanat,0,69,87,Gece,Hafta ici,0,1,0.65,Mobil,1810
+IST-IZM,Kanat,0,64,52,Ogle,Hafta ici,0,1,0.68,Mobil,1800
+ANK-IZM,Bulut,0,67,55,Sabah,Hafta ici,0,1,0.64,Mobil,2640
+IST-ANK,Kanat,0,65,5,Gece,Hafta ici,0,0,0.74,Mobil,2010
+IST-ANK,Bulut,1,245,17,Sabah erken,Cumartesi,0,0,0.89,Masaustu,1190
+IST-ANK,Bulut,0,65,73,Gece,Hafta ici,0,0,0.8,Mobil,1730
+IST-ANK,Kanat,0,73,42,Aksam,Pazar,0,1,0.94,Mobil,2590
+IZM-ANT,Kanat,0,67,56,Ogle,Hafta ici,0,1,0.38,Mobil,1880
+IST-ANT,Kanat,0,80,89,Sabah erken,Hafta ici,0,0,0.59,Mobil,2060
+ANK-TZX,Zirve,0,83,38,Sabah erken,Hafta ici,0,0,0.7,Mobil,1670
+IST-ANK,Bulut,0,75,34,Ogle,Cumartesi,0,0,0.76,Masaustu,1360
+IST-TZX,Kanat,0,114,73,Ogle,Hafta ici,0,0,0.88,Mobil,2150
+IST-ANT,Kanat,1,156,6,Aksam,Hafta ici,1,1,0.53,Masaustu,5320
+IST-ANT,Bulut,0,83,41,Aksam,Pazar,0,1,0.55,Mobil,2370
+IZM-ANT,Kanat,0,55,77,Ogle,Cuma,0,0,0.8,Masaustu,1860
+ANK-TZX,Bulut,0,85,20,Sabah,Hafta ici,0,0,0.59,Masaustu,1960
+IZM-ANT,Zirve,0,59,27,Ogle,Cumartesi,0,0,0.84,Masaustu,1720
+IST-ANK,Bulut,0,77,42,Sabah,Hafta ici,0,1,0.94,Mobil,2220
+IST-IZM,Kanat,0,74,6,Aksam,Hafta ici,0,1,0.52,Mobil,2800
+IST-TZX,Kanat,0,115,6,Aksam,Hafta ici,0,0,0.59,Masaustu,3430
+IST-IZM,Kanat,0,71,22,Aksam,Cumartesi,0,0,0.37,Mobil,1350
+ANK-IZM,Bulut,1,256,81,Ogle,Hafta ici,0,1,0.54,Mobil,1990
+IST-TZX,Zirve,0,105,20,Sabah,Cumartesi,0,1,0.41,Masaustu,3410
+IST-ANT,Kanat,0,86,66,Aksam,Cuma,1,1,0.71,Mobil,4310
+IZM-ANT,Bulut,0,61,38,Aksam,Hafta ici,0,0,0.69,Mobil,1480
+IST-VAN,Bulut,0,137,69,Aksam,Hafta ici,1,1,0.38,Masaustu,5130
+IST-ANK,Kanat,0,75,30,Ogle,Cuma,0,1,0.84,Mobil,1680
+IST-ANK,Kanat,0,70,79,Gece,Hafta ici,0,1,0.75,Masaustu,1860
+IST-TZX,Kanat,0,115,33,Sabah,Hafta ici,0,0,0.92,Masaustu,1950
+IST-ANT,Bulut,0,85,72,Ogle,Hafta ici,0,0,0.65,Mobil,1920
+IST-IZM,Bulut,0,63,75,Aksam,Pazar,0,0,0.75,Mobil,2680
+IST-ANT,Bulut,1,248,39,Sabah erken,Hafta ici,0,1,0.62,Masaustu,1270
+ANK-IZM,Zirve,0,67,60,Aksam,Hafta ici,0,1,0.67,Mobil,2870
+IZM-ANT,Zirve,0,59,10,Sabah,Hafta ici,0,0,0.71,Masaustu,2740
+IST-TZX,Zirve,0,116,45,Sabah erken,Hafta ici,0,1,0.91,Mobil,2840
+IST-ANT,Zirve,0,89,33,Sabah erken,Pazar,0,1,0.84,Mobil,2560
+IST-IZM,Zirve,0,60,86,Aksam,Hafta ici,0,0,0.75,Masaustu,3180
+IST-ANT,Zirve,0,84,85,Aksam,Cuma,0,1,0.52,Mobil,4270
+IST-IZM,Bulut,0,68,71,Sabah,Cumartesi,0,1,0.64,Mobil,2450
+IST-TZX,Zirve,0,114,86,Sabah erken,Hafta ici,0,0,0.85,Mobil,3030
+IST-VAN,Zirve,0,141,88,Sabah,Cumartesi,0,1,0.85,Mobil,4980
+IST-ANK,Bulut,0,66,69,Sabah,Pazar,0,0,0.62,Mobil,2240
+IST-ANK,Bulut,0,76,54,Aksam,Cuma,0,1,0.67,Masaustu,2810
+IST-IZM,Bulut,0,64,18,Sabah,Cuma,0,1,0.66,Mobil,2340
+IZM-ANT,Zirve,0,57,74,Sabah,Hafta ici,0,1,0.47,Masaustu,3160
+IST-TZX,Bulut,0,111,17,Sabah erken,Cumartesi,0,1,0.83,Mobil,2250
+IST-ANK,Zirve,0,65,16,Ogle,Hafta ici,0,0,0.65,Mobil,2330
+IZM-ANT,Zirve,0,64,80,Aksam,Cuma,0,0,0.72,Mobil,3710
+IST-ANT,Zirve,0,83,10,Aksam,Hafta ici,0,1,0.79,Masaustu,3420
+IST-ANT,Kanat,0,82,12,Ogle,Hafta ici,0,0,0.5,Mobil,1970
+ANK-TZX,Bulut,0,80,46,Gece,Pazar,0,1,0.75,Masaustu,1970
+IST-ANK,Zirve,0,76,53,Ogle,Cuma,0,0,0.94,Masaustu,3080
+IST-IZM,Zirve,1,228,4,Gece,Hafta ici,0,0,0.42,Masaustu,2850
+IST-TZX,Zirve,0,108,34,Aksam,Cuma,1,0,0.69,Mobil,4900
+IST-ANK,Bulut,1,177,20,Sabah erken,Pazar,0,1,0.81,Mobil,1620
+IST-VAN,Bulut,0,140,27,Aksam,Cuma,0,0,0.57,Mobil,2750
+IST-IZM,Kanat,0,66,16,Ogle,Pazar,0,1,0.27,Masaustu,2110
+IST-ANK,Zirve,0,77,61,Aksam,Cumartesi,1,0,0.68,Mobil,4160
+IST-IZM,Kanat,0,74,43,Sabah,Pazar,0,1,0.91,Mobil,2280
+IST-ANT,Bulut,0,86,87,Ogle,Hafta ici,0,1,0.66,Mobil,2590
+IST-ANK,Zirve,1,185,0,Gece,Hafta ici,0,1,0.68,Mobil,3970
+IST-ANK,Bulut,0,76,70,Sabah,Cumartesi,0,0,0.46,Mobil,2160
+IZM-ANT,Kanat,0,58,82,Sabah erken,Pazar,0,0,0.74,Mobil,1940
+IST-IZM,Kanat,0,73,44,Sabah,Hafta ici,0,0,0.49,Mobil,1500
+IST-IZM,Zirve,0,74,63,Ogle,Hafta ici,0,1,0.48,Mobil,3030
+IST-ANK,Bulut,0,66,40,Aksam,Hafta ici,1,0,0.47,Mobil,2580
+IST-IZM,Kanat,0,61,54,Aksam,Cumartesi,0,1,0.85,Mobil,2260
+IST-IZM,Bulut,0,70,82,Gece,Pazar,0,1,0.41,Masaustu,2390
+IST-TZX,Kanat,1,293,48,Ogle,Hafta ici,0,0,0.23,Mobil,1570
+IST-IZM,Zirve,1,177,52,Sabah,Hafta ici,0,1,0.59,Masaustu,2550
+IZM-ANT,Kanat,0,63,89,Sabah,Hafta ici,0,1,0.73,Mobil,2110
+ANK-TZX,Kanat,0,88,45,Sabah,Pazar,0,0,0.84,Mobil,2030
+IST-ANK,Kanat,1,161,15,Aksam,Hafta ici,0,1,0.46,Mobil,1800
+IST-ANK,Bulut,0,68,62,Sabah erken,Hafta ici,0,1,0.79,Masaustu,2010
+IST-ANK,Bulut,0,73,63,Sabah,Hafta ici,0,0,0.65,Masaustu,2010
+IST-TZX,Zirve,0,119,21,Gece,Cumartesi,0,0,0.84,Masaustu,1950
+IST-ANK,Bulut,1,238,66,Ogle,Hafta ici,0,1,0.78,Mobil,1730
+IZM-ANT,Kanat,1,220,5,Sabah erken,Hafta ici,0,0,0.37,Masaustu,1740
+ANK-IZM,Kanat,0,67,29,Aksam,Hafta ici,0,1,0.93,Mobil,2210
+ANK-IZM,Kanat,0,70,77,Ogle,Pazar,0,1,0.51,Mobil,2400
+IST-ANT,Zirve,0,76,56,Gece,Hafta ici,0,1,0.86,Masaustu,2360
+ANK-TZX,Kanat,0,82,55,Aksam,Hafta ici,0,0,0.64,Mobil,1890
+IST-ANK,Zirve,1,268,56,Sabah erken,Hafta ici,0,0,0.75,Masaustu,1560
+IST-ANT,Kanat,0,81,15,Sabah,Hafta ici,0,1,0.58,Masaustu,2200
+IST-IZM,Kanat,0,65,87,Sabah,Cumartesi,0,0,0.89,Masaustu,2280
+ANK-TZX,Kanat,0,86,27,Aksam,Cumartesi,0,0,0.72,Mobil,1700
+IST-TZX,Kanat,0,119,71,Ogle,Hafta ici,0,0,0.5,Mobil,2010
+ANK-IZM,Zirve,1,248,90,Aksam,Pazar,0,0,0.7,Mobil,3010
+IST-ANK,Bulut,0,72,21,Ogle,Hafta ici,0,0,0.98,Mobil,2080
+ANK-TZX,Kanat,1,271,57,Sabah,Pazar,1,0,0.69,Masaustu,2660
+IST-ANT,Bulut,0,75,3,Sabah erken,Hafta ici,0,1,0.65,Mobil,3750
+IST-ANT,Bulut,0,82,57,Sabah,Hafta ici,0,1,0.97,Masaustu,3010
+ANK-TZX,Zirve,0,91,40,Ogle,Pazar,0,1,0.7,Mobil,2920
+IST-ANT,Zirve,0,82,6,Ogle,Pazar,0,1,0.71,Mobil,4610
+IST-ANT,Bulut,0,88,61,Gece,Cumartesi,0,0,0.93,Masaustu,1910
+IST-TZX,Zirve,0,118,88,Sabah,Cuma,0,0,0.46,Mobil,4920
+IST-ANK,Zirve,0,70,7,Aksam,Cumartesi,0,1,0.72,Mobil,4060
+IST-IZM,Bulut,0,72,81,Sabah,Cuma,0,0,0.73,Masaustu,2750
+IST-ANK,Bulut,0,68,76,Aksam,Hafta ici,0,0,0.7,Mobil,2310
+IST-ANK,Kanat,0,68,49,Sabah erken,Hafta ici,0,0,0.53,Mobil,1260
+IZM-ANT,Zirve,0,69,82,Aksam,Cuma,0,1,0.96,Masaustu,4640
+IST-TZX,Zirve,0,105,28,Sabah,Hafta ici,0,0,0.83,Mobil,2480
+IST-IZM,Kanat,0,65,65,Sabah,Pazar,0,0,0.69,Masaustu,1990
+IST-ANT,Zirve,0,84,63,Ogle,Hafta ici,0,0,0.47,Masaustu,2640
+IST-ANT,Zirve,0,81,52,Sabah,Hafta ici,0,1,0.79,Mobil,3100
+IST-TZX,Kanat,0,117,75,Ogle,Hafta ici,0,0,0.67,Masaustu,2310
+ANK-TZX,Bulut,1,204,79,Sabah,Cumartesi,0,1,0.71,Mobil,2500
+ANK-TZX,Zirve,0,88,71,Gece,Hafta ici,0,0,0.33,Mobil,2390
+IST-ANT,Zirve,0,76,53,Sabah,Pazar,0,0,0.64,Masaustu,3020
+IST-IZM,Kanat,1,183,88,Ogle,Hafta ici,0,0,0.77,Mobil,1440
+IST-ANT,Kanat,0,77,50,Gece,Hafta ici,0,0,0.65,Mobil,1360
+IST-TZX,Bulut,1,268,57,Aksam,Cumartesi,0,0,0.76,Mobil,2050
+IST-ANT,Kanat,0,78,17,Sabah,Hafta ici,0,1,0.39,Mobil,2130
+IST-TZX,Kanat,1,265,29,Ogle,Cumartesi,0,0,0.75,Mobil,1170
+IST-ANT,Kanat,1,270,82,Sabah erken,Hafta ici,0,1,0.65,Mobil,1700
+IST-IZM,Kanat,1,178,45,Ogle,Hafta ici,0,0,0.73,Masaustu,1110
+IST-IZM,Bulut,0,73,46,Ogle,Hafta ici,0,0,0.82,Masaustu,1330
+IST-IZM,Bulut,0,72,74,Aksam,Pazar,0,1,0.43,Mobil,2510
+IST-ANK,Bulut,1,161,29,Aksam,Hafta ici,0,1,0.77,Mobil,1680
+IST-ANK,Zirve,0,76,24,Sabah,Hafta ici,0,0,0.84,Mobil,2050
+ANK-IZM,Bulut,0,79,0,Sabah erken,Cuma,0,0,0.65,Mobil,4760
+IST-ANT,Kanat,1,176,21,Sabah,Pazar,0,1,0.81,Mobil,2060
+IST-IZM,Kanat,0,62,46,Ogle,Cumartesi,0,0,0.65,Masaustu,1280
+IST-TZX,Kanat,0,114,65,Sabah,Cumartesi,0,1,0.44,Mobil,2420
+ANK-IZM,Kanat,0,74,29,Aksam,Hafta ici,0,1,0.81,Masaustu,1750
+IST-IZM,Kanat,0,69,40,Ogle,Hafta ici,0,0,0.56,Masaustu,1220
+IZM-ANT,Kanat,0,61,20,Gece,Pazar,0,1,0.75,Mobil,1620
+ANK-TZX,Kanat,0,87,74,Ogle,Pazar,1,0,0.87,Masaustu,3810
+IST-TZX,Bulut,0,114,47,Sabah erken,Cumartesi,0,1,0.78,Mobil,2140
+IST-VAN,Bulut,1,322,13,Sabah,Cumartesi,0,1,0.77,Masaustu,2660
+IST-ANK,Zirve,0,76,55,Aksam,Pazar,1,1,0.68,Mobil,5490
+ANK-TZX,Zirve,0,90,30,Sabah,Hafta ici,0,1,0.6,Mobil,2640
+IST-ANT,Bulut,0,79,78,Sabah,Hafta ici,0,1,0.81,Mobil,2680
+ANK-TZX,Kanat,1,285,24,Sabah,Pazar,0,0,0.38,Mobil,1560
+IST-TZX,Bulut,1,226,78,Aksam,Hafta ici,0,0,0.5,Masaustu,2050
+IST-ANK,Kanat,0,72,63,Gece,Hafta ici,0,0,0.68,Masaustu,1460
+IST-ANK,Bulut,0,75,12,Sabah,Hafta ici,0,0,0.71,Mobil,2170
+IST-VAN,Kanat,0,131,69,Sabah,Cuma,0,1,0.81,Masaustu,3260
+IST-TZX,Bulut,0,110,65,Ogle,Cumartesi,0,0,0.63,Mobil,2250
+IST-ANK,Kanat,0,75,41,Sabah,Cumartesi,0,1,0.77,Mobil,1950
+ANK-IZM,Bulut,0,78,14,Gece,Hafta ici,0,0,0.71,Mobil,1410
+IZM-ANT,Zirve,0,64,43,Ogle,Hafta ici,0,0,0.75,Masaustu,1900
+IST-ANT,Zirve,0,84,55,Aksam,Hafta ici,0,0,0.89,Mobil,3190
+IST-ANT,Bulut,0,80,12,Gece,Pazar,0,1,0.3,Mobil,2330
+IST-ANK,Bulut,1,223,31,Aksam,Hafta ici,0,0,0.43,Masaustu,1190
+ANK-IZM,Kanat,0,70,63,Sabah,Cuma,0,0,0.87,Masaustu,2300
+IST-IZM,Bulut,0,60,50,Aksam,Hafta ici,0,0,0.5,Mobil,1680
+IZM-ANT,Bulut,0,58,90,Ogle,Cuma,0,1,0.34,Mobil,2610
+IST-IZM,Kanat,1,185,19,Ogle,Hafta ici,0,0,0.41,Mobil,1040
+IST-TZX,Kanat,0,119,70,Gece,Cuma,1,1,0.8,Mobil,3570
+IST-IZM,Zirve,0,67,38,Sabah,Cuma,0,0,0.56,Mobil,2210
+IST-ANK,Bulut,0,77,20,Ogle,Hafta ici,0,0,0.63,Masaustu,1550
+ANK-IZM,Bulut,0,76,86,Sabah,Hafta ici,0,1,0.7,Mobil,2850
+IST-ANT,Bulut,1,243,56,Sabah,Hafta ici,0,1,0.63,Masaustu,2160
+IST-ANT,Bulut,0,87,48,Aksam,Hafta ici,0,1,0.66,Masaustu,2120
+ANK-TZX,Bulut,0,86,26,Aksam,Cumartesi,0,0,0.77,Mobil,1680
+ANK-TZX,Kanat,0,86,80,Aksam,Hafta ici,0,1,0.89,Mobil,3020
+IZM-ANT,Bulut,0,66,2,Sabah,Cumartesi,0,1,0.84,Mobil,4310
+IST-ANK,Bulut,0,74,10,Sabah erken,Hafta ici,0,1,0.77,Masaustu,2160
+IST-TZX,Kanat,0,112,16,Ogle,Cumartesi,1,0,0.87,Mobil,2990
+IZM-ANT,Zirve,0,61,59,Ogle,Hafta ici,0,0,0.75,Mobil,2240
+IST-IZM,Kanat,0,74,9,Aksam,Hafta ici,0,0,0.75,Masaustu,1990
+IST-ANK,Bulut,1,245,72,Aksam,Hafta ici,0,1,0.46,Masaustu,2200
+ANK-IZM,Bulut,1,260,17,Gece,Cuma,0,1,0.43,Mobil,1730
+IST-ANT,Bulut,1,246,61,Aksam,Hafta ici,0,0,0.83,Masaustu,1730
+IST-TZX,Bulut,0,105,72,Sabah,Cumartesi,0,0,0.37,Masaustu,2450
+ANK-TZX,Zirve,0,85,79,Aksam,Hafta ici,0,0,0.6,Mobil,3580
+IST-TZX,Bulut,0,113,26,Aksam,Pazar,0,0,0.63,Mobil,2380
+IST-ANT,Bulut,1,183,6,Gece,Cuma,1,1,0.71,Masaustu,5060
+IST-IZM,Bulut,0,63,68,Ogle,Cuma,0,0,0.56,Masaustu,2000
+IST-ANT,Kanat,0,79,40,Aksam,Cumartesi,0,0,0.74,Mobil,1470
+IST-ANK,Kanat,0,74,86,Sabah,Hafta ici,0,0,0.9,Masaustu,2390
+ANK-IZM,Bulut,0,79,17,Aksam,Cuma,0,0,0.93,Mobil,2800
+IZM-ANT,Kanat,1,253,52,Gece,Hafta ici,0,1,0.64,Mobil,1210
+IST-IZM,Kanat,0,68,10,Gece,Cuma,0,0,0.57,Masaustu,1780
+IST-IZM,Kanat,0,62,44,Sabah,Hafta ici,0,1,0.54,Masaustu,1670
+IZM-ANT,Bulut,0,58,0,Sabah,Hafta ici,1,1,0.59,Mobil,9550
+IST-ANK,Kanat,0,71,68,Aksam,Cuma,0,1,0.63,Mobil,2650
+IST-ANT,Zirve,0,78,55,Aksam,Hafta ici,0,0,0.59,Mobil,2870
+IST-ANT,Bulut,1,229,8,Gece,Hafta ici,0,1,0.78,Mobil,1720
+IST-VAN,Bulut,0,135,45,Sabah,Hafta ici,0,1,0.67,Masaustu,2930
+IST-ANK,Kanat,0,77,38,Aksam,Cumartesi,0,0,0.51,Mobil,1470
+IST-VAN,Bulut,0,134,61,Aksam,Hafta ici,1,1,0.84,Masaustu,5210
+IST-IZM,Kanat,0,67,45,Sabah,Hafta ici,0,0,0.39,Mobil,1570
+IST-TZX,Bulut,0,115,41,Sabah erken,Pazar,0,0,0.76,Masaustu,2010
+IST-ANK,Kanat,0,68,75,Aksam,Pazar,0,0,0.2,Mobil,2720
+IST-ANT,Zirve,1,272,47,Sabah,Hafta ici,0,1,0.5,Masaustu,2210
+IST-ANT,Kanat,0,83,74,Aksam,Hafta ici,0,0,0.75,Mobil,2180
+IST-IZM,Bulut,0,69,80,Ogle,Hafta ici,0,0,0.58,Mobil,1840
+IST-ANK,Kanat,0,71,77,Ogle,Pazar,0,0,0.88,Mobil,2250
+IST-ANK,Bulut,0,79,86,Sabah,Hafta ici,0,0,0.73,Mobil,2410
+IST-IZM,Bulut,0,71,63,Gece,Hafta ici,0,0,0.64,Mobil,1570
+IST-ANK,Kanat,1,160,51,Aksam,Hafta ici,1,1,0.79,Masaustu,2450
+ANK-TZX,Kanat,0,88,48,Aksam,Hafta ici,0,0,0.39,Masaustu,1690
+IST-ANT,Kanat,1,284,18,Aksam,Hafta ici,0,1,0.96,Mobil,2210
+ANK-IZM,Kanat,0,69,75,Ogle,Cumartesi,0,1,0.75,Masaustu,2030
+ANK-TZX,Zirve,0,88,63,Gece,Hafta ici,0,1,0.41,Mobil,2430
+IST-ANK,Bulut,0,76,79,Ogle,Hafta ici,0,1,0.77,Mobil,2450
+IST-TZX,Kanat,0,109,63,Ogle,Cumartesi,0,0,0.68,Mobil,2130
+IZM-ANT,Zirve,1,216,43,Sabah,Hafta ici,0,1,0.63,Mobil,2110
+IST-TZX,Kanat,0,113,26,Sabah,Hafta ici,0,0,0.41,Mobil,1720
+IST-ANT,Bulut,0,77,89,Aksam,Hafta ici,0,0,0.36,Mobil,2700
+IST-ANT,Bulut,0,77,66,Sabah,Cumartesi,0,0,0.49,Mobil,2230
+IST-ANK,Zirve,1,233,79,Aksam,Hafta ici,0,1,0.55,Mobil,2730
+IST-ANT,Bulut,0,77,53,Gece,Cumartesi,0,1,0.63,Mobil,1710
+ANK-TZX,Bulut,0,94,46,Ogle,Hafta ici,0,0,0.64,Mobil,1480
+ANK-TZX,Zirve,0,87,3,Sabah erken,Hafta ici,0,1,0.83,Mobil,4160
+IST-ANK,Kanat,1,168,6,Aksam,Hafta ici,0,0,0.57,Mobil,2220
+IST-VAN,Zirve,0,135,64,Sabah erken,Hafta ici,0,0,0.72,Mobil,2870
+IST-IZM,Zirve,0,64,20,Aksam,Hafta ici,0,0,0.48,Mobil,2040
+IZM-ANT,Zirve,1,243,7,Ogle,Cumartesi,0,1,0.69,Mobil,2730
+IST-ANK,Kanat,0,75,70,Ogle,Hafta ici,0,0,0.65,Masaustu,1770
+ANK-TZX,Kanat,0,85,56,Ogle,Hafta ici,0,0,0.43,Masaustu,1780
+IZM-ANT,Bulut,0,59,10,Ogle,Pazar,0,0,0.56,Masaustu,2330
+IST-ANK,Bulut,0,67,45,Sabah,Hafta ici,0,1,0.82,Mobil,2050
+IST-ANK,Bulut,0,73,42,Sabah,Hafta ici,0,1,0.82,Mobil,1940
+IZM-ANT,Zirve,0,65,0,Ogle,Hafta ici,0,0,0.59,Mobil,5610
+IST-ANK,Bulut,0,72,55,Gece,Hafta ici,0,1,0.47,Masaustu,1750
+IST-ANT,Kanat,0,78,36,Sabah erken,Pazar,0,1,0.77,Mobil,1760
+IZM-ANT,Bulut,0,58,79,Sabah,Pazar,0,0,0.61,Masaustu,2640
+IST-TZX,Kanat,0,110,10,Sabah,Hafta ici,0,0,0.84,Mobil,2770
+IST-ANT,Kanat,1,184,77,Ogle,Pazar,0,1,0.65,Masaustu,2130
+IST-ANT,Kanat,0,78,0,Sabah erken,Hafta ici,1,0,0.48,Mobil,7750
+IST-ANK,Zirve,0,79,69,Aksam,Pazar,0,0,0.63,Mobil,3340
+ANK-TZX,Bulut,0,84,71,Sabah erken,Cumartesi,0,1,0.6,Mobil,1960
+IST-IZM,Bulut,0,63,37,Aksam,Hafta ici,0,1,0.75,Masaustu,2040
+IST-ANK,Kanat,0,74,25,Sabah,Hafta ici,0,1,0.29,Masaustu,1720
+IST-IZM,Bulut,0,72,12,Ogle,Cumartesi,0,1,0.79,Masaustu,2340
+ANK-TZX,Zirve,1,250,30,Sabah,Hafta ici,0,0,0.72,Masaustu,1760
+IST-ANK,Zirve,0,75,60,Aksam,Hafta ici,0,1,0.8,Mobil,3350
+IZM-ANT,Bulut,0,56,65,Gece,Cuma,0,0,0.21,Mobil,1750
+IST-VAN,Zirve,0,137,16,Sabah,Hafta ici,1,1,0.77,Masaustu,6020
+IZM-ANT,Bulut,0,55,1,Gece,Hafta ici,0,0,0.67,Mobil,2930
+ANK-TZX,Bulut,0,82,51,Sabah,Hafta ici,0,0,0.59,Mobil,1870
+IZM-ANT,Zirve,0,63,52,Ogle,Cuma,0,0,0.72,Mobil,2480
+ANK-TZX,Kanat,1,210,89,Aksam,Hafta ici,0,1,0.66,Mobil,2000
+IST-ANK,Kanat,0,65,69,Sabah,Hafta ici,0,0,0.69,Mobil,1890
+ANK-IZM,Kanat,0,67,50,Ogle,Hafta ici,0,1,0.82,Masaustu,1710
+IST-ANT,Bulut,0,86,53,Sabah erken,Hafta ici,0,0,0.54,Mobil,1540
+IST-ANT,Bulut,0,83,58,Aksam,Cuma,0,0,0.71,Mobil,2650
+IZM-ANT,Bulut,1,174,41,Ogle,Hafta ici,0,1,0.93,Mobil,1760
+ANK-TZX,Bulut,0,94,61,Gece,Cuma,0,0,0.73,Masaustu,1900
+IST-VAN,Kanat,0,135,17,Sabah,Hafta ici,0,1,0.66,Masaustu,2720
+IST-ANT,Zirve,0,88,75,Gece,Cuma,0,1,0.85,Masaustu,2900
+IST-ANT,Kanat,0,80,78,Sabah erken,Hafta ici,0,1,0.73,Mobil,2380
+IST-ANT,Zirve,0,75,39,Aksam,Cumartesi,0,0,0.81,Masaustu,2340
+IST-IZM,Kanat,0,61,41,Sabah,Hafta ici,0,0,0.69,Masaustu,1390
+IST-ANT,Bulut,0,79,45,Sabah,Pazar,0,1,0.52,Mobil,2620
+IST-ANK,Bulut,0,67,74,Sabah erken,Hafta ici,0,1,0.69,Masaustu,2270
+IST-ANK,Zirve,0,67,16,Aksam,Hafta ici,0,1,0.85,Mobil,2780
+ANK-IZM,Kanat,0,70,31,Sabah,Hafta ici,0,0,0.7,Masaustu,1270
+IST-ANT,Zirve,0,89,55,Ogle,Hafta ici,0,1,0.7,Masaustu,2570
+ANK-TZX,Bulut,0,83,63,Gece,Hafta ici,0,0,0.67,Mobil,1580
+IST-TZX,Bulut,0,108,26,Sabah,Cumartesi,0,1,0.72,Mobil,2280
+IST-ANK,Bulut,0,79,10,Sabah erken,Cumartesi,0,1,0.82,Mobil,2020
+IST-ANK,Kanat,1,250,46,Sabah erken,Cuma,0,1,0.64,Masaustu,1510
+IST-IZM,Bulut,0,72,58,Sabah erken,Pazar,0,0,0.54,Masaustu,1810
+ANK-TZX,Kanat,0,89,69,Ogle,Hafta ici,0,1,0.9,Mobil,2530
+IST-IZM,Kanat,0,73,0,Aksam,Hafta ici,0,0,0.71,Masaustu,4590
+IST-ANT,Bulut,0,83,1,Sabah,Cumartesi,0,0,0.9,Mobil,5310
+ANK-TZX,Bulut,1,262,35,Sabah erken,Hafta ici,0,1,0.44,Mobil,1590
+ANK-TZX,Kanat,0,83,51,Aksam,Hafta ici,0,0,0.58,Mobil,2020
+IST-IZM,Kanat,0,68,0,Sabah,Hafta ici,1,0,0.7,Masaustu,9130
+IST-ANK,Kanat,1,192,15,Ogle,Hafta ici,1,1,0.58,Masaustu,2180
+IST-ANK,Kanat,1,272,38,Gece,Hafta ici,0,1,0.63,Masaustu,1150
+IST-ANK,Bulut,1,240,25,Sabah,Hafta ici,0,1,0.97,Masaustu,1870
+IST-ANK,Kanat,0,67,64,Ogle,Hafta ici,0,0,0.77,Mobil,1700
+IST-TZX,Zirve,0,105,3,Aksam,Cumartesi,0,1,0.81,Mobil,6630
+IZM-ANT,Kanat,0,66,80,Aksam,Pazar,0,0,0.74,Mobil,2460
+IST-ANT,Kanat,0,76,15,Aksam,Hafta ici,0,0,0.71,Mobil,1960
+IST-TZX,Zirve,0,118,40,Aksam,Hafta ici,0,0,0.72,Mobil,2880
+IST-IZM,Kanat,0,65,89,Ogle,Hafta ici,0,1,0.54,Mobil,2340
+ANK-IZM,Bulut,0,69,60,Ogle,Hafta ici,0,0,0.95,Mobil,2070
+IST-TZX,Zirve,0,119,90,Aksam,Hafta ici,0,0,0.89,Mobil,4150
+IZM-ANT,Zirve,0,65,1,Aksam,Cuma,0,1,0.8,Mobil,6980
+ANK-TZX,Bulut,0,88,65,Aksam,Cumartesi,1,1,0.77,Masaustu,3800
+IST-IZM,Kanat,0,73,6,Sabah,Hafta ici,0,1,0.5,Mobil,2900
+IST-ANK,Bulut,0,76,55,Aksam,Cuma,0,1,0.67,Masaustu,2750
+IST-IZM,Zirve,0,69,29,Sabah,Cuma,0,1,0.67,Mobil,2650
+IST-ANT,Zirve,0,79,70,Sabah,Pazar,0,1,0.75,Masaustu,3880
+ANK-TZX,Kanat,0,94,11,Sabah,Hafta ici,0,0,0.46,Mobil,2100
+IST-IZM,Kanat,0,70,81,Sabah,Cumartesi,0,1,0.8,Mobil,2420
+ANK-IZM,Kanat,0,79,43,Aksam,Cumartesi,0,1,0.76,Mobil,1960
+IST-ANT,Kanat,0,89,47,Sabah,Hafta ici,0,1,0.59,Mobil,1950
+IST-ANK,Bulut,0,73,51,Aksam,Cuma,0,0,0.89,Masaustu,2260
+IST-IZM,Kanat,0,65,3,Ogle,Cuma,0,1,0.64,Mobil,4050
+IST-TZX,Kanat,0,119,28,Sabah,Hafta ici,0,1,0.74,Mobil,2300
+IST-VAN,Kanat,1,334,64,Sabah,Hafta ici,0,0,0.87,Masaustu,2210
+IST-ANT,Bulut,0,76,87,Ogle,Hafta ici,0,1,0.49,Mobil,2490
+IST-IZM,Kanat,0,69,89,Aksam,Cumartesi,0,1,0.88,Mobil,2800
+ANK-IZM,Bulut,1,263,48,Sabah,Hafta ici,0,1,0.77,Mobil,1830
+IST-ANK,Kanat,1,263,23,Sabah,Hafta ici,0,1,0.78,Mobil,1520
+ANK-TZX,Zirve,0,94,43,Sabah,Hafta ici,0,0,0.95,Mobil,3100
+IST-ANK,Kanat,0,68,42,Sabah erken,Cuma,1,1,0.9,Mobil,2700
+IST-ANK,Bulut,1,277,36,Sabah erken,Cuma,0,0,0.95,Mobil,1380
+IST-ANT,Kanat,0,84,32,Gece,Hafta ici,0,1,0.55,Masaustu,1460
+IST-ANT,Kanat,0,76,79,Sabah erken,Hafta ici,0,1,0.74,Mobil,2100
+IST-ANT,Kanat,0,82,35,Sabah erken,Hafta ici,0,1,0.89,Mobil,1750
+IST-ANT,Kanat,0,77,2,Gece,Hafta ici,0,1,0.62,Masaustu,3410
+ANK-TZX,Kanat,0,94,65,Aksam,Cuma,0,1,0.66,Masaustu,2590
+IST-ANT,Bulut,0,86,60,Ogle,Hafta ici,0,0,0.95,Masaustu,2340
+IST-ANT,Bulut,0,88,34,Aksam,Cumartesi,0,0,0.6,Mobil,1860
+IST-ANT,Kanat,0,84,57,Gece,Cuma,0,0,0.77,Masaustu,1590
+IST-ANK,Bulut,0,70,85,Sabah erken,Pazar,1,1,0.71,Mobil,3580
+IST-TZX,Bulut,1,194,84,Sabah,Hafta ici,0,1,0.7,Masaustu,2260
+IST-IZM,Kanat,0,74,71,Gece,Hafta ici,0,1,0.61,Masaustu,1750
+IST-TZX,Kanat,1,208,53,Aksam,Hafta ici,0,0,0.62,Mobil,1820
+IST-ANK,Kanat,1,277,2,Gece,Pazar,0,1,0.74,Masaustu,2970
+ANK-TZX,Kanat,0,86,46,Sabah,Cuma,0,0,0.53,Masaustu,1900
+IST-ANT,Bulut,0,83,74,Gece,Cuma,0,1,0.69,Masaustu,2350
+IZM-ANT,Zirve,0,65,76,Sabah,Cuma,0,1,0.71,Masaustu,3630
+IST-ANT,Zirve,1,269,70,Aksam,Hafta ici,0,0,0.67,Masaustu,2470
+IST-ANK,Zirve,0,67,89,Gece,Cuma,0,1,0.39,Mobil,2820
+IZM-ANT,Bulut,0,57,47,Sabah,Cumartesi,0,0,0.9,Mobil,1850
+IST-TZX,Kanat,1,254,9,Sabah,Hafta ici,0,0,0.61,Mobil,2110
+ANK-IZM,Kanat,0,66,45,Ogle,Pazar,0,1,0.75,Mobil,1760
+IST-ANT,Kanat,1,258,29,Aksam,Pazar,0,1,0.75,Masaustu,1850
+IST-TZX,Kanat,0,106,76,Sabah erken,Pazar,0,0,0.83,Masaustu,2370
+IZM-ANT,Kanat,0,66,70,Gece,Cumartesi,0,0,0.75,Mobil,1390
+IST-TZX,Bulut,0,119,38,Sabah,Hafta ici,0,0,0.63,Masaustu,1900
+IST-IZM,Kanat,0,66,35,Ogle,Hafta ici,0,0,0.73,Masaustu,1260
+IST-VAN,Kanat,0,133,14,Sabah,Hafta ici,0,0,0.33,Masaustu,2690
+IST-VAN,Bulut,1,278,3,Gece,Cumartesi,0,0,0.86,Mobil,3370
+ANK-TZX,Kanat,0,90,28,Sabah erken,Hafta ici,0,1,0.86,Mobil,1690
+IST-IZM,Zirve,0,70,21,Ogle,Pazar,0,0,0.7,Mobil,2330
+IST-ANT,Kanat,1,180,24,Sabah erken,Hafta ici,0,0,0.89,Masaustu,990
+ANK-IZM,Bulut,0,73,90,Gece,Hafta ici,0,0,0.72,Masaustu,1710
+IST-ANT,Kanat,0,84,61,Aksam,Hafta ici,0,0,0.97,Masaustu,2330
+ANK-IZM,Bulut,1,220,50,Sabah,Cuma,0,1,0.76,Mobil,1980
+IST-ANT,Kanat,0,78,16,Sabah,Hafta ici,0,0,0.94,Mobil,2450
+IST-IZM,Kanat,0,73,76,Sabah,Hafta ici,0,0,0.67,Masaustu,1830
+ANK-IZM,Bulut,0,73,58,Ogle,Hafta ici,1,1,0.55,Mobil,2670
+IST-ANK,Kanat,0,77,46,Aksam,Hafta ici,0,1,0.83,Masaustu,2070
+IST-ANK,Kanat,0,74,42,Ogle,Pazar,0,0,0.43,Masaustu,1520
+IST-TZX,Zirve,0,111,50,Ogle,Hafta ici,0,0,0.72,Masaustu,2800
+ANK-IZM,Kanat,0,73,76,Aksam,Hafta ici,0,1,0.95,Masaustu,2740
+IZM-ANT,Bulut,0,65,65,Ogle,Hafta ici,0,1,0.43,Mobil,2050
+IST-IZM,Bulut,0,62,44,Sabah erken,Hafta ici,0,1,0.81,Mobil,1790
+IST-ANK,Kanat,0,71,60,Sabah erken,Hafta ici,0,0,0.6,Masaustu,1360
+ANK-TZX,Bulut,0,90,84,Sabah,Hafta ici,0,1,0.97,Masaustu,3560
+IST-ANK,Kanat,0,66,29,Aksam,Hafta ici,0,0,0.68,Masaustu,1460
+IST-ANK,Bulut,0,66,81,Sabah erken,Hafta ici,0,0,0.38,Mobil,1740
+IST-IZM,Kanat,1,202,55,Ogle,Hafta ici,0,1,0.81,Mobil,1600
+IST-ANT,Kanat,0,83,16,Sabah,Cumartesi,0,1,0.42,Mobil,2180
+IZM-ANT,Kanat,0,58,87,Aksam,Hafta ici,0,0,0.2,Mobil,2110
+ANK-IZM,Zirve,0,71,62,Sabah erken,Cuma,0,0,0.59,Masaustu,2850
+IST-VAN,Zirve,0,132,35,Ogle,Cuma,0,1,0.84,Mobil,3850
+IST-ANK,Zirve,1,247,19,Sabah erken,Pazar,0,0,0.43,Mobil,1810
+IST-IZM,Bulut,0,60,83,Sabah,Hafta ici,0,0,0.83,Mobil,2200
+IST-ANT,Bulut,0,87,74,Sabah erken,Cumartesi,0,0,0.84,Masaustu,1910
+IST-ANK,Bulut,0,71,4,Ogle,Pazar,1,0,0.85,Mobil,7380
+IST-IZM,Zirve,0,62,57,Aksam,Pazar,0,1,0.79,Mobil,3090
+IST-IZM,Bulut,0,67,10,Sabah erken,Cumartesi,0,0,0.82,Mobil,1830
+IST-ANK,Kanat,1,273,26,Aksam,Hafta ici,0,0,0.8,Mobil,1250
+IST-ANT,Bulut,0,87,51,Ogle,Pazar,0,1,0.66,Mobil,2210
+IST-VAN,Bulut,0,143,22,Ogle,Cumartesi,0,0,0.88,Masaustu,2050
+IST-ANK,Kanat,0,71,46,Ogle,Hafta ici,0,1,0.76,Masaustu,1700
+IST-ANT,Kanat,0,80,39,Sabah,Hafta ici,0,0,0.93,Mobil,1850
+ANK-IZM,Kanat,0,69,52,Aksam,Pazar,0,1,0.57,Mobil,2770
+ANK-IZM,Zirve,0,69,72,Aksam,Hafta ici,0,1,0.7,Mobil,3120
+ANK-IZM,Kanat,0,78,14,Aksam,Cumartesi,0,1,0.71,Mobil,2240
+IST-ANT,Zirve,0,77,72,Sabah,Hafta ici,0,0,0.57,Mobil,3030
+IZM-ANT,Bulut,1,250,20,Aksam,Cuma,0,1,0.74,Masaustu,1890
+IST-IZM,Zirve,0,73,3,Sabah erken,Hafta ici,1,1,0.66,Mobil,8250
+IST-IZM,Kanat,1,198,40,Ogle,Cuma,0,0,0.45,Mobil,1170
+IST-ANK,Zirve,0,74,27,Sabah erken,Hafta ici,0,0,0.81,Mobil,1920
+IST-ANT,Bulut,0,87,16,Sabah,Pazar,0,0,0.6,Mobil,2480
+IST-ANT,Kanat,1,271,38,Aksam,Hafta ici,0,0,0.65,Mobil,1220
+IST-IZM,Kanat,0,72,79,Gece,Hafta ici,0,0,0.67,Mobil,1550
+ANK-IZM,Kanat,0,72,53,Sabah erken,Hafta ici,0,1,0.81,Masaustu,1770
+IST-IZM,Kanat,0,74,66,Ogle,Hafta ici,1,1,0.59,Mobil,2920
+IST-IZM,Bulut,0,61,13,Aksam,Pazar,0,0,0.57,Mobil,2430
+IST-ANK,Zirve,1,237,6,Gece,Hafta ici,0,1,0.84,Masaustu,2580
+IST-ANT,Bulut,0,83,30,Aksam,Hafta ici,0,1,0.61,Mobil,1860
+IST-IZM,Bulut,1,242,70,Sabah erken,Cumartesi,0,0,0.81,Masaustu,1200
+IST-IZM,Bulut,0,67,80,Sabah erken,Hafta ici,0,1,0.44,Mobil,2150
+IST-IZM,Zirve,0,60,9,Aksam,Hafta ici,0,1,0.68,Mobil,3550
+ANK-IZM,Zirve,0,66,43,Sabah,Cuma,0,1,0.23,Mobil,3110
+ANK-TZX,Kanat,1,259,36,Gece,Hafta ici,0,0,0.9,Masaustu,950
+IST-ANT,Zirve,0,87,67,Gece,Cumartesi,0,0,0.65,Masaustu,2020
+IST-TZX,Kanat,1,280,18,Gece,Cuma,0,1,0.89,Mobil,1990
+IZM-ANT,Zirve,0,58,44,Sabah,Hafta ici,0,0,0.8,Mobil,2060
+ANK-TZX,Zirve,0,85,77,Aksam,Hafta ici,0,0,0.39,Mobil,3440
+IST-TZX,Bulut,0,113,42,Aksam,Pazar,0,0,0.91,Mobil,2810
+IZM-ANT,Kanat,0,55,71,Sabah erken,Hafta ici,0,0,0.39,Mobil,1650
+IZM-ANT,Bulut,1,215,56,Sabah,Cuma,0,0,0.8,Masaustu,1820
+ANK-IZM,Kanat,0,72,54,Sabah,Hafta ici,0,1,0.67,Mobil,2150
+IST-ANT,Zirve,0,89,23,Sabah,Hafta ici,0,0,0.66,Mobil,2380
+IST-ANK,Kanat,0,69,90,Gece,Cuma,0,1,0.51,Masaustu,2160
+IST-ANK,Bulut,0,72,22,Aksam,Hafta ici,0,1,0.93,Mobil,2180
+IST-ANT,Zirve,0,76,84,Sabah,Hafta ici,0,0,0.88,Masaustu,3490
+IST-ANT,Kanat,1,180,90,Ogle,Hafta ici,0,0,0.77,Mobil,1810
+IST-ANT,Kanat,0,87,46,Sabah,Cuma,0,0,0.2,Masaustu,1700
+IST-TZX,Bulut,0,110,79,Sabah,Cuma,0,1,0.95,Mobil,4540
+IST-ANT,Bulut,0,81,65,Sabah erken,Hafta ici,0,1,0.57,Mobil,1930
+IZM-ANT,Kanat,0,67,67,Aksam,Hafta ici,0,0,0.6,Mobil,1850
+IST-ANK,Kanat,0,69,6,Aksam,Pazar,0,1,0.52,Masaustu,3600
+IST-IZM,Bulut,0,63,12,Aksam,Hafta ici,0,1,0.85,Mobil,2620
+ANK-IZM,Bulut,0,68,6,Gece,Hafta ici,0,0,0.83,Mobil,2180
+IZM-ANT,Bulut,0,65,2,Sabah,Hafta ici,0,1,0.93,Mobil,5260
+ANK-TZX,Kanat,1,251,76,Aksam,Hafta ici,0,1,0.71,Mobil,2300
+IZM-ANT,Bulut,1,165,15,Sabah erken,Hafta ici,0,1,0.71,Masaustu,1510
+IZM-ANT,Kanat,1,254,0,Sabah,Cumartesi,0,0,0.46,Masaustu,3560
+IST-IZM,Kanat,0,74,85,Ogle,Cuma,0,0,0.92,Masaustu,2430
+IST-ANT,Bulut,0,88,25,Sabah erken,Hafta ici,0,0,0.44,Mobil,1310
+IST-IZM,Kanat,0,74,74,Sabah,Hafta ici,0,0,0.87,Mobil,1870
+IST-TZX,Bulut,0,109,87,Sabah,Hafta ici,0,0,0.54,Mobil,3100
+ANK-TZX,Zirve,0,86,47,Sabah erken,Hafta ici,0,1,0.7,Mobil,2340
+IST-IZM,Bulut,0,67,84,Gece,Cuma,1,0,0.67,Mobil,2550
+IST-ANT,Bulut,1,163,88,Sabah,Hafta ici,0,0,0.63,Masaustu,2040
+IST-IZM,Kanat,1,194,13,Ogle,Pazar,0,1,0.84,Masaustu,1850
+IST-ANK,Kanat,0,73,13,Gece,Hafta ici,0,0,0.41,Mobil,1360
+IST-ANK,Kanat,0,65,33,Ogle,Hafta ici,1,0,0.53,Masaustu,1900
+IST-ANK,Zirve,0,69,50,Ogle,Pazar,0,1,0.46,Masaustu,2840
+ANK-TZX,Zirve,0,84,71,Gece,Hafta ici,0,1,0.4,Masaustu,3040
+IST-ANT,Kanat,1,245,16,Sabah,Hafta ici,0,0,0.72,Masaustu,1610
+IZM-ANT,Kanat,1,153,17,Sabah,Hafta ici,0,1,0.54,Mobil,1680
+IST-VAN,Kanat,0,140,27,Ogle,Pazar,0,1,0.47,Mobil,2440
+IST-ANK,Bulut,0,71,24,Ogle,Hafta ici,0,1,0.48,Masaustu,1900
+IST-ANK,Bulut,0,72,85,Aksam,Hafta ici,1,1,0.65,Masaustu,4080
+ANK-IZM,Bulut,0,72,36,Sabah erken,Hafta ici,0,0,0.36,Mobil,1310
+IST-IZM,Zirve,0,62,79,Aksam,Hafta ici,0,0,0.81,Mobil,3040
+IZM-ANT,Kanat,0,69,5,Aksam,Hafta ici,0,1,0.96,Masaustu,3900
+IST-ANK,Bulut,0,78,9,Gece,Hafta ici,0,0,0.55,Mobil,1910
+IST-VAN,Bulut,0,133,73,Sabah erken,Pazar,0,0,0.45,Mobil,2780
+ANK-IZM,Kanat,0,66,22,Sabah,Cuma,0,0,0.53,Mobil,1780
+IST-IZM,Zirve,0,62,7,Gece,Hafta ici,0,0,0.56,Mobil,2430
+IST-IZM,Kanat,0,69,54,Aksam,Hafta ici,0,0,0.48,Mobil,1650
+ANK-TZX,Bulut,1,229,13,Sabah erken,Hafta ici,0,0,0.47,Mobil,1240
+IST-IZM,Bulut,0,61,5,Sabah erken,Hafta ici,0,1,0.53,Masaustu,2880
+IST-ANT,Zirve,0,84,36,Aksam,Cuma,0,0,0.76,Mobil,2750
+IST-ANT,Bulut,0,77,50,Ogle,Hafta ici,0,1,0.32,Masaustu,2220
+IST-IZM,Kanat,0,61,47,Ogle,Cumartesi,0,0,0.67,Mobil,1300
+ANK-IZM,Zirve,0,65,53,Gece,Hafta ici,0,0,0.54,Masaustu,1890
+ANK-IZM,Zirve,0,75,2,Sabah,Cuma,1,1,0.79,Mobil,13430
+IST-IZM,Bulut,0,65,26,Sabah,Pazar,0,0,0.66,Masaustu,1870
+IZM-ANT,Zirve,1,189,31,Aksam,Cuma,0,0,0.72,Mobil,1760
+IST-IZM,Kanat,0,69,26,Gece,Pazar,0,1,0.76,Mobil,1510
+IST-ANK,Bulut,0,67,50,Sabah,Cumartesi,0,0,0.55,Mobil,1670
+IST-TZX,Zirve,1,236,20,Aksam,Hafta ici,0,0,0.77,Mobil,2200
+ANK-TZX,Kanat,0,87,57,Sabah,Hafta ici,0,1,0.65,Masaustu,2310
+IST-ANK,Bulut,0,75,85,Sabah,Hafta ici,0,0,0.75,Mobil,2330
+IST-IZM,Zirve,1,248,60,Gece,Pazar,0,1,0.58,Masaustu,1920
+IST-ANT,Zirve,0,85,35,Sabah erken,Hafta ici,0,0,0.47,Mobil,1680
+ANK-IZM,Zirve,0,68,39,Sabah erken,Pazar,0,0,0.58,Mobil,2020
+IST-ANK,Kanat,0,67,53,Aksam,Hafta ici,0,0,0.48,Masaustu,1930
+IST-ANT,Zirve,0,83,65,Sabah,Cuma,0,1,0.52,Mobil,3600
+ANK-IZM,Kanat,1,148,27,Sabah,Hafta ici,0,0,0.81,Masaustu,1160
+IST-IZM,Bulut,0,66,3,Aksam,Pazar,1,1,0.84,Mobil,9090
+IST-ANK,Bulut,0,74,63,Sabah,Hafta ici,0,1,0.58,Mobil,2350
+IST-ANK,Zirve,0,77,60,Aksam,Hafta ici,0,1,0.85,Masaustu,2930
+IST-ANT,Zirve,0,84,9,Sabah,Pazar,0,0,0.7,Mobil,3810
+IST-ANT,Bulut,0,89,57,Sabah erken,Hafta ici,0,1,0.57,Masaustu,1970
+IZM-ANT,Bulut,0,63,6,Aksam,Hafta ici,0,1,0.62,Mobil,3390
+IST-TZX,Bulut,1,234,58,Sabah,Pazar,0,0,0.73,Masaustu,2220
+IST-VAN,Bulut,0,133,67,Gece,Cumartesi,1,1,0.86,Mobil,3540
+ANK-TZX,Bulut,0,90,1,Gece,Hafta ici,0,0,0.74,Mobil,3560
+IST-ANT,Kanat,0,87,66,Aksam,Hafta ici,0,1,0.4,Mobil,2430
+IST-ANT,Bulut,0,79,10,Sabah,Hafta ici,0,1,0.77,Mobil,2830
+ANK-TZX,Zirve,0,81,24,Sabah,Hafta ici,0,0,0.38,Masaustu,2340
+IST-IZM,Bulut,0,60,64,Gece,Cuma,0,0,0.39,Masaustu,1640
+ANK-IZM,Zirve,0,74,32,Ogle,Hafta ici,0,0,0.34,Masaustu,1700
+ANK-IZM,Kanat,0,74,88,Aksam,Hafta ici,0,0,0.79,Masaustu,2310
+IST-ANK,Bulut,1,150,87,Aksam,Hafta ici,0,1,0.77,Masaustu,2240
+IST-ANT,Kanat,0,75,89,Sabah,Pazar,0,0,0.29,Mobil,2760
+IST-IZM,Kanat,0,69,9,Sabah erken,Hafta ici,0,1,0.82,Mobil,2260
+IST-ANK,Bulut,0,70,16,Aksam,Hafta ici,0,1,0.73,Masaustu,2420
+IST-ANT,Kanat,0,81,16,Ogle,Pazar,0,1,0.41,Mobil,2090
+IST-IZM,Kanat,0,63,53,Sabah,Cumartesi,0,0,0.88,Masaustu,1780
+ANK-IZM,Bulut,0,75,39,Ogle,Hafta ici,0,1,0.55,Mobil,1890
+IZM-ANT,Bulut,1,204,67,Aksam,Pazar,0,0,0.8,Mobil,1990
+ANK-IZM,Bulut,0,65,25,Sabah,Hafta ici,0,0,0.8,Masaustu,1600
+IST-IZM,Kanat,0,61,18,Sabah,Hafta ici,0,0,0.67,Mobil,1430
+IST-IZM,Bulut,1,173,59,Aksam,Hafta ici,0,1,0.63,Masaustu,1880
+IST-IZM,Bulut,0,69,56,Aksam,Hafta ici,0,0,0.45,Masaustu,1960
+IST-ANK,Bulut,0,67,62,Gece,Cuma,0,0,0.9,Mobil,1800
+ANK-TZX,Bulut,0,82,28,Sabah erken,Hafta ici,0,0,0.57,Masaustu,1410
+IST-ANT,Kanat,0,85,47,Gece,Pazar,1,1,0.52,Mobil,2600
+IST-IZM,Zirve,0,66,84,Aksam,Hafta ici,0,1,0.75,Mobil,2960
+IZM-ANT,Kanat,1,232,55,Aksam,Hafta ici,0,1,0.67,Masaustu,1660
+IST-ANT,Bulut,0,84,84,Sabah,Hafta ici,0,1,0.74,Mobil,2730
+IST-ANK,Kanat,0,66,39,Sabah erken,Hafta ici,0,0,0.68,Mobil,1160
+IST-ANK,Bulut,0,68,4,Ogle,Pazar,0,0,0.65,Mobil,3880
+IST-TZX,Kanat,1,218,69,Sabah,Cuma,0,0,0.76,Masaustu,2340
+ANK-IZM,Zirve,0,68,41,Sabah,Cumartesi,0,0,0.63,Masaustu,1980
+IST-IZM,Kanat,1,216,3,Gece,Cuma,0,1,0.33,Mobil,2360
+IZM-ANT,Bulut,0,69,12,Sabah,Hafta ici,0,0,0.77,Mobil,2010
+IZM-ANT,Kanat,0,58,28,Gece,Hafta ici,0,1,0.27,Masaustu,1330
+IZM-ANT,Kanat,1,226,17,Ogle,Hafta ici,0,1,0.43,Mobil,1570
+IST-IZM,Bulut,0,72,62,Aksam,Cumartesi,0,1,0.68,Mobil,2640
+IST-ANK,Bulut,0,79,55,Sabah,Hafta ici,0,0,0.75,Mobil,2150
+IZM-ANT,Bulut,1,172,29,Aksam,Hafta ici,0,1,0.66,Masaustu,1490
+IST-IZM,Zirve,0,65,7,Ogle,Cuma,0,1,0.67,Mobil,4300
+IST-TZX,Bulut,0,117,7,Gece,Hafta ici,0,0,0.71,Mobil,2560
+ANK-IZM,Zirve,0,65,86,Sabah,Hafta ici,0,1,0.81,Mobil,3180
+IST-ANK,Kanat,0,69,31,Sabah,Hafta ici,0,0,0.56,Mobil,1230
+ANK-IZM,Zirve,0,67,9,Gece,Hafta ici,0,1,0.83,Masaustu,2760
+ANK-TZX,Bulut,0,87,64,Sabah erken,Hafta ici,0,1,0.62,Masaustu,1970
+ANK-IZM,Bulut,0,78,79,Aksam,Pazar,0,1,0.82,Mobil,2910
+IST-ANT,Zirve,1,214,11,Sabah erken,Cuma,0,1,0.5,Mobil,2620
+IZM-ANT,Bulut,0,69,85,Sabah erken,Hafta ici,0,1,0.81,Mobil,2120
+IST-ANT,Zirve,0,77,65,Ogle,Cumartesi,0,0,0.23,Mobil,2800
+ANK-IZM,Bulut,0,76,22,Ogle,Cumartesi,0,0,0.73,Mobil,1480
+IZM-ANT,Kanat,1,164,70,Ogle,Cuma,0,1,0.49,Mobil,1840
+ANK-IZM,Bulut,0,71,38,Ogle,Pazar,0,1,0.67,Mobil,1770
+IST-IZM,Bulut,1,208,57,Aksam,Cumartesi,0,1,0.84,Masaustu,1980
+IST-ANK,Zirve,0,66,11,Gece,Hafta ici,0,0,0.9,Mobil,2420
+IST-IZM,Zirve,0,73,22,Sabah,Hafta ici,0,0,0.7,Mobil,2050
+IST-ANT,Kanat,1,269,70,Sabah,Hafta ici,0,1,0.82,Mobil,2140
+IST-ANT,Kanat,1,206,73,Sabah,Hafta ici,0,1,0.74,Mobil,1880
+IST-TZX,Kanat,0,119,0,Aksam,Pazar,0,0,0.74,Mobil,6370
+IST-ANT,Bulut,0,82,19,Sabah,Cuma,0,0,0.93,Mobil,2550
+ANK-IZM,Kanat,0,68,55,Aksam,Hafta ici,0,1,0.71,Masaustu,2090
+IZM-ANT,Bulut,0,62,82,Ogle,Pazar,0,1,0.73,Mobil,2690
+IST-IZM,Bulut,1,179,61,Aksam,Cuma,1,0,0.7,Mobil,3050
+ANK-IZM,Zirve,1,222,64,Aksam,Hafta ici,0,0,0.52,Mobil,2390
+IST-VAN,Kanat,0,142,35,Ogle,Pazar,0,0,0.94,Mobil,2530
+IST-ANT,Bulut,0,80,4,Ogle,Hafta ici,0,0,0.49,Masaustu,3190
+IST-ANK,Kanat,0,75,69,Sabah,Hafta ici,0,0,0.73,Mobil,1900
+ANK-IZM,Zirve,0,75,72,Ogle,Hafta ici,0,0,0.63,Masaustu,2620
+ANK-TZX,Kanat,0,88,40,Sabah,Pazar,0,1,0.84,Masaustu,2210
+ANK-IZM,Kanat,0,73,46,Aksam,Hafta ici,0,0,0.75,Mobil,1630
+IZM-ANT,Kanat,0,57,21,Sabah,Hafta ici,0,1,0.84,Mobil,1850
+ANK-TZX,Zirve,0,87,41,Sabah erken,Cuma,0,0,0.5,Mobil,2240
+IST-IZM,Kanat,1,200,22,Sabah,Pazar,0,0,0.8,Mobil,1410
+IST-TZX,Bulut,0,107,38,Ogle,Hafta ici,0,0,0.67,Mobil,1670
+IST-ANT,Bulut,0,78,12,Gece,Hafta ici,0,0,0.49,Mobil,1810
+ANK-TZX,Zirve,0,90,55,Sabah,Pazar,0,1,0.71,Masaustu,3400
+IST-ANK,Kanat,0,79,22,Sabah,Cumartesi,0,1,0.85,Mobil,1910
+IST-ANT,Kanat,0,80,65,Ogle,Hafta ici,0,1,0.83,Mobil,2080
+IZM-ANT,Bulut,0,67,47,Gece,Hafta ici,0,1,0.59,Masaustu,1670
+IST-IZM,Kanat,0,62,81,Aksam,Hafta ici,0,1,0.78,Mobil,2530
+ANK-IZM,Bulut,0,73,20,Sabah erken,Cuma,0,1,0.61,Mobil,1980
+IST-ANT,Kanat,1,264,24,Aksam,Hafta ici,0,1,0.72,Mobil,1770
+ANK-TZX,Bulut,0,86,22,Aksam,Cumartesi,0,1,0.44,Mobil,2180
+IZM-ANT,Kanat,0,62,57,Aksam,Hafta ici,0,0,0.28,Mobil,1830
+IST-IZM,Bulut,0,62,9,Ogle,Cumartesi,0,0,0.66,Mobil,2050
+ANK-IZM,Kanat,1,165,62,Aksam,Hafta ici,0,1,0.83,Masaustu,1930
+IST-IZM,Bulut,0,68,74,Ogle,Pazar,0,1,0.41,Mobil,2440
+IST-TZX,Kanat,1,306,61,Sabah,Hafta ici,0,0,0.66,Masaustu,1830
+IST-TZX,Zirve,0,108,12,Sabah erken,Hafta ici,0,1,0.75,Mobil,3170
+IZM-ANT,Bulut,0,60,44,Sabah,Hafta ici,1,0,0.66,Mobil,2600
+IST-ANK,Kanat,0,74,48,Sabah erken,Hafta ici,0,1,0.88,Mobil,1700
+IST-IZM,Kanat,0,74,35,Sabah,Hafta ici,0,1,0.53,Mobil,2030
+IST-VAN,Kanat,0,133,42,Aksam,Cuma,0,0,0.84,Mobil,2310
+IST-TZX,Kanat,0,115,69,Aksam,Pazar,0,1,0.56,Mobil,3300
+IST-ANT,Kanat,0,88,75,Sabah erken,Hafta ici,0,1,0.73,Mobil,2090
+IST-ANK,Zirve,0,74,27,Sabah erken,Hafta ici,0,1,0.77,Mobil,2060
+IST-IZM,Bulut,0,66,30,Aksam,Hafta ici,0,1,0.61,Mobil,1820
+IZM-ANT,Kanat,0,58,18,Ogle,Cumartesi,0,1,0.2,Mobil,1750
+IST-ANK,Bulut,0,69,36,Sabah erken,Hafta ici,0,0,0.78,Mobil,1210
+IST-ANT,Kanat,0,75,49,Aksam,Hafta ici,0,1,0.55,Mobil,2380
+ANK-TZX,Zirve,1,269,64,Sabah,Hafta ici,0,0,0.58,Mobil,2290
+IST-ANK,Kanat,0,71,24,Sabah erken,Hafta ici,0,0,0.54,Mobil,1160
+ANK-IZM,Bulut,1,250,19,Aksam,Hafta ici,0,0,0.9,Mobil,1540
+IST-IZM,Zirve,0,60,3,Aksam,Hafta ici,0,0,0.72,Masaustu,4600
+IZM-ANT,Kanat,0,65,8,Sabah,Hafta ici,0,1,0.76,Masaustu,2360
+ANK-IZM,Kanat,1,236,4,Aksam,Cumartesi,0,1,0.71,Mobil,3000
+IZM-ANT,Kanat,0,57,18,Gece,Hafta ici,1,1,0.52,Mobil,2010
+IST-IZM,Zirve,0,68,63,Sabah erken,Cuma,0,0,0.66,Masaustu,2380
+IST-ANT,Bulut,0,88,70,Aksam,Hafta ici,0,1,0.63,Mobil,2530
+ANK-IZM,Bulut,0,75,88,Sabah,Pazar,0,1,0.84,Mobil,3160
+IST-IZM,Zirve,0,60,49,Ogle,Cuma,1,0,0.8,Masaustu,3800
+IST-IZM,Zirve,0,62,41,Ogle,Hafta ici,0,1,0.81,Mobil,2220
+IST-ANK,Bulut,0,76,81,Sabah,Pazar,0,0,0.91,Mobil,2880
+ANK-TZX,Bulut,0,90,13,Sabah,Hafta ici,0,1,0.76,Mobil,2690
+IST-VAN,Bulut,0,135,57,Aksam,Hafta ici,0,0,0.44,Mobil,2700
+IST-TZX,Kanat,0,119,74,Sabah,Cuma,0,1,0.66,Mobil,3260
+ANK-IZM,Zirve,0,78,45,Gece,Cuma,0,1,0.49,Mobil,2280
+IST-ANT,Kanat,0,86,23,Sabah,Hafta ici,0,1,0.51,Mobil,1720
+IST-ANT,Kanat,0,86,56,Aksam,Hafta ici,0,0,0.72,Mobil,2170
+IST-ANT,Zirve,0,86,90,Ogle,Hafta ici,0,0,0.52,Mobil,3040
+IST-TZX,Kanat,0,107,21,Sabah,Hafta ici,0,1,0.92,Mobil,2620
+IST-IZM,Kanat,0,70,51,Aksam,Pazar,0,0,0.37,Masaustu,2030
+IZM-ANT,Kanat,0,69,4,Aksam,Hafta ici,0,0,0.41,Mobil,3350
+ANK-IZM,Bulut,1,234,21,Ogle,Pazar,0,1,0.49,Mobil,1890
+IST-IZM,Zirve,0,60,69,Ogle,Hafta ici,0,1,0.89,Mobil,3100
+IST-TZX,Kanat,0,110,45,Ogle,Cumartesi,0,1,0.56,Mobil,1980
+IST-ANK,Kanat,0,69,18,Ogle,Pazar,0,0,0.69,Mobil,1670
+ANK-TZX,Bulut,1,223,30,Ogle,Cuma,0,0,0.7,Mobil,1250
+IZM-ANT,Zirve,0,61,11,Aksam,Hafta ici,0,1,0.59,Masaustu,3150
+ANK-TZX,Kanat,0,89,70,Sabah,Hafta ici,0,0,0.44,Mobil,2210
+IST-IZM,Zirve,0,74,85,Ogle,Hafta ici,0,0,0.37,Mobil,2730
+IST-ANK,Zirve,0,76,9,Aksam,Cuma,0,0,0.81,Masaustu,4090
+IST-IZM,Kanat,1,166,21,Gece,Pazar,0,1,0.9,Mobil,1480
+IST-ANK,Zirve,0,79,77,Sabah,Hafta ici,1,0,0.7,Mobil,4690
+IST-ANK,Bulut,0,75,79,Sabah,Hafta ici,1,1,0.55,Mobil,4010
+IST-ANK,Bulut,0,68,69,Sabah,Hafta ici,0,0,0.2,Mobil,1850
+ANK-TZX,Bulut,1,270,65,Aksam,Hafta ici,0,0,0.8,Mobil,1900
+IST-ANK,Zirve,0,69,78,Ogle,Hafta ici,0,1,0.59,Masaustu,3350
+IST-ANK,Zirve,1,220,33,Sabah,Hafta ici,0,1,0.43,Mobil,1930
+IZM-ANT,Zirve,0,64,81,Sabah,Cumartesi,0,1,0.89,Mobil,2910
+IST-TZX,Zirve,0,109,80,Gece,Hafta ici,0,1,0.54,Mobil,2890
+ANK-IZM,Bulut,0,65,20,Ogle,Cuma,0,0,0.86,Mobil,1650
+IST-TZX,Zirve,0,119,6,Aksam,Hafta ici,0,0,0.69,Masaustu,4730
+IZM-ANT,Zirve,1,259,47,Sabah erken,Hafta ici,0,0,0.91,Mobil,1470
+IST-TZX,Kanat,0,115,69,Sabah erken,Cuma,0,0,0.6,Mobil,2400
+IST-ANT,Kanat,0,87,77,Sabah erken,Cuma,0,1,0.67,Mobil,2490
+IST-VAN,Bulut,0,139,12,Sabah,Hafta ici,0,1,0.7,Masaustu,3410
+IST-ANT,Zirve,0,84,34,Ogle,Cumartesi,0,0,0.72,Mobil,2060
+IST-IZM,Kanat,0,71,69,Sabah,Hafta ici,0,0,0.58,Mobil,1820
+IST-ANT,Bulut,0,79,5,Sabah,Hafta ici,0,1,0.71,Masaustu,3700
+IST-ANK,Kanat,0,77,65,Sabah erken,Pazar,0,1,0.51,Mobil,2430
+ANK-IZM,Kanat,0,75,26,Sabah,Pazar,0,0,0.91,Mobil,1970
+IST-IZM,Bulut,0,62,2,Sabah erken,Hafta ici,0,0,0.31,Mobil,3240
+IST-ANK,Kanat,0,67,22,Sabah erken,Pazar,0,0,0.56,Masaustu,1360
+IST-IZM,Zirve,0,73,67,Sabah erken,Cumartesi,0,0,0.42,Masaustu,2120
+IZM-ANT,Kanat,0,68,79,Aksam,Hafta ici,1,0,0.47,Masaustu,2870
+IST-IZM,Zirve,0,74,7,Gece,Hafta ici,0,0,0.24,Mobil,2850
+IST-VAN,Kanat,0,131,42,Aksam,Hafta ici,0,0,0.73,Masaustu,1940
+IZM-ANT,Zirve,0,68,18,Sabah erken,Hafta ici,0,0,0.7,Masaustu,1890
+IST-ANK,Bulut,1,164,62,Gece,Pazar,0,0,0.79,Mobil,1470
+ANK-IZM,Kanat,0,76,71,Gece,Hafta ici,0,0,0.9,Masaustu,1440
+IST-IZM,Kanat,0,67,87,Ogle,Hafta ici,0,0,0.81,Masaustu,1960
+IST-IZM,Kanat,0,67,32,Sabah erken,Hafta ici,0,1,0.85,Masaustu,1410
+IST-VAN,Bulut,0,136,27,Aksam,Hafta ici,0,1,0.63,Mobil,2350
+IZM-ANT,Zirve,0,55,28,Gece,Cumartesi,0,0,0.56,Mobil,1430
+IST-IZM,Bulut,0,67,69,Aksam,Hafta ici,0,0,0.79,Masaustu,2020
+IST-TZX,Bulut,0,108,40,Aksam,Hafta ici,0,1,0.79,Masaustu,2370
+IST-IZM,Bulut,0,63,2,Aksam,Hafta ici,0,0,0.82,Mobil,3880
+IST-ANT,Bulut,0,75,86,Gece,Cuma,0,1,0.55,Mobil,2340
+IST-TZX,Bulut,0,111,9,Sabah erken,Cuma,0,1,0.8,Mobil,3010
+IST-TZX,Bulut,0,105,84,Sabah erken,Cuma,0,0,0.42,Mobil,2810
+IST-TZX,Bulut,0,117,14,Aksam,Hafta ici,0,0,0.62,Mobil,2610
+IST-ANK,Zirve,0,78,48,Sabah erken,Hafta ici,0,0,0.81,Masaustu,1930
+IST-VAN,Kanat,0,142,28,Sabah,Cuma,1,1,0.7,Mobil,3810
+IST-VAN,Kanat,1,295,62,Sabah,Cuma,0,0,0.42,Masaustu,2440
+IST-VAN,Kanat,0,132,36,Sabah,Hafta ici,0,1,0.48,Mobil,2210
+IST-ANK,Bulut,0,72,33,Sabah erken,Pazar,1,0,0.68,Mobil,2150
+IST-ANT,Kanat,1,265,43,Ogle,Hafta ici,0,1,0.54,Mobil,1650
+IST-ANT,Zirve,0,75,88,Ogle,Hafta ici,0,1,0.63,Mobil,3430
+IST-ANK,Bulut,0,77,22,Ogle,Pazar,0,0,0.92,Masaustu,1950
+IST-IZM,Bulut,0,66,19,Sabah,Hafta ici,0,1,0.67,Mobil,1870
+IST-ANT,Zirve,0,87,6,Gece,Pazar,1,1,0.71,Masaustu,6970
+ANK-IZM,Kanat,0,66,67,Ogle,Cuma,0,0,0.83,Mobil,1950
+IST-IZM,Zirve,0,66,61,Gece,Pazar,0,1,0.63,Masaustu,2620
+IZM-ANT,Kanat,0,61,55,Sabah,Hafta ici,0,1,0.62,Mobil,2030
+IST-ANT,Bulut,0,75,2,Sabah erken,Cumartesi,0,0,0.74,Mobil,3450
+ANK-IZM,Zirve,0,75,71,Aksam,Cuma,0,1,0.78,Mobil,3870
+IST-ANT,Zirve,0,88,73,Aksam,Hafta ici,0,1,0.63,Mobil,3250
+IST-ANT,Zirve,0,83,85,Sabah erken,Hafta ici,0,1,0.7,Mobil,3200
+IST-TZX,Kanat,1,271,84,Aksam,Hafta ici,0,1,0.58,Masaustu,2440
+ANK-TZX,Zirve,0,89,23,Aksam,Hafta ici,0,0,0.62,Masaustu,2440
+IST-ANT,Bulut,1,242,64,Sabah erken,Pazar,0,0,0.78,Mobil,1600
+IST-ANT,Bulut,0,80,36,Ogle,Hafta ici,0,0,0.97,Mobil,1900
+IST-TZX,Kanat,0,116,54,Sabah,Cumartesi,0,1,0.62,Mobil,2820
+ANK-IZM,Kanat,0,73,30,Sabah erken,Hafta ici,0,0,0.91,Masaustu,1190
+IST-ANK,Bulut,0,68,59,Gece,Hafta ici,0,0,0.61,Masaustu,1370
+IST-ANT,Kanat,0,81,86,Ogle,Pazar,0,0,0.62,Mobil,2230
+IST-ANT,Bulut,1,202,59,Aksam,Hafta ici,0,1,0.62,Mobil,2060
+ANK-TZX,Zirve,0,87,83,Aksam,Hafta ici,0,0,0.9,Mobil,3620
+IST-ANT,Zirve,0,76,84,Gece,Hafta ici,0,0,0.85,Mobil,2200
+IST-ANT,Kanat,0,87,10,Ogle,Hafta ici,0,0,0.67,Mobil,2020
+ANK-TZX,Zirve,0,91,87,Ogle,Hafta ici,0,0,0.9,Mobil,3610
+IST-ANT,Kanat,0,79,74,Sabah,Cuma,0,0,0.43,Masaustu,2460
+IST-ANK,Bulut,1,272,38,Aksam,Hafta ici,0,0,0.38,Mobil,1300
+IST-IZM,Zirve,0,74,54,Ogle,Cumartesi,0,1,0.54,Masaustu,2600
+IST-ANK,Kanat,0,79,56,Aksam,Cuma,0,0,0.9,Masaustu,2490
+IST-ANK,Kanat,0,70,71,Sabah,Hafta ici,0,0,0.72,Mobil,2120
+IST-ANT,Kanat,0,88,73,Sabah erken,Hafta ici,0,1,0.52,Mobil,2060
+ANK-IZM,Bulut,1,163,9,Gece,Hafta ici,0,0,0.58,Mobil,1450
+ANK-IZM,Zirve,1,169,0,Aksam,Cumartesi,0,0,0.72,Masaustu,4970
+IST-ANK,Kanat,0,73,22,Sabah,Hafta ici,0,0,0.25,Mobil,1570
+IST-TZX,Kanat,1,222,47,Aksam,Hafta ici,0,0,0.77,Masaustu,1540
+IST-ANK,Bulut,0,68,77,Ogle,Hafta ici,0,0,0.53,Masaustu,1880
+ANK-TZX,Kanat,0,94,59,Aksam,Hafta ici,0,1,0.83,Mobil,2420
+IST-ANK,Bulut,0,72,12,Sabah,Cuma,0,0,0.83,Mobil,2790
+IST-TZX,Zirve,0,118,65,Ogle,Hafta ici,0,1,0.49,Mobil,3530
+IST-IZM,Zirve,0,68,42,Sabah erken,Hafta ici,0,1,0.61,Mobil,2050
+IST-TZX,Zirve,0,113,33,Sabah,Hafta ici,0,0,0.81,Mobil,2350
+IST-ANT,Bulut,0,76,70,Aksam,Cuma,0,1,0.7,Masaustu,3390
+ANK-IZM,Zirve,1,192,26,Sabah,Cuma,0,0,0.85,Mobil,1940
+IST-IZM,Kanat,1,185,56,Sabah erken,Hafta ici,0,1,0.79,Mobil,1440
+IZM-ANT,Kanat,0,56,16,Sabah,Hafta ici,0,1,0.75,Masaustu,2040
+IST-ANT,Bulut,0,77,34,Ogle,Cuma,0,0,0.49,Mobil,1670
+ANK-IZM,Kanat,0,73,50,Aksam,Hafta ici,0,1,0.44,Mobil,1970
+IZM-ANT,Zirve,0,58,56,Sabah,Hafta ici,0,0,0.27,Mobil,2340
+ANK-TZX,Bulut,0,90,83,Aksam,Hafta ici,0,1,0.71,Masaustu,2790
+IST-IZM,Zirve,0,66,26,Gece,Hafta ici,0,0,0.83,Mobil,1370
+IST-IZM,Kanat,0,66,81,Sabah,Hafta ici,0,0,0.83,Mobil,1850
+IST-IZM,Bulut,0,61,74,Aksam,Hafta ici,0,0,0.53,Masaustu,2310
+IST-IZM,Bulut,0,66,32,Sabah erken,Hafta ici,0,1,0.79,Masaustu,1600
+IST-TZX,Kanat,0,113,12,Ogle,Hafta ici,0,1,0.66,Mobil,2400
+ANK-TZX,Bulut,1,168,23,Sabah erken,Hafta ici,0,1,0.91,Mobil,1780
+ANK-TZX,Bulut,0,84,59,Sabah erken,Hafta ici,0,0,0.7,Mobil,1790
+IST-ANT,Zirve,0,75,71,Sabah erken,Hafta ici,0,0,0.47,Mobil,2370
+IST-TZX,Bulut,0,119,55,Sabah erken,Cuma,0,0,0.81,Masaustu,2110
+IZM-ANT,Kanat,0,69,65,Aksam,Cumartesi,1,0,0.87,Mobil,3030
+ANK-TZX,Bulut,0,93,9,Ogle,Pazar,0,0,0.52,Masaustu,3150
+IST-IZM,Bulut,0,64,45,Gece,Hafta ici,0,1,0.69,Masaustu,1570
+IST-ANT,Kanat,0,84,79,Ogle,Hafta ici,0,1,0.67,Mobil,2410
+IZM-ANT,Bulut,0,57,35,Aksam,Hafta ici,0,0,0.79,Mobil,1480
+IST-IZM,Kanat,0,73,81,Sabah,Pazar,0,0,0.74,Mobil,2490
+IST-ANT,Kanat,0,75,11,Ogle,Hafta ici,0,1,0.73,Mobil,2270
+ANK-TZX,Bulut,0,87,89,Sabah,Hafta ici,0,1,0.81,Masaustu,2480
+ANK-TZX,Kanat,0,92,71,Gece,Cuma,0,1,0.57,Masaustu,2100
+IZM-ANT,Bulut,0,65,56,Gece,Hafta ici,0,0,0.88,Mobil,1450
+ANK-IZM,Kanat,0,77,56,Sabah,Hafta ici,0,0,0.65,Masaustu,1900
+IST-IZM,Bulut,0,67,85,Aksam,Hafta ici,0,0,0.75,Masaustu,2270
+IST-IZM,Kanat,0,61,34,Aksam,Cuma,0,1,0.62,Mobil,2000
+IST-ANT,Zirve,0,75,15,Ogle,Cuma,0,1,0.57,Masaustu,3110
+IST-TZX,Kanat,0,107,83,Sabah erken,Hafta ici,0,1,0.63,Mobil,2640
+IST-ANT,Bulut,0,75,9,Aksam,Cuma,0,0,0.56,Masaustu,3460
+IST-TZX,Kanat,0,111,60,Aksam,Hafta ici,1,0,0.23,Masaustu,3470
+IST-ANT,Kanat,0,75,24,Sabah,Hafta ici,0,0,0.69,Mobil,1410
+ANK-IZM,Bulut,1,183,84,Ogle,Pazar,0,1,0.67,Mobil,2040
+IST-IZM,Zirve,1,147,88,Sabah erken,Cumartesi,0,0,0.67,Masaustu,1990
+IST-IZM,Zirve,1,189,43,Gece,Pazar,0,1,0.93,Mobil,2170
+IST-ANK,Kanat,0,75,48,Sabah erken,Cuma,0,0,0.71,Mobil,1470
+IST-ANK,Kanat,0,65,41,Sabah,Hafta ici,0,0,0.83,Mobil,1510
+IZM-ANT,Bulut,0,68,38,Sabah,Hafta ici,0,0,0.67,Mobil,1380
+IST-ANT,Bulut,0,83,85,Aksam,Hafta ici,0,0,0.55,Mobil,2620
+IST-IZM,Kanat,0,65,26,Aksam,Hafta ici,0,1,0.9,Mobil,1920
+ANK-IZM,Zirve,0,70,87,Sabah erken,Hafta ici,0,1,0.37,Masaustu,2630
+IST-ANT,Bulut,0,87,59,Sabah,Hafta ici,0,1,0.75,Masaustu,2420
+IST-ANK,Bulut,0,71,87,Aksam,Hafta ici,0,0,0.94,Masaustu,2790
+IST-IZM,Kanat,0,63,55,Ogle,Cumartesi,0,1,0.66,Mobil,1920
+IST-ANK,Bulut,0,71,74,Sabah erken,Hafta ici,0,0,0.87,Masaustu,1960
+IST-TZX,Kanat,1,221,44,Gece,Hafta ici,0,1,0.59,Mobil,1560
+IST-IZM,Zirve,0,62,42,Sabah,Cumartesi,0,1,0.53,Masaustu,2490
+IST-ANK,Kanat,0,69,23,Ogle,Cuma,0,0,0.94,Masaustu,1850
+IST-ANK,Zirve,1,243,19,Sabah,Hafta ici,0,0,0.87,Mobil,1870
+IST-TZX,Zirve,0,110,3,Aksam,Cuma,0,0,0.43,Masaustu,6490
+IST-ANK,Bulut,0,65,34,Aksam,Cumartesi,0,0,0.51,Masaustu,1580
+IZM-ANT,Kanat,0,64,89,Sabah,Pazar,1,1,0.78,Mobil,3820
+IST-ANK,Kanat,0,66,85,Aksam,Hafta ici,0,1,0.9,Masaustu,2980
+IST-TZX,Bulut,0,108,62,Gece,Hafta ici,0,0,0.95,Masaustu,2240
+IST-ANT,Bulut,1,187,33,Aksam,Cuma,0,0,0.74,Mobil,1640
+IST-ANT,Zirve,0,75,47,Ogle,Hafta ici,0,1,0.73,Mobil,2470
+IST-ANK,Kanat,1,265,68,Ogle,Cumartesi,0,0,0.84,Masaustu,1320
+ANK-IZM,Zirve,1,212,0,Gece,Cuma,0,0,0.55,Masaustu,4610
+IZM-ANT,Kanat,0,59,83,Sabah erken,Cumartesi,0,1,0.79,Mobil,1950
+IST-ANK,Kanat,0,69,79,Sabah erken,Pazar,0,0,0.79,Mobil,1970
+IST-ANK,Kanat,0,66,88,Sabah,Hafta ici,0,0,0.34,Mobil,2110
+IZM-ANT,Bulut,0,61,8,Aksam,Pazar,0,0,0.45,Mobil,3110
+IST-ANT,Kanat,0,86,86,Sabah,Cuma,0,0,0.94,Mobil,3270
+IST-ANK,Kanat,0,73,55,Sabah,Hafta ici,0,1,0.85,Mobil,1840
+IST-IZM,Zirve,1,260,50,Aksam,Cumartesi,1,1,0.65,Masaustu,3290
+IST-TZX,Bulut,0,115,16,Sabah,Cuma,0,1,0.93,Mobil,3890
+ANK-IZM,Kanat,0,76,44,Sabah,Pazar,0,1,0.91,Mobil,2300
+IST-TZX,Kanat,0,111,33,Ogle,Hafta ici,0,0,0.55,Mobil,1380
+ANK-TZX,Bulut,0,89,89,Sabah,Hafta ici,0,0,0.54,Masaustu,2530
+IST-ANT,Kanat,0,83,30,Gece,Cumartesi,0,1,0.77,Masaustu,1470
+IST-IZM,Kanat,0,72,19,Sabah,Hafta ici,0,0,0.46,Masaustu,1510
+IST-ANT,Bulut,0,82,86,Aksam,Cuma,0,1,0.79,Mobil,3580
+IST-IZM,Kanat,0,66,17,Ogle,Hafta ici,0,0,0.92,Mobil,1870
+IST-IZM,Bulut,0,61,82,Sabah erken,Hafta ici,0,0,0.65,Mobil,1570
+IST-ANK,Kanat,0,77,87,Sabah erken,Hafta ici,1,1,0.51,Mobil,2910
+IST-IZM,Kanat,0,66,27,Ogle,Cumartesi,1,1,0.61,Mobil,1940
+IST-VAN,Kanat,1,322,62,Sabah,Hafta ici,0,1,0.74,Mobil,2510
+IST-ANK,Kanat,0,75,72,Sabah,Cuma,0,1,0.4,Mobil,2570
+IST-ANT,Kanat,1,233,48,Gece,Cuma,0,0,0.61,Mobil,1160
+IST-TZX,Kanat,0,114,63,Ogle,Cuma,0,1,0.82,Mobil,2980
+IST-TZX,Zirve,0,112,12,Gece,Hafta ici,0,1,0.52,Masaustu,2700
+ANK-IZM,Zirve,0,68,46,Sabah,Hafta ici,0,0,0.84,Mobil,2070
+ANK-IZM,Kanat,0,68,46,Sabah,Cumartesi,0,1,0.71,Mobil,1660
+IST-VAN,Bulut,0,139,51,Ogle,Hafta ici,0,0,0.69,Mobil,2470
+IST-ANK,Bulut,0,66,85,Sabah,Hafta ici,0,0,0.97,Mobil,3090
+IST-ANT,Zirve,1,246,75,Sabah,Pazar,0,1,0.86,Masaustu,3260
+IST-TZX,Kanat,0,117,54,Sabah erken,Hafta ici,0,0,0.84,Mobil,1600
+IST-IZM,Kanat,0,61,36,Sabah erken,Hafta ici,0,1,0.36,Mobil,1530
+IST-ANK,Kanat,0,65,36,Aksam,Pazar,0,0,0.61,Masaustu,2000
+IST-IZM,Kanat,0,60,1,Sabah,Hafta ici,0,1,0.52,Mobil,4190
+IST-ANT,Kanat,0,85,50,Gece,Hafta ici,0,0,0.3,Mobil,1200
+IST-ANT,Zirve,0,87,22,Sabah,Hafta ici,0,0,0.68,Mobil,2490
+IST-ANK,Zirve,0,79,80,Sabah,Cumartesi,0,1,0.72,Mobil,3090
+IZM-ANT,Kanat,0,55,70,Sabah,Pazar,0,1,0.29,Mobil,2460
+ANK-TZX,Bulut,0,87,83,Ogle,Cumartesi,0,0,0.63,Masaustu,1870
+IST-IZM,Kanat,0,60,90,Gece,Pazar,1,0,0.79,Mobil,2730
+ANK-TZX,Bulut,0,85,36,Aksam,Hafta ici,1,0,0.42,Mobil,2490
+IST-ANK,Bulut,0,69,38,Sabah erken,Cuma,0,1,0.73,Mobil,1990
+ANK-TZX,Kanat,1,202,55,Ogle,Hafta ici,0,1,0.62,Mobil,1620
+ANK-TZX,Zirve,0,93,39,Aksam,Pazar,0,1,0.57,Mobil,3280
+IST-ANK,Zirve,1,184,25,Sabah erken,Pazar,0,1,0.4,Masaustu,1920
+ANK-IZM,Bulut,0,65,64,Ogle,Hafta ici,0,0,0.64,Mobil,1870
+ANK-TZX,Bulut,0,83,41,Sabah,Cumartesi,0,1,0.59,Masaustu,2200
+IZM-ANT,Bulut,0,59,85,Ogle,Cuma,1,1,0.61,Mobil,3880
+ANK-TZX,Kanat,0,83,20,Ogle,Hafta ici,0,1,0.69,Mobil,1800
+IST-ANT,Kanat,0,80,40,Sabah,Cuma,0,1,0.67,Mobil,2080
+IST-ANK,Bulut,0,74,48,Gece,Pazar,0,0,0.74,Mobil,1590
+IZM-ANT,Kanat,0,66,82,Ogle,Hafta ici,1,1,0.79,Mobil,2690
+IST-TZX,Zirve,1,296,52,Gece,Hafta ici,1,1,0.71,Mobil,3450
+IST-TZX,Bulut,0,115,6,Aksam,Pazar,0,1,0.58,Masaustu,4790
+IST-ANT,Bulut,0,79,30,Sabah,Hafta ici,0,0,0.71,Masaustu,1590
+IST-TZX,Kanat,0,107,80,Ogle,Hafta ici,0,0,0.49,Mobil,2290
+IST-ANK,Zirve,0,70,24,Sabah,Cuma,0,1,0.72,Mobil,2750
+ANK-IZM,Kanat,0,76,30,Aksam,Cuma,0,1,0.6,Mobil,2010
+IST-ANK,Kanat,0,79,13,Sabah,Hafta ici,0,0,0.38,Mobil,1770
+ANK-IZM,Kanat,0,70,65,Gece,Hafta ici,0,0,0.92,Mobil,1640
+IZM-ANT,Bulut,0,57,12,Ogle,Cumartesi,0,1,0.82,Masaustu,2160
+IST-ANT,Zirve,0,75,33,Aksam,Hafta ici,0,1,0.92,Mobil,2970
+IST-ANT,Kanat,0,76,64,Ogle,Cuma,0,0,0.76,Masaustu,2290
+IST-IZM,Zirve,0,69,81,Ogle,Pazar,0,0,0.61,Masaustu,2900
+ANK-TZX,Kanat,0,88,20,Aksam,Hafta ici,0,0,0.69,Mobil,1740
+ANK-IZM,Bulut,0,74,30,Aksam,Pazar,0,0,0.59,Masaustu,1670
+IST-IZM,Kanat,1,253,10,Sabah,Cumartesi,0,0,0.85,Masaustu,1720
+IST-ANK,Bulut,0,71,39,Ogle,Pazar,0,0,0.59,Mobil,1690
+IST-IZM,Bulut,0,62,90,Sabah,Hafta ici,0,1,0.68,Mobil,2640
+IST-ANT,Bulut,1,195,27,Aksam,Hafta ici,1,0,0.73,Mobil,2070
+ANK-TZX,Kanat,0,89,23,Ogle,Cuma,0,0,0.68,Mobil,1640
+ANK-IZM,Zirve,0,69,36,Sabah,Pazar,1,1,0.64,Masaustu,4720
+IST-IZM,Zirve,0,69,81,Aksam,Pazar,0,0,0.38,Mobil,3510
+IZM-ANT,Bulut,1,179,49,Ogle,Hafta ici,1,1,0.7,Masaustu,2280
+IST-IZM,Bulut,1,171,55,Ogle,Hafta ici,0,0,0.46,Mobil,1250
+IZM-ANT,Zirve,0,61,71,Aksam,Hafta ici,0,1,0.48,Mobil,3260
+IST-IZM,Kanat,0,65,65,Aksam,Cuma,0,1,0.48,Mobil,2560
+IST-TZX,Zirve,0,106,54,Aksam,Cumartesi,0,0,0.4,Masaustu,3300
+ANK-TZX,Kanat,0,88,51,Sabah,Cumartesi,0,1,0.81,Mobil,2310
+IST-IZM,Zirve,0,74,48,Sabah erken,Hafta ici,0,1,0.65,Mobil,2180
+IST-VAN,Kanat,0,139,16,Aksam,Pazar,0,0,0.81,Masaustu,2770
+ANK-TZX,Kanat,0,91,37,Sabah,Hafta ici,0,1,0.35,Mobil,1640
+IST-ANK,Bulut,0,77,77,Sabah erken,Hafta ici,1,0,0.66,Masaustu,2700
+IST-ANK,Bulut,0,65,3,Sabah erken,Hafta ici,0,0,0.54,Mobil,2840
+IST-VAN,Zirve,0,141,75,Sabah,Hafta ici,1,1,0.64,Masaustu,6110
+IST-IZM,Zirve,1,144,51,Gece,Cumartesi,0,0,0.66,Mobil,1520
+IST-ANK,Kanat,0,74,31,Sabah,Cuma,0,0,0.64,Mobil,1730
+IST-ANT,Kanat,0,89,10,Sabah,Hafta ici,0,0,0.58,Mobil,2020
+ANK-IZM,Kanat,1,267,69,Gece,Hafta ici,0,1,0.75,Mobil,1500
+IST-IZM,Bulut,0,66,0,Gece,Hafta ici,0,0,0.83,Masaustu,3300
+IST-IZM,Bulut,0,72,49,Sabah,Cuma,0,0,0.79,Mobil,2120
+IZM-ANT,Zirve,1,187,14,Gece,Hafta ici,0,1,0.5,Mobil,1730
+IST-ANT,Zirve,0,76,82,Sabah erken,Hafta ici,0,1,0.77,Mobil,2800
+IZM-ANT,Kanat,0,58,16,Aksam,Hafta ici,0,0,0.57,Masaustu,1760
+IST-ANT,Bulut,1,171,73,Sabah erken,Cumartesi,0,1,0.82,Mobil,1920
+ANK-TZX,Bulut,0,93,52,Ogle,Hafta ici,0,0,0.87,Mobil,2080
+IST-TZX,Bulut,0,118,3,Sabah,Hafta ici,0,1,0.76,Masaustu,4830
+IST-ANK,Kanat,1,245,65,Aksam,Hafta ici,0,1,0.81,Mobil,1740
+IZM-ANT,Kanat,0,59,80,Sabah erken,Hafta ici,0,0,0.84,Masaustu,1630
+IST-ANT,Bulut,1,272,20,Ogle,Hafta ici,0,1,0.67,Mobil,1740
+IST-ANK,Kanat,0,65,88,Aksam,Hafta ici,0,1,0.39,Masaustu,2630
+IST-ANK,Zirve,0,78,72,Sabah erken,Cuma,0,0,0.68,Masaustu,2590
+IST-VAN,Kanat,0,139,67,Gece,Hafta ici,0,0,0.87,Mobil,1900
+IST-ANK,Bulut,0,74,30,Sabah,Hafta ici,0,0,0.51,Mobil,1580
+IST-IZM,Bulut,1,179,10,Sabah,Pazar,0,1,0.43,Mobil,2370
+IST-ANK,Zirve,0,79,39,Sabah,Hafta ici,0,0,0.67,Mobil,2070
+IST-ANT,Kanat,0,86,73,Sabah,Hafta ici,0,1,0.78,Mobil,2870
+IST-ANT,Kanat,0,75,53,Sabah,Hafta ici,0,0,0.77,Masaustu,2070
+IST-ANT,Kanat,1,190,58,Ogle,Hafta ici,0,1,0.71,Mobil,1800
+IST-IZM,Bulut,0,72,71,Aksam,Hafta ici,0,1,0.63,Mobil,2400
+IST-ANK,Kanat,0,66,30,Ogle,Pazar,0,0,0.92,Mobil,1620
+IST-TZX,Zirve,0,116,3,Ogle,Hafta ici,0,0,0.3,Mobil,5580
+IST-IZM,Kanat,0,63,80,Aksam,Cuma,0,1,0.59,Mobil,3000
+IST-TZX,Kanat,1,231,55,Sabah,Pazar,1,0,0.82,Mobil,3090
+IST-ANK,Bulut,1,192,51,Aksam,Hafta ici,0,0,0.81,Mobil,1490
+IST-ANK,Zirve,0,72,52,Gece,Cuma,0,1,0.53,Mobil,2510
+IST-IZM,Zirve,0,60,77,Sabah,Hafta ici,0,1,0.86,Masaustu,2990
+IST-ANT,Bulut,0,75,70,Aksam,Hafta ici,0,1,0.63,Masaustu,2460
+IST-ANT,Bulut,0,86,60,Gece,Cumartesi,0,1,0.58,Mobil,1780
+ANK-IZM,Bulut,0,78,71,Ogle,Hafta ici,0,1,0.75,Mobil,2350
+IST-IZM,Bulut,0,64,26,Gece,Pazar,0,1,0.69,Mobil,1690
+IST-ANT,Kanat,0,89,64,Sabah,Hafta ici,0,0,0.72,Mobil,2130
+IST-TZX,Bulut,1,238,88,Ogle,Hafta ici,0,1,0.76,Masaustu,2160
+IST-ANK,Zirve,0,65,21,Sabah,Hafta ici,0,1,0.63,Mobil,2340
+IST-ANT,Kanat,0,82,51,Sabah erken,Hafta ici,0,1,0.88,Mobil,1960
+IST-IZM,Bulut,0,74,61,Gece,Hafta ici,0,1,0.59,Masaustu,1700
+IST-ANT,Bulut,0,78,47,Sabah,Hafta ici,0,0,0.66,Masaustu,1780
+IST-ANK,Bulut,0,79,88,Gece,Hafta ici,0,1,0.37,Mobil,2180
+ANK-IZM,Kanat,0,74,36,Aksam,Hafta ici,0,0,0.81,Mobil,1410
+ANK-TZX,Bulut,0,85,19,Gece,Pazar,0,0,0.36,Mobil,1610
+IST-ANK,Zirve,0,75,12,Gece,Hafta ici,0,0,0.65,Mobil,2060
+IST-TZX,Kanat,1,194,77,Ogle,Hafta ici,1,1,0.55,Mobil,3070
+ANK-IZM,Kanat,1,158,62,Gece,Cumartesi,0,0,0.87,Mobil,1190
+IST-IZM,Kanat,0,73,52,Aksam,Cuma,0,1,0.54,Mobil,2190
+ANK-IZM,Kanat,0,70,39,Ogle,Pazar,0,1,0.74,Mobil,1860
+IST-TZX,Zirve,0,113,37,Aksam,Pazar,0,1,0.69,Mobil,3690
+ANK-TZX,Bulut,0,91,85,Sabah,Hafta ici,0,1,0.77,Masaustu,3220
+ANK-TZX,Kanat,1,249,61,Sabah erken,Hafta ici,0,0,0.52,Mobil,1190
+IST-ANK,Kanat,1,271,87,Sabah,Cuma,0,0,0.72,Masaustu,2030
+IST-ANT,Zirve,0,80,72,Ogle,Hafta ici,0,1,0.55,Mobil,3020
+IST-ANT,Kanat,0,83,69,Sabah,Cuma,0,0,0.44,Masaustu,2410
+IST-ANK,Bulut,0,71,50,Ogle,Hafta ici,0,0,0.75,Mobil,1560
+IST-IZM,Kanat,0,71,22,Aksam,Pazar,0,0,0.79,Mobil,1850
+ANK-TZX,Kanat,1,168,59,Aksam,Cuma,0,0,0.65,Mobil,2010
+IST-ANK,Bulut,0,66,65,Gece,Hafta ici,0,1,0.6,Mobil,2160
+IST-ANT,Kanat,0,81,47,Gece,Hafta ici,0,1,0.66,Mobil,1470
+IZM-ANT,Bulut,0,56,1,Gece,Pazar,0,1,0.6,Mobil,3530
+IST-IZM,Kanat,0,63,87,Aksam,Cuma,0,0,0.84,Mobil,2790
+IST-ANT,Bulut,0,84,75,Sabah,Cumartesi,0,1,0.66,Mobil,2670
+ANK-TZX,Zirve,1,286,32,Gece,Cumartesi,0,1,0.57,Mobil,1590
+IST-ANT,Bulut,0,85,44,Sabah,Hafta ici,0,1,0.36,Masaustu,2160
+IST-ANK,Kanat,0,69,11,Sabah,Hafta ici,0,0,0.62,Mobil,1880
+IST-ANK,Bulut,0,77,85,Sabah,Hafta ici,0,0,0.77,Mobil,2360
+ANK-TZX,Zirve,0,86,20,Ogle,Cuma,0,1,0.6,Mobil,2940
+IST-IZM,Kanat,0,62,34,Aksam,Cuma,0,1,0.5,Masaustu,2120
+IST-ANT,Kanat,0,86,38,Sabah erken,Hafta ici,0,0,0.79,Masaustu,1290
+IST-ANK,Zirve,0,72,23,Aksam,Pazar,0,0,0.57,Mobil,2750
+IST-ANT,Kanat,0,80,57,Sabah,Hafta ici,1,1,0.94,Mobil,4000
+ANK-TZX,Bulut,1,192,90,Sabah,Cumartesi,0,1,0.8,Mobil,2630
+IST-ANT,Zirve,0,85,77,Sabah,Hafta ici,1,1,0.79,Mobil,5330
+ANK-TZX,Kanat,1,274,48,Sabah,Hafta ici,0,1,0.68,Masaustu,1710
+IST-IZM,Bulut,0,61,11,Aksam,Hafta ici,0,1,0.41,Masaustu,2470
+IST-ANT,Bulut,0,82,78,Sabah erken,Cuma,1,1,0.87,Mobil,3820
+IZM-ANT,Kanat,0,55,23,Sabah,Cumartesi,0,0,0.54,Masaustu,1440
+IST-ANT,Zirve,0,84,82,Sabah erken,Hafta ici,0,0,0.46,Mobil,2340
+IST-IZM,Kanat,0,66,35,Aksam,Hafta ici,0,1,0.72,Masaustu,1770
+IZM-ANT,Kanat,0,58,47,Gece,Cuma,0,1,0.77,Masaustu,1570
+IST-ANT,Zirve,0,83,39,Aksam,Hafta ici,0,0,0.39,Masaustu,2120
+IST-ANT,Kanat,0,80,41,Ogle,Cuma,0,0,0.86,Mobil,1580
+ANK-TZX,Zirve,0,85,15,Gece,Hafta ici,0,1,0.74,Mobil,2400
+IST-ANK,Kanat,1,161,50,Sabah,Pazar,0,1,0.69,Mobil,2020
+IST-IZM,Bulut,0,70,36,Sabah erken,Cuma,0,0,0.6,Mobil,1380
+IST-ANK,Kanat,1,188,77,Ogle,Hafta ici,0,1,0.63,Mobil,1570
+IST-ANT,Bulut,1,172,43,Sabah,Cumartesi,0,0,0.48,Masaustu,1680
+IST-IZM,Zirve,1,164,87,Ogle,Hafta ici,0,0,0.57,Mobil,2270
+IST-VAN,Zirve,0,142,26,Ogle,Pazar,0,0,0.66,Mobil,3180
+IST-ANK,Zirve,0,66,29,Sabah,Cuma,0,0,0.46,Mobil,2620
+IST-VAN,Bulut,0,134,3,Ogle,Hafta ici,0,0,0.5,Mobil,4570
+IST-IZM,Zirve,0,60,67,Sabah,Cuma,0,1,0.61,Mobil,3510
+IST-IZM,Bulut,0,72,6,Sabah erken,Hafta ici,0,1,0.61,Mobil,2860
+IST-IZM,Zirve,0,60,25,Gece,Pazar,0,0,0.87,Masaustu,1980
+IST-VAN,Bulut,0,138,82,Aksam,Pazar,0,1,0.65,Mobil,4310
+IST-ANT,Zirve,0,77,55,Sabah erken,Cuma,0,1,0.44,Mobil,3080
+IST-IZM,Kanat,0,63,50,Sabah erken,Hafta ici,0,0,0.9,Mobil,1340
+IZM-ANT,Bulut,0,64,73,Sabah erken,Cuma,0,0,0.81,Mobil,1910
+IST-TZX,Bulut,1,300,70,Sabah erken,Hafta ici,0,0,0.67,Masaustu,1880
+IST-IZM,Kanat,0,60,80,Sabah erken,Hafta ici,0,1,0.55,Masaustu,2040
+IZM-ANT,Kanat,0,57,60,Sabah,Pazar,0,0,0.73,Mobil,1860
+IST-IZM,Zirve,0,64,40,Aksam,Hafta ici,0,1,0.66,Mobil,2400
+IST-ANK,Bulut,0,79,11,Aksam,Hafta ici,0,1,0.61,Mobil,2910
+IST-ANT,Kanat,0,75,33,Aksam,Hafta ici,0,1,0.52,Masaustu,1910
+IST-ANK,Kanat,0,67,64,Aksam,Pazar,0,0,0.87,Mobil,2410
+IST-IZM,Kanat,0,66,23,Aksam,Pazar,0,0,0.35,Mobil,1760
+ANK-IZM,Bulut,0,69,61,Aksam,Hafta ici,0,0,0.36,Mobil,2080
+IST-ANK,Zirve,0,65,12,Gece,Hafta ici,0,1,0.54,Mobil,2360
+ANK-IZM,Zirve,0,73,5,Aksam,Cumartesi,0,1,0.63,Masaustu,4380
+ANK-TZX,Bulut,0,89,33,Aksam,Hafta ici,0,1,0.65,Mobil,2190
+IST-TZX,Bulut,0,107,20,Aksam,Pazar,0,1,0.61,Masaustu,2970
+IST-VAN,Kanat,0,140,79,Ogle,Pazar,1,0,0.52,Mobil,4790
+IST-VAN,Zirve,0,130,34,Sabah,Cumartesi,1,0,0.57,Mobil,4490
+ANK-TZX,Kanat,0,90,38,Sabah erken,Hafta ici,0,0,0.66,Masaustu,1370
+IST-IZM,Kanat,0,63,36,Ogle,Cuma,0,0,0.46,Mobil,1490
+IST-ANK,Zirve,0,68,28,Sabah erken,Pazar,0,0,0.78,Masaustu,2020
+IST-ANT,Zirve,1,253,83,Sabah,Hafta ici,0,0,0.82,Mobil,2570
+IST-ANT,Kanat,0,88,67,Sabah erken,Pazar,0,1,0.64,Mobil,2150
+IST-ANK,Bulut,0,72,14,Sabah,Hafta ici,1,0,0.71,Mobil,3080
+IST-TZX,Bulut,0,115,19,Gece,Pazar,0,0,0.37,Masaustu,1940
+IST-ANK,Kanat,1,252,7,Sabah,Cuma,0,0,0.45,Masaustu,2460
+ANK-TZX,Kanat,1,248,23,Sabah,Hafta ici,0,0,0.69,Mobil,1400
+IST-IZM,Kanat,0,60,59,Ogle,Hafta ici,0,0,0.69,Masaustu,1540
+IST-ANK,Bulut,0,71,85,Sabah,Hafta ici,0,0,0.86,Mobil,2390
+IST-ANK,Bulut,0,69,43,Aksam,Hafta ici,1,0,0.86,Masaustu,2700
+IST-IZM,Bulut,0,71,7,Aksam,Pazar,0,1,0.35,Mobil,3950
+IST-IZM,Kanat,0,71,4,Sabah erken,Hafta ici,0,0,0.65,Masaustu,2460
+IST-ANK,Zirve,0,69,37,Ogle,Pazar,0,0,0.5,Masaustu,2230
+IST-IZM,Bulut,1,198,24,Sabah erken,Hafta ici,0,0,0.23,Mobil,1000
+IST-ANK,Zirve,1,179,52,Aksam,Cuma,0,0,0.73,Masaustu,2370
+IST-IZM,Kanat,0,70,10,Gece,Pazar,1,1,0.61,Masaustu,3750
+IST-ANT,Bulut,1,268,20,Gece,Cuma,0,0,0.86,Mobil,1190
+IST-IZM,Zirve,0,69,50,Sabah,Pazar,0,1,0.97,Masaustu,3990
+IST-IZM,Kanat,0,60,25,Aksam,Pazar,0,1,0.78,Mobil,2050
+IST-ANK,Kanat,1,216,33,Aksam,Cuma,0,1,0.68,Masaustu,1720
+IST-ANK,Kanat,0,79,20,Gece,Cumartesi,0,0,0.46,Masaustu,1210
+IST-IZM,Kanat,0,65,4,Sabah,Hafta ici,0,0,0.89,Mobil,3280
+ANK-IZM,Bulut,0,67,31,Ogle,Hafta ici,1,0,0.56,Mobil,2070
+ANK-TZX,Kanat,0,82,30,Sabah,Hafta ici,0,1,0.45,Mobil,1840
+ANK-TZX,Kanat,0,80,81,Sabah erken,Cumartesi,0,0,0.89,Masaustu,1990
+IST-ANT,Bulut,0,86,81,Aksam,Cuma,0,1,0.85,Masaustu,3180
+IST-ANT,Kanat,0,75,39,Ogle,Cuma,0,0,0.74,Masaustu,1730
+IST-IZM,Kanat,0,68,26,Sabah,Pazar,0,0,0.74,Masaustu,1630
+ANK-IZM,Bulut,0,70,38,Aksam,Hafta ici,0,0,0.77,Mobil,1650
+ANK-IZM,Kanat,0,66,55,Ogle,Pazar,0,0,0.52,Mobil,1770
+IZM-ANT,Kanat,0,68,35,Gece,Hafta ici,0,1,0.64,Masaustu,1400
+IZM-ANT,Kanat,0,66,68,Aksam,Hafta ici,0,1,0.49,Mobil,2410
+IST-ANT,Kanat,0,87,87,Gece,Cuma,0,0,0.94,Mobil,2130
+ANK-IZM,Bulut,0,79,36,Aksam,Hafta ici,0,0,0.79,Mobil,1640
+ANK-IZM,Kanat,0,78,10,Sabah erken,Cuma,0,1,0.56,Mobil,2360
+IST-IZM,Kanat,1,263,10,Sabah erken,Cumartesi,0,0,0.8,Mobil,1360
+ANK-TZX,Zirve,0,88,79,Gece,Cumartesi,0,1,0.85,Mobil,2780
+IST-ANK,Zirve,0,75,37,Sabah erken,Hafta ici,0,0,0.59,Mobil,1440
+ANK-TZX,Kanat,0,86,29,Sabah,Hafta ici,0,1,0.68,Mobil,1950
+ANK-IZM,Kanat,0,67,56,Aksam,Hafta ici,0,1,0.77,Mobil,2330
+IST-ANK,Bulut,0,70,87,Sabah,Hafta ici,0,0,0.62,Mobil,2500
+IST-TZX,Zirve,0,112,38,Sabah,Hafta ici,0,0,0.84,Masaustu,2440
+IST-ANK,Zirve,0,65,28,Ogle,Hafta ici,0,0,0.62,Mobil,1810
+ANK-IZM,Kanat,1,238,78,Sabah,Cumartesi,0,0,0.94,Masaustu,1880
+ANK-IZM,Kanat,0,78,7,Aksam,Pazar,1,1,0.69,Mobil,5940
+IST-TZX,Bulut,1,267,76,Sabah erken,Cumartesi,0,0,0.93,Mobil,1990
+IZM-ANT,Zirve,0,62,47,Ogle,Hafta ici,0,0,0.89,Masaustu,1990
+IST-ANK,Zirve,1,190,1,Sabah,Hafta ici,0,1,0.97,Mobil,6450
+IST-IZM,Kanat,1,220,20,Aksam,Hafta ici,0,1,0.78,Mobil,1440
+IST-ANT,Bulut,0,85,61,Sabah erken,Hafta ici,0,0,0.77,Mobil,1630
+IST-ANK,Kanat,0,72,68,Sabah,Hafta ici,0,1,0.93,Masaustu,2600
+IST-ANT,Bulut,0,79,17,Aksam,Pazar,0,0,0.29,Masaustu,2480
+IST-IZM,Zirve,0,71,59,Sabah,Cuma,0,1,0.63,Mobil,3950
+IST-ANT,Bulut,0,77,90,Aksam,Hafta ici,0,0,0.61,Masaustu,2610
+IST-ANT,Kanat,0,78,62,Sabah,Cuma,1,1,0.74,Mobil,3720
+IZM-ANT,Bulut,1,181,63,Sabah,Pazar,1,0,0.57,Masaustu,2730
+IST-IZM,Bulut,0,70,17,Sabah,Hafta ici,0,0,0.71,Masaustu,1860
+IZM-ANT,Zirve,0,69,58,Gece,Cumartesi,0,1,0.36,Mobil,1990
+IST-ANT,Kanat,0,85,64,Sabah,Hafta ici,0,0,0.34,Mobil,2130
+IST-IZM,Zirve,0,60,10,Sabah,Hafta ici,0,0,0.86,Masaustu,3130
+IST-ANT,Kanat,0,87,28,Ogle,Pazar,0,0,0.73,Mobil,1550
+IST-ANT,Kanat,0,81,80,Sabah,Hafta ici,0,1,0.51,Masaustu,2260
+IST-IZM,Kanat,0,60,90,Aksam,Cuma,1,0,0.85,Mobil,4120
+IST-ANT,Kanat,0,83,15,Gece,Hafta ici,0,1,0.84,Masaustu,1650
+IST-ANK,Kanat,0,67,66,Ogle,Cuma,0,0,0.61,Mobil,2030
+IST-IZM,Bulut,0,66,45,Ogle,Cuma,0,1,0.74,Masaustu,2080
+IST-TZX,Kanat,0,112,53,Sabah,Pazar,0,1,0.37,Mobil,2600
+IST-ANT,Kanat,0,76,46,Gece,Cumartesi,0,0,0.76,Masaustu,1210
+IZM-ANT,Kanat,1,205,78,Ogle,Cuma,0,1,0.63,Masaustu,1820
+IST-IZM,Kanat,1,262,40,Sabah,Hafta ici,0,0,0.81,Masaustu,1100
+ANK-TZX,Zirve,0,94,53,Gece,Hafta ici,0,0,0.54,Masaustu,2050
+ANK-IZM,Zirve,0,71,60,Gece,Cuma,0,1,0.55,Mobil,2770
+ANK-TZX,Kanat,0,88,50,Ogle,Hafta ici,0,1,0.49,Mobil,1970
+IZM-ANT,Zirve,0,67,80,Sabah,Hafta ici,0,1,0.76,Mobil,2980
+IST-ANK,Bulut,0,68,21,Aksam,Pazar,0,1,0.58,Mobil,2300
+IST-ANT,Zirve,0,88,86,Aksam,Hafta ici,0,0,0.57,Mobil,3180
+IST-ANK,Kanat,0,67,61,Ogle,Hafta ici,0,1,0.5,Masaustu,1750
+ANK-IZM,Kanat,0,79,87,Sabah,Pazar,0,0,0.89,Masaustu,2730
+IST-TZX,Bulut,0,114,34,Sabah,Hafta ici,0,1,0.62,Mobil,2020
+IST-IZM,Zirve,0,67,43,Sabah,Cuma,0,1,0.72,Mobil,2890
+ANK-TZX,Bulut,0,83,3,Sabah erken,Hafta ici,0,0,0.53,Mobil,2940
+IST-ANK,Bulut,0,73,84,Aksam,Hafta ici,0,1,0.65,Mobil,2510
+IST-TZX,Kanat,0,113,74,Sabah erken,Cuma,0,1,0.52,Masaustu,2790
+ANK-IZM,Bulut,0,79,26,Sabah,Hafta ici,0,1,0.77,Mobil,1920
+IST-ANK,Zirve,0,77,4,Aksam,Cuma,0,1,0.78,Mobil,5120
+IST-TZX,Kanat,0,112,63,Ogle,Hafta ici,0,1,0.55,Masaustu,2340
+ANK-IZM,Bulut,1,227,61,Sabah,Hafta ici,1,0,0.7,Mobil,2570
+IST-ANK,Bulut,0,70,48,Gece,Hafta ici,0,0,0.46,Mobil,1260
+IST-ANT,Bulut,1,211,14,Sabah erken,Hafta ici,1,1,0.77,Mobil,2430
+IST-IZM,Bulut,0,60,83,Gece,Hafta ici,0,0,0.23,Masaustu,1650
+IST-VAN,Zirve,0,130,39,Sabah erken,Cumartesi,0,0,0.85,Masaustu,2350
+IST-ANK,Zirve,0,76,65,Ogle,Hafta ici,0,1,0.6,Mobil,2640
+ANK-TZX,Bulut,0,83,78,Aksam,Hafta ici,0,1,0.9,Mobil,3160
+IZM-ANT,Kanat,0,61,49,Sabah,Hafta ici,0,1,0.84,Mobil,1870
+IST-ANK,Kanat,1,161,8,Ogle,Hafta ici,0,0,0.82,Mobil,1870
+IST-IZM,Kanat,0,69,80,Sabah,Hafta ici,0,0,0.77,Mobil,1970
+IST-TZX,Kanat,0,110,60,Ogle,Pazar,0,1,0.59,Mobil,2770
+IST-VAN,Kanat,0,141,81,Sabah erken,Cuma,0,0,0.85,Masaustu,2740
+IST-ANT,Bulut,0,77,55,Aksam,Cuma,0,0,0.69,Mobil,2440
+IST-ANK,Kanat,0,72,82,Ogle,Hafta ici,0,0,0.53,Mobil,1760
+IST-ANK,Kanat,0,66,78,Ogle,Hafta ici,0,1,0.6,Masaustu,2220
+ANK-TZX,Zirve,0,87,19,Sabah erken,Cumartesi,0,0,0.76,Mobil,2090
+IST-ANT,Kanat,0,76,15,Ogle,Hafta ici,0,0,0.58,Mobil,1890
+IZM-ANT,Bulut,0,69,14,Ogle,Cuma,0,0,0.74,Masaustu,2090
+IST-ANT,Zirve,0,84,72,Sabah,Pazar,0,0,0.65,Masaustu,3730
+ANK-TZX,Bulut,1,167,21,Aksam,Hafta ici,0,1,0.94,Mobil,2320
+IST-ANK,Kanat,0,74,40,Sabah erken,Cumartesi,0,1,0.97,Masaustu,1860
+IST-ANK,Kanat,0,70,71,Sabah,Hafta ici,0,1,0.63,Mobil,2140
+ANK-TZX,Bulut,0,87,39,Aksam,Hafta ici,0,0,0.61,Mobil,1680
+ANK-TZX,Bulut,0,82,5,Sabah erken,Hafta ici,0,0,0.97,Mobil,3620
+IST-IZM,Kanat,0,67,32,Sabah,Cuma,0,0,0.79,Mobil,1730
+IST-IZM,Bulut,0,61,8,Aksam,Hafta ici,0,1,0.64,Mobil,3080
+IST-ANT,Bulut,0,77,35,Aksam,Cuma,0,0,0.56,Mobil,1960
+IST-ANT,Kanat,0,83,67,Sabah erken,Cuma,0,0,0.69,Masaustu,2120
+IST-ANK,Bulut,0,72,47,Sabah erken,Hafta ici,0,0,0.36,Mobil,1380
+IZM-ANT,Kanat,0,59,61,Ogle,Hafta ici,0,1,0.7,Masaustu,1780
+IST-IZM,Kanat,0,60,9,Ogle,Cuma,0,1,0.71,Mobil,2690
+IST-VAN,Zirve,0,136,68,Ogle,Hafta ici,0,0,0.77,Mobil,3720
+IST-ANK,Kanat,0,78,38,Aksam,Pazar,0,1,0.76,Mobil,1990
+IST-ANK,Bulut,0,75,26,Aksam,Hafta ici,0,0,0.71,Mobil,1440
+IST-TZX,Bulut,1,198,59,Gece,Pazar,0,1,0.55,Masaustu,2070
+IST-IZM,Kanat,0,74,12,Sabah,Hafta ici,0,1,0.41,Mobil,2370
+IST-TZX,Zirve,0,111,45,Sabah,Hafta ici,0,1,0.8,Masaustu,2570
+IST-ANK,Kanat,0,73,38,Sabah,Cuma,0,1,0.36,Masaustu,2170
+ANK-TZX,Kanat,0,80,15,Sabah erken,Hafta ici,0,0,0.45,Masaustu,1430
+ANK-IZM,Zirve,0,69,86,Sabah,Hafta ici,0,0,0.89,Mobil,3460
+IZM-ANT,Bulut,0,66,33,Gece,Hafta ici,0,1,0.64,Masaustu,1240
+IST-ANK,Bulut,0,69,3,Sabah,Cuma,0,1,0.71,Mobil,4280
+IST-IZM,Kanat,0,62,40,Sabah erken,Hafta ici,0,0,0.49,Masaustu,1190
+IST-IZM,Kanat,0,61,87,Ogle,Hafta ici,0,0,0.89,Mobil,2140
+IST-ANT,Bulut,1,255,60,Gece,Hafta ici,0,0,0.92,Mobil,1450
+IST-IZM,Kanat,0,72,57,Sabah,Hafta ici,0,0,0.84,Masaustu,2000
+IST-ANK,Kanat,0,65,81,Aksam,Pazar,0,1,0.81,Mobil,2670
+IST-IZM,Zirve,0,73,7,Aksam,Hafta ici,1,0,0.76,Masaustu,7110
+IST-IZM,Kanat,1,224,50,Ogle,Hafta ici,0,1,0.53,Mobil,1480
+IST-ANT,Kanat,0,80,29,Aksam,Hafta ici,0,0,0.57,Masaustu,1480
+IST-ANK,Kanat,1,177,61,Ogle,Hafta ici,0,1,0.73,Mobil,1700
+IST-IZM,Bulut,1,220,77,Sabah,Pazar,0,1,0.8,Mobil,2280
+IST-TZX,Bulut,0,108,7,Ogle,Hafta ici,0,1,0.51,Mobil,3510
+IST-ANT,Zirve,0,85,14,Sabah erken,Cuma,0,1,0.5,Mobil,3120
+IST-IZM,Kanat,0,63,86,Aksam,Hafta ici,0,0,0.65,Masaustu,2300
+IST-ANT,Kanat,0,80,44,Aksam,Cuma,0,0,0.57,Masaustu,1910
+ANK-IZM,Bulut,0,70,28,Sabah,Hafta ici,0,1,0.93,Masaustu,2270
+IST-IZM,Kanat,1,244,13,Ogle,Hafta ici,0,1,0.7,Masaustu,1730
+IST-TZX,Bulut,0,117,32,Sabah,Hafta ici,0,1,0.61,Masaustu,2240
+ANK-TZX,Zirve,0,90,0,Sabah erken,Hafta ici,0,1,0.65,Mobil,5900
+IST-ANT,Bulut,0,87,20,Aksam,Pazar,0,0,0.68,Mobil,1940
+IZM-ANT,Bulut,0,62,16,Sabah erken,Cumartesi,0,0,0.52,Masaustu,1440
+ANK-IZM,Zirve,1,196,7,Aksam,Hafta ici,0,1,0.64,Masaustu,3460
+IST-ANK,Kanat,0,69,88,Sabah,Hafta ici,0,1,0.87,Mobil,2570
+IST-ANT,Zirve,0,80,71,Aksam,Cuma,0,1,0.63,Mobil,3810
+IST-VAN,Bulut,1,252,85,Sabah,Hafta ici,0,1,0.81,Mobil,2610
+ANK-TZX,Bulut,1,224,21,Sabah,Hafta ici,0,1,0.38,Masaustu,1870
+IST-ANT,Zirve,0,85,26,Aksam,Cuma,0,1,0.95,Mobil,3670
+IST-ANK,Bulut,0,66,25,Ogle,Hafta ici,0,0,0.51,Mobil,1530
+IST-TZX,Bulut,0,119,50,Sabah,Hafta ici,0,1,0.53,Masaustu,2390
+IST-ANK,Kanat,0,74,16,Gece,Hafta ici,0,0,0.54,Masaustu,1230
+ANK-IZM,Bulut,0,71,21,Sabah,Hafta ici,0,0,0.75,Mobil,1550
+IST-ANT,Bulut,0,80,88,Sabah erken,Cuma,0,1,0.68,Masaustu,2860
+ANK-IZM,Kanat,1,205,32,Ogle,Cuma,0,0,0.43,Masaustu,1260
+IZM-ANT,Bulut,0,58,71,Ogle,Pazar,0,0,0.93,Mobil,2800
+IST-TZX,Bulut,1,201,20,Aksam,Hafta ici,0,1,0.83,Mobil,2160
+IST-TZX,Kanat,1,254,84,Aksam,Cuma,0,1,0.31,Mobil,2980
+ANK-IZM,Kanat,0,68,63,Ogle,Pazar,0,0,0.84,Mobil,2030
+IZM-ANT,Bulut,0,66,78,Sabah,Cuma,0,1,0.69,Mobil,2920
+IZM-ANT,Kanat,0,63,46,Sabah,Pazar,0,0,0.64,Mobil,1760
+IST-ANK,Kanat,0,76,82,Sabah erken,Pazar,0,0,0.59,Masaustu,2030
+IST-ANT,Bulut,0,86,33,Aksam,Cumartesi,0,1,0.64,Mobil,2270
+IST-IZM,Kanat,0,60,43,Sabah erken,Pazar,0,1,0.35,Mobil,1770
+IZM-ANT,Kanat,0,55,5,Aksam,Cuma,0,1,0.55,Mobil,3620
+IST-TZX,Bulut,0,118,15,Ogle,Hafta ici,1,1,0.57,Masaustu,3740
+IST-ANT,Kanat,0,77,70,Aksam,Pazar,0,1,0.73,Masaustu,2830
+IST-ANK,Zirve,0,73,29,Sabah erken,Cumartesi,0,1,0.64,Masaustu,2000
+IST-IZM,Zirve,0,71,9,Sabah,Hafta ici,0,0,0.55,Masaustu,3130
+IST-VAN,Bulut,0,137,26,Gece,Hafta ici,0,1,0.61,Mobil,2070
+IST-IZM,Zirve,1,166,32,Ogle,Hafta ici,0,1,0.39,Mobil,1860
+IST-ANK,Zirve,1,151,65,Ogle,Pazar,1,0,0.97,Mobil,5140
+IZM-ANT,Kanat,0,65,8,Aksam,Hafta ici,0,1,0.83,Masaustu,2630
+ANK-IZM,Bulut,0,78,2,Gece,Hafta ici,0,1,0.74,Mobil,3350
+IST-ANK,Kanat,0,70,65,Sabah,Hafta ici,0,0,0.82,Mobil,1930
+IST-IZM,Bulut,0,68,12,Gece,Hafta ici,0,0,0.83,Mobil,1560
+ANK-TZX,Bulut,0,94,38,Sabah erken,Pazar,0,0,0.6,Masaustu,1750
+IST-VAN,Kanat,0,142,62,Gece,Hafta ici,0,0,0.49,Mobil,1700
+IST-TZX,Kanat,1,269,46,Sabah,Hafta ici,0,1,0.58,Masaustu,1960
+IST-IZM,Zirve,0,69,11,Sabah,Hafta ici,0,0,0.25,Masaustu,3230
+IST-IZM,Kanat,0,74,65,Sabah erken,Cumartesi,0,1,0.79,Mobil,1980
+IST-ANK,Kanat,1,185,4,Aksam,Cuma,0,1,0.87,Masaustu,3750
+ANK-IZM,Kanat,0,71,21,Gece,Hafta ici,0,0,0.74,Mobil,1180
+IST-ANK,Bulut,0,75,9,Sabah,Hafta ici,0,0,0.52,Mobil,2380
+IST-ANK,Zirve,1,150,46,Sabah,Pazar,0,0,0.78,Mobil,2060
+ANK-IZM,Zirve,0,78,62,Sabah,Cumartesi,0,0,0.67,Mobil,2580
+ANK-TZX,Bulut,0,81,59,Sabah,Cuma,0,0,0.89,Mobil,2610
+ANK-IZM,Kanat,0,68,12,Aksam,Hafta ici,0,0,0.97,Masaustu,2700
+IST-ANT,Kanat,1,232,31,Sabah erken,Pazar,0,1,0.6,Masaustu,1590
+IST-ANT,Bulut,0,78,13,Gece,Cuma,0,1,0.44,Mobil,2320
+IST-ANT,Zirve,0,83,31,Gece,Hafta ici,0,0,0.78,Mobil,1640
+IST-IZM,Bulut,0,70,20,Sabah erken,Pazar,0,0,0.55,Mobil,1610
+IST-ANT,Bulut,0,88,67,Ogle,Pazar,0,1,0.5,Mobil,2800
+IST-ANT,Bulut,0,82,68,Gece,Cuma,0,0,0.75,Masaustu,1700
+IST-TZX,Bulut,0,114,74,Gece,Cumartesi,0,1,0.71,Mobil,2370
+IZM-ANT,Bulut,0,63,18,Aksam,Hafta ici,0,0,0.31,Masaustu,1700
+ANK-TZX,Bulut,0,80,1,Sabah erken,Hafta ici,0,1,0.68,Masaustu,4200
+IST-ANK,Bulut,0,75,3,Sabah erken,Hafta ici,0,0,0.66,Mobil,3000
+IST-ANT,Bulut,0,75,76,Aksam,Hafta ici,0,0,0.86,Mobil,2350
+IST-ANK,Zirve,0,73,82,Sabah,Hafta ici,1,1,0.65,Masaustu,4670
+IST-IZM,Bulut,0,74,19,Aksam,Hafta ici,0,0,0.79,Mobil,1680
+IST-IZM,Kanat,0,71,79,Aksam,Pazar,0,1,0.55,Mobil,2510
+IST-ANK,Kanat,1,156,48,Ogle,Hafta ici,0,0,0.34,Masaustu,1080
+ANK-IZM,Bulut,1,216,16,Sabah erken,Cumartesi,0,0,0.41,Masaustu,1150
+IST-ANT,Bulut,0,87,28,Sabah,Hafta ici,0,0,0.87,Masaustu,1560
+IZM-ANT,Bulut,0,67,24,Gece,Hafta ici,0,1,0.73,Masaustu,1500
+IST-ANK,Bulut,0,70,69,Sabah,Hafta ici,0,1,0.38,Masaustu,2350
+IST-ANK,Kanat,0,66,17,Sabah erken,Hafta ici,0,0,0.75,Mobil,1200
+IST-ANT,Bulut,0,83,16,Gece,Hafta ici,0,1,0.52,Mobil,1780
+IST-ANK,Bulut,1,187,65,Aksam,Hafta ici,0,1,0.22,Masaustu,1930
+IST-IZM,Bulut,0,74,27,Ogle,Cuma,0,0,0.55,Mobil,1730
+ANK-TZX,Bulut,0,93,22,Aksam,Hafta ici,0,0,0.74,Masaustu,1870
+IST-IZM,Kanat,1,184,73,Ogle,Hafta ici,0,0,0.73,Mobil,1250
+IST-ANK,Bulut,0,68,84,Gece,Hafta ici,0,0,0.87,Masaustu,1810
+IST-TZX,Zirve,0,119,50,Gece,Hafta ici,0,1,0.58,Masaustu,2550
+IST-ANT,Zirve,0,79,75,Sabah,Hafta ici,0,0,0.65,Masaustu,3020
+IST-TZX,Bulut,0,111,76,Sabah,Hafta ici,0,0,0.61,Mobil,2990
+IST-IZM,Kanat,1,222,53,Sabah,Cuma,0,1,0.51,Mobil,1820
+IZM-ANT,Bulut,0,60,75,Aksam,Cuma,0,0,0.46,Mobil,2660
+IST-ANK,Bulut,0,73,0,Aksam,Pazar,0,1,0.65,Mobil,6110
+IST-ANT,Kanat,0,79,3,Ogle,Cumartesi,0,1,0.62,Mobil,3510
+IST-VAN,Zirve,1,298,80,Gece,Hafta ici,0,0,0.85,Masaustu,2290
+IZM-ANT,Kanat,0,60,12,Ogle,Hafta ici,1,0,0.82,Masaustu,3320
+IST-IZM,Kanat,0,61,66,Aksam,Hafta ici,1,0,0.9,Mobil,3190
+IST-TZX,Kanat,0,116,38,Aksam,Cuma,0,1,0.73,Masaustu,2220
+IST-ANK,Kanat,1,264,71,Ogle,Hafta ici,1,0,0.88,Mobil,2360
+IST-ANK,Zirve,0,72,60,Sabah erken,Hafta ici,0,1,0.61,Mobil,2510
+IST-ANK,Bulut,0,68,6,Aksam,Pazar,0,1,0.68,Masaustu,3560
+ANK-IZM,Kanat,1,158,30,Aksam,Hafta ici,0,0,0.88,Masaustu,1260
+IST-IZM,Bulut,0,68,64,Sabah erken,Hafta ici,0,1,0.68,Masaustu,2140
+ANK-IZM,Kanat,0,73,83,Aksam,Pazar,1,1,0.45,Mobil,4080
+IST-ANK,Kanat,0,73,73,Ogle,Hafta ici,1,0,0.92,Mobil,3010
+IZM-ANT,Kanat,0,65,81,Sabah,Hafta ici,0,1,0.75,Mobil,2440
+IZM-ANT,Bulut,0,55,87,Aksam,Hafta ici,0,0,0.65,Masaustu,2300
+IST-ANK,Kanat,0,66,81,Sabah,Hafta ici,0,1,0.46,Mobil,2390
+IST-ANK,Zirve,0,66,52,Aksam,Pazar,0,1,0.21,Mobil,3520
+IST-ANK,Kanat,0,67,30,Aksam,Cuma,0,0,0.96,Mobil,2130
+IZM-ANT,Bulut,0,69,46,Sabah erken,Hafta ici,0,0,0.9,Mobil,1580
+IST-IZM,Zirve,1,154,72,Ogle,Hafta ici,0,0,0.81,Mobil,1980
+IST-ANT,Kanat,0,84,38,Sabah,Hafta ici,0,0,0.66,Masaustu,1570
+IST-ANT,Kanat,0,85,75,Sabah,Cuma,0,1,0.67,Mobil,3030
+ANK-IZM,Zirve,0,65,63,Aksam,Hafta ici,1,0,0.84,Mobil,3690
+IST-ANT,Bulut,0,78,19,Sabah erken,Hafta ici,0,1,0.58,Masaustu,1970
+IST-ANT,Bulut,0,86,83,Gece,Cuma,0,0,0.71,Mobil,2020
+ANK-TZX,Kanat,0,86,77,Sabah,Pazar,0,0,0.75,Mobil,2670
+IST-ANK,Kanat,0,72,54,Sabah,Pazar,0,0,0.75,Masaustu,2270
+IZM-ANT,Bulut,0,66,17,Gece,Cumartesi,0,0,0.84,Mobil,1250
+IST-ANK,Zirve,0,66,20,Ogle,Hafta ici,0,1,0.37,Masaustu,2310
+IST-ANT,Kanat,1,211,76,Aksam,Cumartesi,0,0,0.29,Mobil,1740
+IZM-ANT,Zirve,1,217,1,Aksam,Pazar,0,1,0.89,Masaustu,5620
+IST-VAN,Bulut,0,136,44,Gece,Hafta ici,0,1,0.9,Mobil,2590
+IST-VAN,Kanat,0,137,56,Sabah erken,Hafta ici,0,0,0.7,Mobil,1980
+IST-IZM,Kanat,0,61,21,Sabah erken,Hafta ici,1,0,0.65,Mobil,2040
+IST-ANT,Kanat,0,78,78,Gece,Pazar,0,0,0.74,Mobil,1820
+IST-IZM,Bulut,1,196,47,Sabah erken,Pazar,0,0,0.67,Mobil,1300
+IST-ANT,Bulut,1,197,6,Aksam,Cumartesi,0,1,0.8,Mobil,3070
+IST-ANT,Bulut,0,76,29,Aksam,Hafta ici,0,0,0.59,Mobil,1560
+IST-IZM,Kanat,1,159,36,Ogle,Pazar,0,0,0.67,Mobil,1150
+IST-IZM,Bulut,0,61,20,Aksam,Hafta ici,1,0,0.57,Mobil,2810
+IST-IZM,Bulut,1,237,85,Gece,Hafta ici,0,0,0.69,Mobil,1290
+IST-IZM,Bulut,0,60,32,Sabah erken,Cuma,0,1,0.36,Mobil,1700
+IST-ANK,Bulut,0,69,45,Aksam,Cumartesi,0,1,0.61,Masaustu,2250
+IZM-ANT,Kanat,0,65,48,Aksam,Pazar,0,1,0.89,Masaustu,2600
+IST-TZX,Bulut,1,199,20,Sabah,Hafta ici,0,0,0.64,Mobil,1860
+IST-ANK,Kanat,0,70,51,Gece,Hafta ici,0,0,0.87,Masaustu,1240
+IST-VAN,Kanat,0,140,32,Ogle,Hafta ici,0,0,0.59,Masaustu,1650
+IZM-ANT,Kanat,0,64,0,Sabah,Hafta ici,0,1,0.45,Masaustu,4400
+IST-IZM,Bulut,0,73,37,Gece,Pazar,0,0,0.68,Mobil,1370
+IST-ANK,Bulut,1,225,53,Gece,Hafta ici,0,0,0.31,Mobil,1040
+IST-ANK,Kanat,0,68,10,Sabah erken,Hafta ici,1,1,0.37,Masaustu,3680
+IST-ANK,Zirve,0,73,70,Aksam,Hafta ici,0,1,0.74,Mobil,3110
+ANK-IZM,Zirve,0,76,60,Sabah,Cuma,0,0,0.66,Masaustu,2970
+ANK-TZX,Kanat,0,84,28,Sabah erken,Pazar,0,0,0.49,Masaustu,1520
+IST-ANK,Bulut,0,73,53,Sabah,Hafta ici,0,1,0.46,Mobil,2370
+ANK-IZM,Kanat,0,71,27,Gece,Hafta ici,0,0,0.65,Mobil,1000
+IST-ANK,Zirve,0,69,58,Sabah erken,Pazar,0,1,0.87,Mobil,2930
+IST-TZX,Kanat,0,107,14,Sabah erken,Hafta ici,0,0,0.61,Masaustu,1540
+ANK-IZM,Kanat,0,65,55,Aksam,Hafta ici,1,1,0.93,Masaustu,3620
+IST-IZM,Bulut,0,71,5,Ogle,Hafta ici,0,1,0.92,Masaustu,3820
+IST-ANK,Kanat,0,77,1,Sabah erken,Pazar,0,0,0.68,Mobil,3690
+IST-TZX,Bulut,1,249,23,Sabah,Cuma,0,1,0.56,Masaustu,2100
+ANK-TZX,Bulut,1,206,15,Aksam,Hafta ici,0,0,0.59,Mobil,1890
+IST-IZM,Kanat,0,60,44,Aksam,Hafta ici,0,0,0.63,Mobil,1430
+IST-ANK,Bulut,0,74,15,Aksam,Hafta ici,0,0,0.34,Mobil,2190
+IST-ANK,Zirve,1,174,22,Sabah erken,Hafta ici,0,1,0.77,Mobil,2060
+IST-ANT,Zirve,0,83,8,Ogle,Hafta ici,0,0,0.5,Mobil,3220
+IST-TZX,Bulut,0,119,80,Aksam,Hafta ici,0,0,0.76,Mobil,3070
+ANK-IZM,Kanat,0,65,66,Sabah,Hafta ici,0,1,0.9,Mobil,2260
+ANK-IZM,Kanat,0,73,19,Sabah,Hafta ici,0,1,0.68,Mobil,1750
+IZM-ANT,Zirve,0,69,10,Sabah,Hafta ici,0,0,0.48,Mobil,2780
+ANK-IZM,Bulut,0,70,77,Sabah,Hafta ici,0,0,0.78,Masaustu,2330
+IST-IZM,Bulut,0,72,60,Sabah,Cumartesi,0,0,0.82,Mobil,1960
+IST-ANT,Zirve,1,250,80,Gece,Hafta ici,0,0,0.64,Mobil,1820
+IST-IZM,Kanat,0,67,16,Ogle,Pazar,1,1,0.84,Mobil,2850
+IST-IZM,Bulut,0,64,32,Aksam,Pazar,0,1,0.87,Mobil,2220
+ANK-TZX,Kanat,0,90,10,Sabah erken,Pazar,0,0,0.49,Mobil,2120
+IST-VAN,Kanat,0,139,38,Aksam,Hafta ici,0,0,0.34,Mobil,1930
+ANK-TZX,Bulut,0,87,14,Ogle,Hafta ici,0,0,0.64,Masaustu,1840
+IST-ANT,Kanat,0,77,0,Gece,Cuma,0,0,0.56,Mobil,4110
+IST-ANT,Zirve,0,86,46,Ogle,Hafta ici,0,0,0.77,Mobil,2070
+IST-ANT,Kanat,0,78,89,Aksam,Hafta ici,0,0,0.77,Masaustu,2320
+IST-ANK,Zirve,1,151,58,Sabah,Hafta ici,0,0,0.5,Mobil,1880
+IST-IZM,Bulut,0,61,68,Ogle,Cuma,0,0,0.62,Mobil,2240
+IST-ANT,Bulut,1,165,73,Gece,Cumartesi,0,1,0.71,Mobil,1720
+IST-ANK,Zirve,0,66,88,Aksam,Hafta ici,0,1,0.69,Masaustu,3460
+ANK-TZX,Bulut,0,85,11,Aksam,Pazar,0,0,0.54,Mobil,3000
+IST-ANK,Kanat,0,68,22,Gece,Cumartesi,0,0,0.47,Mobil,1170
+IST-ANK,Kanat,0,71,56,Gece,Hafta ici,0,1,0.57,Mobil,1510
+ANK-IZM,Kanat,0,76,74,Sabah,Hafta ici,0,0,0.41,Mobil,2000
+IST-ANK,Zirve,0,71,70,Sabah,Hafta ici,0,1,0.76,Mobil,2930
+IZM-ANT,Bulut,0,63,66,Ogle,Pazar,0,0,0.2,Mobil,2090
+ANK-IZM,Kanat,0,67,28,Gece,Cuma,1,1,0.83,Mobil,2190
+IST-ANK,Kanat,1,156,33,Ogle,Cuma,0,0,0.7,Mobil,1170
+IST-VAN,Bulut,0,144,7,Sabah,Cuma,0,1,0.8,Masaustu,5100
+IST-TZX,Bulut,0,114,28,Ogle,Hafta ici,0,0,0.92,Mobil,2060
+ANK-IZM,Kanat,1,145,14,Sabah erken,Pazar,0,1,0.88,Mobil,1980
+IZM-ANT,Zirve,1,226,85,Sabah,Pazar,0,1,0.87,Mobil,3110
+IST-VAN,Bulut,0,130,8,Sabah erken,Cuma,0,0,0.84,Masaustu,3560
+IST-TZX,Zirve,0,106,33,Sabah erken,Hafta ici,1,1,0.71,Masaustu,3560
+IST-IZM,Kanat,0,65,80,Aksam,Hafta ici,0,0,0.81,Mobil,1990
+IST-VAN,Bulut,0,139,86,Sabah,Hafta ici,0,0,0.43,Mobil,3220
+ANK-TZX,Kanat,0,89,34,Sabah,Hafta ici,0,0,0.61,Mobil,1510
+IST-TZX,Kanat,0,116,42,Ogle,Hafta ici,0,1,0.69,Mobil,2180
+IST-VAN,Bulut,0,132,47,Sabah,Cumartesi,0,1,0.79,Mobil,2920
+IST-ANT,Bulut,0,77,74,Sabah,Pazar,0,0,0.46,Mobil,2680
+ANK-IZM,Kanat,1,156,69,Sabah,Hafta ici,1,1,0.82,Masaustu,2690
+ANK-TZX,Zirve,1,228,47,Sabah erken,Hafta ici,0,1,0.52,Mobil,2090
+IST-ANK,Kanat,1,251,33,Aksam,Hafta ici,0,1,0.47,Mobil,1610
+IST-IZM,Bulut,0,70,33,Sabah erken,Pazar,0,0,0.73,Mobil,1440
+IST-ANT,Zirve,0,76,59,Sabah,Cumartesi,0,0,0.8,Mobil,2910
+IST-ANT,Bulut,0,88,76,Sabah,Hafta ici,0,0,0.66,Mobil,2520
+IST-TZX,Zirve,0,119,6,Sabah,Hafta ici,0,0,0.67,Masaustu,4740
+IST-ANK,Bulut,0,73,69,Sabah,Hafta ici,0,0,0.59,Mobil,2140
+IST-ANT,Zirve,0,80,43,Sabah,Hafta ici,0,1,0.89,Mobil,3010
+IST-TZX,Bulut,0,114,13,Sabah,Hafta ici,0,1,0.23,Mobil,2850
+IST-TZX,Bulut,0,114,8,Sabah erken,Hafta ici,0,1,0.66,Masaustu,3230
+IST-TZX,Kanat,0,118,30,Gece,Hafta ici,0,0,0.69,Masaustu,1220
+ANK-IZM,Bulut,0,66,22,Sabah,Hafta ici,0,0,0.64,Mobil,1660
+IST-TZX,Kanat,0,112,9,Sabah erken,Hafta ici,0,1,0.64,Masaustu,2880
+ANK-IZM,Zirve,0,75,26,Ogle,Cuma,0,0,0.79,Mobil,1930
+IST-TZX,Kanat,1,271,75,Sabah erken,Hafta ici,0,1,0.71,Mobil,1960
+IST-ANT,Kanat,0,87,65,Aksam,Hafta ici,0,0,0.73,Mobil,1980
+IST-TZX,Zirve,0,105,19,Sabah erken,Pazar,0,0,0.68,Masaustu,2720
+IST-ANK,Kanat,1,161,61,Ogle,Hafta ici,0,1,0.49,Masaustu,1550
+IST-IZM,Kanat,0,71,41,Gece,Cuma,0,1,0.89,Masaustu,1700
+IST-ANT,Bulut,0,76,67,Sabah,Hafta ici,0,0,0.57,Masaustu,2240
+IZM-ANT,Kanat,0,61,22,Sabah,Cuma,0,1,0.71,Mobil,2050
+IST-VAN,Kanat,0,134,5,Aksam,Hafta ici,0,0,0.87,Masaustu,4470
+IST-ANK,Bulut,0,75,28,Gece,Hafta ici,1,0,0.67,Mobil,1510
+IST-TZX,Kanat,1,248,90,Sabah,Hafta ici,0,0,0.82,Masaustu,2100
+IST-IZM,Kanat,1,215,50,Aksam,Cuma,0,1,0.68,Mobil,1900
+ANK-IZM,Kanat,0,79,4,Sabah,Cuma,0,1,0.72,Mobil,3980
+IZM-ANT,Kanat,0,60,88,Aksam,Cuma,0,0,0.5,Mobil,2430
+IST-TZX,Kanat,0,113,75,Sabah,Hafta ici,0,1,0.26,Mobil,2680
+IST-TZX,Kanat,0,119,49,Aksam,Cuma,0,1,0.2,Mobil,2560
+IST-IZM,Bulut,0,69,67,Sabah erken,Hafta ici,0,0,0.68,Masaustu,1670
+IST-ANT,Bulut,0,86,16,Ogle,Hafta ici,0,0,0.57,Masaustu,1690
+IZM-ANT,Kanat,1,181,53,Sabah,Hafta ici,0,0,0.45,Mobil,1340
+ANK-IZM,Kanat,0,74,83,Aksam,Hafta ici,0,0,0.77,Mobil,2010
+IST-ANT,Zirve,0,87,39,Aksam,Cumartesi,0,1,0.87,Mobil,2880
+IST-IZM,Bulut,0,67,3,Aksam,Hafta ici,0,1,0.85,Mobil,4010
+IST-ANK,Bulut,0,77,68,Gece,Hafta ici,0,0,0.63,Mobil,1560
+IST-ANK,Bulut,0,74,66,Ogle,Pazar,0,0,0.48,Mobil,2180
+IST-ANK,Kanat,0,70,67,Aksam,Pazar,0,0,0.67,Masaustu,2270
+IST-IZM,Zirve,0,68,59,Sabah erken,Hafta ici,0,0,0.79,Mobil,2040
+ANK-TZX,Zirve,1,241,12,Gece,Pazar,0,0,0.87,Masaustu,2400
+IST-ANT,Zirve,0,80,10,Aksam,Hafta ici,0,0,0.73,Mobil,3060
+IST-IZM,Kanat,1,145,72,Ogle,Pazar,0,0,0.66,Masaustu,1550
+IST-ANK,Kanat,0,72,77,Ogle,Hafta ici,0,0,0.54,Masaustu,1920
+IST-IZM,Kanat,0,65,7,Aksam,Hafta ici,0,0,0.85,Mobil,2620
+ANK-IZM,Kanat,0,74,52,Aksam,Pazar,0,0,0.72,Mobil,2240
+IST-ANT,Kanat,0,80,45,Aksam,Hafta ici,1,0,0.71,Masaustu,2610
+ANK-IZM,Bulut,0,72,31,Ogle,Cumartesi,0,0,0.71,Mobil,1260
+ANK-IZM,Kanat,0,67,58,Sabah,Hafta ici,0,0,0.41,Mobil,1690
+IST-ANK,Zirve,0,70,83,Gece,Hafta ici,0,0,0.78,Mobil,2160
+IST-TZX,Kanat,0,110,74,Aksam,Pazar,1,1,0.76,Mobil,5190
+ANK-TZX,Kanat,1,261,13,Ogle,Hafta ici,0,0,0.88,Mobil,1550
+IST-ANT,Zirve,1,209,42,Ogle,Pazar,1,1,0.82,Mobil,3300
+IST-ANK,Bulut,0,65,85,Aksam,Pazar,0,0,0.2,Mobil,2860
+ANK-TZX,Kanat,0,84,21,Aksam,Hafta ici,0,0,0.91,Mobil,1940
+IZM-ANT,Bulut,1,238,77,Ogle,Hafta ici,0,0,0.85,Masaustu,1450
+IST-ANT,Kanat,0,77,44,Gece,Hafta ici,0,1,0.77,Mobil,1450
+IST-ANT,Kanat,0,77,47,Gece,Hafta ici,0,1,0.67,Masaustu,1680
+IST-IZM,Bulut,0,65,22,Ogle,Hafta ici,0,0,0.82,Mobil,1530
+ANK-IZM,Kanat,0,70,83,Sabah,Hafta ici,0,0,0.74,Mobil,1940
+IST-ANT,Bulut,0,82,48,Ogle,Cumartesi,0,1,0.64,Mobil,1990
